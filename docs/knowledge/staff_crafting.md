@@ -11,19 +11,19 @@ Priests and Wizards are able to craft staves by speaking to the Woodland Priest 
 
 | **Name** | **Requirements** |
 | - | - |
-| Holy Apollo | 1 Finished Ruby, Strong Stick, 250,000 Gold |
-| Holy Diana | 2 Finished Coral, Strong Stick, 250,000 Gold |
-| Holy Kronos | 1 Uncut Beryl, Strong Stick, 250,000 Gold |
-| Holy Gaea | 1 Uncut Coral, Strong Stick, 250,000 Gold |
-| Holy Zeus | 2 Finished Beryl, Strong Stick, 250,000 Gold |
+| Holy Apollo | 1 Finished Ruby <br> Strong Stick <br> 250,000 Gold |
+| Holy Diana | 2 Finished Coral <br> Strong Stick <br> 250,000 Gold |
+| Holy Kronos | 1 Uncut Beryl <br> Strong Stick <br> 250,000 Gold |
+| Holy Gaea | 1 Uncut Coral <br> Strong Stick <br> 250,000 Gold |
+| Holy Zeus | 2 Finished Beryl <br> Strong Stick <br> 250,000 Gold |
 
 ## Wizard Staves
 
 | **Name** | **Requirements** |
 | - | - |
-| Magus Apollo | 1 Finished Ruby, Strong Stick, 250,000 Gold |
-| Magus Diana | 2 Finished Coral, Strong Stick, 250,000 Gold |
-| Magus Kronos | 1 Uncut Beryl, Strong Stick, 250,000 Gold |
-| Magus Gaea | 1 Uncut Coral, Strong Stick, 250,000 Gold |
-| Magus Zeus | 2 Finished Beryl, Strong Stick, 250,000 Gold |
+| Magus Apollo | 1 Finished Ruby <br> Strong Stick <br> 250,000 Gold |
+| Magus Diana | 2 Finished Coral <br> Strong Stick <br> 250,000 Gold |
+| Magus Kronos | 1 Uncut Beryl <br> Strong Stick <br> 250,000 Gold |
+| Magus Gaea | 1 Uncut Coral <br> Strong Stick <br> 250,000 Gold |
+| Magus Zeus | 2 Finished Beryl <br> Strong Stick <br> 250,000 Gold |
 
