@@ -6,6 +6,10 @@ Fragments of Temuair is a Dark Ages-inspired game created by Slyk, built upon th
 
 ## News
 
+**2021-06-29**
+
+The Flatskull's Fleet instance has been found on Lynith Beach!
+
 **2021-06-25**
 
 Class-specific solo instances have been released.
