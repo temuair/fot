@@ -1,6 +1,6 @@
 # Quests
 
-## Normal
+## General Quests
 
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
@@ -8,11 +8,9 @@
 | [Broken Pen](../broken_pen) | 3 | 3,000 XP <br> 1,000 Gold <br> Random Item | A wolf has slipped through a broken fence and is terrorizing a Mileth farm. |
 | Devlin's Bookshelf | 3 | 30,000 XP <br> 25,000 Gold <br> Hydele Deum <br> Beag Ioc Deum | |
 | Connor's Pests  | 3 | ? | |
-| Annebelle's Letter <br>(Heart of Fire) | Start: 1 <br> Finish: 21 | ? | |
+| Annebelle's Letter <br>(Heart of Fire) | 21 | ? | |
 | Bee Quest | 6 | 100,000 XP |  |
-| Dark Things | 5 (Wizard) | 1,500 | |
-| Wizardry Things | 5 (Wizard) | 6,750 XP | |
-| [Gain a Religion](../../religion) | 8 | 500 XP <br> 5,000 Gold <br> Permanent Stats | Warning: You cannot change religions! |
+| [Gain a Religion](../../religion) | 8 | 500 XP <br> 5,000 Gold <br> Permanent Stats | Choose a religion. <br> Warning: You cannot change religions! |
 | Tagor Protector | 8 | 80,000 XP <br> "Tagor Historian" Legend Mark | |
 | Terror of the Crypt | 11 | 35,000 XP <br> 10,000 Gold <br> "Slew the Terror of the Crypt" Legend Mark | |
 | Dire Wolf Fabric | 10 | 20,000 XP <br> 10,000 Gold <br> Access to Abel Island |   |
@@ -35,13 +33,12 @@
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
 | Calvin's Item Retrieval | 1 | 10,000 XP <br> 2,500 Gold | |
-| [Collect Holy Water](../holy_water) | 5 (Priest) | LVL\*1000 + COMPLETIONS\*1500 <br> XP and Gold | Collect water from Sapphire Stream for the Mileth Priest |
 | Nigel's Quest | 8 | Ciad Necklace (+1 Random Stat) OR<br> Tiota Necklace (+2 Random Stat) |  |
 | Ansels Lost Item | 21 | +3/+4 Random Stat Shield  |  |
-| Goblin: Fight Grimlocks | ? | ? |  |
-| Goblin: Precious Gems | ? | ? |  |
-| Goblin: Rare Weapons | ? | ? |  |
-| Goblin: The Talos Mine | ? | ? |  |
+| [Goblin: Fight Grimlocks](../goblin) | Requires <br> Goblin Honour | Variable Experience |  |
+| [Goblin: Precious Gems](../goblin) | Requires <br> Goblin Honour | Variable Experience |  |
+| [Goblin: Rare Weapons](../goblin) | Requires <br> Goblin Honour | Variable Experience | Collect a Grimlock Dagger. |
+| [Goblin: The Talos Mine](../goblin) | Requires <br> Goblin Honour | Variable Experience |  |
 | Grimlock: Fight Goblins | ? | ? |  |
 | Grimlock: Precious Gems | ? | ? |  |
 | Grimlock: Rare Weapons | ? | ? |  |
@@ -51,9 +48,24 @@
 | Abel Crypt Gauntlet | 65 | 650,000 XP <br> 150,000 Gold <br> Class Fragment |  |
 | The Draco Hunt | 65? | 150,000 XP <br> 50,000 Gold |  |
 
-## Class Instances
+## Class Quests
+
+### Priest
+
+| Name | Level | Rewards | Summary |
+| - | - | - | - |
+| [Collect Holy Water](../holy_water) | 5 (Priest) | LVL\*1000 + COMPLETIONS\*1500 <br> XP and Gold | Collect water from Sapphire Stream for the Mileth Priest |
+
+### Rogue
 
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
 | [Dubhaim Crypt](../dubhaim_crypt) | 11+ (Rogue) | Dubhaim Ore <br> Experience | Venture into Dubhaim Crypt to recover Dubhaim Ore. |
+
+### Wizard
+
+| Name | Level | Rewards | Summary |
+| - | - | - | - |
+| Dark Things | 5 (Wizard) | 1,500 | |
+| Wizardry Things | 5 (Wizard) | 6,750 XP | |
 
