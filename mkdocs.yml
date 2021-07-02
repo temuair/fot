@@ -1,0 +1,51 @@
+site_name: Fragments of Temuair
+
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+          primary: blue grey
+          accent: blue
+  icon:
+          logo: material/wizard-hat
+  favicon: assets/wizard-hat.png
+
+extra_css:
+        - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Resources: resources.md
+  - Classes:
+          - Overview: classes/overview.md
+          - Subbing: classes/subbing.md
+  - Quests: quests/overview.md
+  - Religion: religion.md
+  - Hunting: hunting.md
+  - Fragments: fragments.md
+  - Specializations: specializations.md
+  - Upgrades: upgrades.md
+  - Knowledge:
+          - Backpack: knowledge/backpack.md
+          - Armour Dyeing: knowledge/armour_dyeing.md
+          - Temuair Marketplace: knowledge/marketplace.md
+          - Labour: knowledge/labour.md
+          - Books: knowledge/books.md
+          - Spell Panes: knowledge/spell_panes.md
+          - Gem Smithing: knowledge/gem_smithing.md
+          - Ring Smithing: knowledge/ring_smithing.md
+          - Staff Crafting: knowledge/staff_crafting.md
+          - Sapphire Stream: knowledge/sapphire_stream.md
+  - Spells:
+          - Priest: spells/priest.md
+  - Weapons:
+          - All: weapons/all.md
+          - Warrior: weapons/warrior.md
+          - Priest: weapons/priest.md
+          - Wizard: weapons/wizard.md
+          - Rogue: weapons/rogue.md

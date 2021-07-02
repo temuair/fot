@@ -1,0 +1,14 @@
+:root {
+	--md-default-fg-color--light: hsl(198.3, 17.6%, 55%);
+}
+
+table { border: none; border-collapse: collapse; }
+table td { border-left: .05rem solid var(--md-default-fg-color--lightest)}
+
+.md-typeset__table {
+	min-width: 100%;
+}
+
+.md-typeset table:not([class]) {
+	display: table;
+}
