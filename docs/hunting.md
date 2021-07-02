@@ -7,6 +7,8 @@
 
 ## Noteworthy Areas
 
+This is not an exhaustive list of all hunting areas, but rather some recommended hunting areas.
+
 | **Name** | **Level Range** | **Notes** |
 | - | - | - |
 | Astrid (South) | 11-25 | All enemies are passive. |
