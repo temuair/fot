@@ -9,6 +9,8 @@ The Goblin Foreman can be found in the Goblin Hideouot, which is found by travel
 
 ## Fight Grimlocks
 
+You will need to slay any 10 Grimlocks in Pravat Cave and return to the Goblin Foreman for your reward. The reward is 50,000 XP.
+
 ## Precious Gems
 
 ## Rare Weapons
