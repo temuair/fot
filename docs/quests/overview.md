@@ -35,14 +35,14 @@
 | Calvin's Item Retrieval | 1 | 10,000 XP <br> 2,500 Gold | |
 | Nigel's Quest | 8 | Ciad Necklace (+1 Random Stat) OR<br> Tiota Necklace (+2 Random Stat) |  |
 | Ansels Lost Item | 21 | +3/+4 Random Stat Shield  |  |
-| [Goblin: Fight Grimlocks](../goblin) | Requires <br> Goblin Honour | Variable Experience |  |
+| [Goblin: Fight Grimlocks](../goblin) | Requires <br> Goblin Honour | 50,000 Gold | Slay Grimlocks. |
 | [Goblin: Precious Gems](../goblin) | Requires <br> Goblin Honour | Variable Experience |  |
 | [Goblin: Rare Weapons](../goblin) | Requires <br> Goblin Honour | Variable Experience | Collect a Grimlock Dagger. |
 | [Goblin: The Talos Mine](../goblin) | Requires <br> Goblin Honour | Variable Experience |  |
-| Grimlock: Fight Goblins | ? | ? |  |
-| Grimlock: Precious Gems | ? | ? |  |
-| Grimlock: Rare Weapons | ? | ? |  |
-| Grimlock: The Talos Mine | ? | ? |  |
+| [Grimlock: Fight Goblins](../grimlock) | Requires <br> Grimlock Honour | 50,000 Gold | Slay Goblins. |
+| [Grimlock: Precious Gems](../grimlock) | Requires <br> Grimlock Honour | ? |  |
+| [Grimlock: Rare Weapons](../grimlock) | Requires <br> Grimlock Honour | ? |  |
+| [Grimlock: The Talos Mine](../grimlock) | Requires <br> Grimlock Honour | ? |  |
 | The Beggar's Cellar <br> (Solo Instance) | 20 | 25,000 XP <br> 25,000 Gold |  |
 | The Gauntlet | 41 | 871,000 XP <br> Cap of Danaan <br> Random Items |  |
 | Abel Crypt Gauntlet | 65 | 650,000 XP <br> 150,000 Gold <br> Class Fragment |  |
