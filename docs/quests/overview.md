@@ -51,22 +51,29 @@
 
 ## Class Quests
 
+### Monk
+
+| Name | Level | Rewards | Summary |
+| - | - | - | - |
+| [Sapphire Grove](../sapphire_grove) | 11+ | Sapphire Crystal <br> Experience | Venture into the Sapphire Grove to obtain Sapphire Crystals. |
+
 ### Priest
 
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
-| [Collect Holy Water](../holy_water) | 5 (Priest) | LVL\*1000 + COMPLETIONS\*1500 <br> XP and Gold | Collect water from Sapphire Stream for the Mileth Priest |
+| [Collect Holy Water](../holy_water) | 5 | LVL\*1000 + COMPLETIONS\*1500 <br> XP and Gold | Collect water from Sapphire Stream for the Mileth Priest |
 
 ### Rogue
 
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
-| [Dubhaim Crypt](../dubhaim_crypt) | 11+ (Rogue) | Dubhaim Ore <br> Experience | Venture into Dubhaim Crypt to recover Dubhaim Ore. |
+| [Dubhaim Crypt](../dubhaim_crypt) | 11+ | Dubhaim Ore <br> Experience | Venture into Dubhaim Crypt to recover Dubhaim Ore. |
 
 ### Wizard
 
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
-| Dark Things | 5 (Wizard) | 1,500 | |
-| Wizardry Things | 5 (Wizard) | 6,750 XP | |
+| Dark Things | 5 | 1,500 | |
+| Wizardry Things | 5 | 6,750 XP | |
+| [Undiam Village](../undiam_village) | 11+ | Undiam Ore <br> Experience | Venture into Undiam Village to recover Undiam Ore. |
 
