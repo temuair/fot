@@ -1,29 +1,29 @@
 # Priest
 
-|**Name**|**Stats**|**Location**|**Requirements**|**Info**|
+|**Name**|**Stats**|**Location**|**Requirements**|**Effect**|
 |-|-|-|-|-|
-|Beannaich|Level 5 <br> 3 6 9 3 6|Devlin (Mileth)|5,000 Gold||
-|Ao Beag Cradh|Level 5 <br> 3 5 9 3 3|Devlin (Mileth)| 1,000 Gold||
-|Armachd|Level 5 <br> 3 3 5 5 3|Devlin (Mileth)|1,000 Gold||
-|Fas Deireas|Level 5 <br> 6 6 9 3 3|Devlin (Mileth)|5,000 Gold <br> Beannaich 30||
-|Beag Ioc|Level 5 <br> 3 3 3 3 3|Devlin (Mileth)|500 Gold||
-|Beag Ioc Colmha|Level 5 <br> 3 14 22 3 3|Devlin (Mileth)|2,500 Gold <br> Beag Ioc 30||
-|Herbal Lore|Level 5 <br> 3 5 5 3 3|Edlyn (Piet)|5,000 Gold||
-|Beag Cradh|Level 6 <br> 3 7 15 3 3|Dar (Mileth)|5,000 Gold||
-|Ioc|Level 10 <br> 3 13 14 3 3|Devlin (Mileth)|5,000 Gold||
-|Mor Beannaich|Level 10 <br> 4 12 20 4 9|Edlyn (Piet)|Raw Honey x 1 <br> 5,000 Gold <br> Beannaich 10||
-|Deo Lamh|Level 11 <br> 3 14 10 5 3|Edlyn (Piet)|5,000 Gold||
-|Ao Cradh|Level 12 <br> 3 16 23 3 3|Devlin (Mileth)|5,000 Gold||
-|Ao Dall|Level 12 <br> 3 10 14 6 9|Devlin (Mileth)|5,000 Gold||
-|Ao Puinsein|Level 12 <br> 3 8 11 4 3|Devlin (Mileth)|5,000 Gold||
-|Ioc Comlha|Level 15 <br> 4 18 28 4 4|Devlin (Mileth)|Cherry x 1 <br> 5000 Gold <br> Beag Ioc Colmha 20||
-|Slan|Level 15 <br> 8 8 32 163|Edlyn (Piet)|Wolf's Fur x 1 <br> 10,000 Gold||
-|Puinsein|Level 15 <br> 10 30 24 30 24|Rangvald (Suomi)|Scorpion's Sting x 1 <br> Wolf's Lock x 1 <br> 20,000 Gold <br> Beag Puinsein 10||
-|Deo Saighead|Level 16 <br> 3 40 50 3 3|Rangvald (Suomi)|Goblin's Skull x 1 <br> 2,500 Gold <br> Ioc lvl 45||
-|Beag Puinsein|Level 18 <br> 10 15 12 15 12|Rangvald (Suomi)|Bee's Sting x 1 <br> Centipede's Gland x 1 <br> 500 Gold||
+|Beannaich|Level 5 <br> 3 6 9 3 6|Devlin (Mileth)|5,000 Gold|+10 Hit (Dodge)|
+|Ao Beag Cradh|Level 5 <br> 3 5 9 3 3|Devlin (Mileth)| 1,000 Gold|Removes Beag Cradh|
+|Armachd|Level 5 <br> 3 3 5 5 3|Devlin (Mileth)|1,000 Gold|-10 AC|
+|Fas Deireas|Level 5 <br> 6 6 9 3 3|Devlin (Mileth)|5,000 Gold <br> Beannaich 30|+10 Damage|
+|Beag Ioc|Level 5 <br> 3 3 3 3 3|Devlin (Mileth)|500 Gold|Small heal.|
+|Beag Ioc Colmha|Level 5 <br> 3 14 22 3 3|Devlin (Mileth)|2,500 Gold <br> Beag Ioc 30|Heals your group very little|
+|Herbal Lore|Level 5 <br> 3 5 5 3 3|Edlyn (Piet)|5,000 Gold|Allows Herbalism.|
+|Beag Cradh|Level 6 <br> 3 7 15 3 3|Dar (Mileth)|5,000 Gold|+20 AC|
+|Ioc|Level 10 <br> 3 13 14 3 3|Devlin (Mileth)|5,000 Gold|Heals.|
+|Mor Beannaich|Level 10 <br> 4 12 20 4 9|Edlyn (Piet)|Raw Honey x 1 <br> 5,000 Gold <br> Beannaich 10|+20 Hit (Dodge)|
+|Deo Lamh|Level 11 <br> 3 14 10 5 3|Edlyn (Piet)|5,000 Gold|Attack with light damage around you|
+|Ao Cradh|Level 12 <br> 3 16 23 3 3|Devlin (Mileth)|5,000 Gold|Removes Cradh|
+|Ao Dall|Level 12 <br> 3 10 14 6 9|Devlin (Mileth)|5,000 Gold|Removes Dall (blind)|
+|Ao Puinsein|Level 12 <br> 3 8 11 4 3|Devlin (Mileth)|5,000 Gold| Removes Puinsein (poisoin)|
+|Ioc Comlha|Level 15 <br> 4 18 28 4 4|Devlin (Mileth)|Cherry x 1 <br> 5000 Gold <br> Beag Ioc Colmha 20|Heals everyone in your group|
+|Slan|Level 15 <br> 8 8 32 163|Edlyn (Piet)|Wolf's Fur x 1 <br> 10,000 Gold|Incrases your regeneration.|
+|Puinsein|Level 15 <br> 10 30 24 30 24|Rangvald (Suomi)|Scorpion's Sting x 1 <br> Wolf's Lock x 1 <br> 20,000 Gold <br> Beag Puinsein 10|Poisons the enemy|
+|Deo Saighead|Level 16 <br> 3 40 50 3 3|Rangvald (Suomi)|Goblin's Skull x 1 <br> 2,500 Gold <br> Ioc lvl 45|Attack with light damage at range.|
+|Beag Puinsein|Level 18 <br> 10 15 12 15 12|Rangvald (Suomi)|Bee's Sting x 1 <br> Centipede's Gland x 1 <br> 500 Gold|Weakly poisons the enemy.|
 |Beag Naomh Aite|Level 18 <br> 3 33 43 3 3|Edlyn (Piet)|Coral Earrings x 2 <br> Beothaich Deum x1 <br> 12,000 Gold <br> Armachd 20||
 |Naomh Aite|Level 18 <br> 3 53 53 13 3|Edlyn (Piet)|5 Uncut Ruby <br> 10 Uncut Beryl <br> Coral Earrings x 2 <br> 50,000 Gold <br> Beag Naomh Aite 20||
-|Cradh|Level 20 <br> 3 25 20 8 3|Rangvald (Suomi)|Bat's Wing x 3 <br> 12,000 Gold <br> Beag Cradh lvl 75||
+|Cradh|Level 20 <br> 3 25 20 8 3|Rangvald (Suomi)|Bat's Wing x 3 <br> 12,000 Gold <br> Beag Cradh lvl 75|Curses the enemy (+35 AC)|
 |Beag Pramh|Level 24 <br> 3 12 38 12 3|Rangvald (Suomi)|Royal Wax x 1 <br> Raw Honey x 1 <br> 12,000 Gold <br> Beag Puinsein lvl 10||
 |Ao Suain|Level 30 <br> 8 56 59 8 8|Devlin (Mileth)|3 Uncut Ruby <br> 6 Uncut Beryl <br> Beryl Earrings x 2 <br> 50,000 Gold <br> Ao Dall 50||
 |Puinneag Spiorad|Level 31 <br> 8 60 78 13 8|Valdemar (Undine)|3 Finished Ruby <br> 6 Finished Beryl <br> Beryl Earrings x 2 <br> 50,000 Gold <br> Deo Saighead 70||
