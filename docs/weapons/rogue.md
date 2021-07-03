@@ -61,4 +61,4 @@
 | | 88 - Fine | 100 - 140 | | | |
 | | 88 - Grand | 110 - 140 | | | |
 | | 88 - Great | 110 - 145 | +3 DEX | | |
-| Blood Dagger | 89 | 110 - 180 | Can't be smithed | | Manta/Sting Ray Drop |
+| Blood Dagger | 89 | 110 - 180 | Can't be smithed | | Mantaray Drop |
