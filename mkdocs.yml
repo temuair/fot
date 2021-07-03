@@ -50,3 +50,5 @@ nav:
           - Priest: weapons/priest.md
           - Wizard: weapons/wizard.md
           - Rogue: weapons/rogue.md
+  - Maps:
+          - Mileth Crypt: maps/mileth_crypt.md
