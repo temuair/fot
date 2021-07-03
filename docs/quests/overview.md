@@ -32,6 +32,7 @@
 
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
+| [Sign Quests](../../hunting) | Variable | Variable XP | Complete sign quests in hunting areas for XP. |
 | Calvin's Item Retrieval | 1 | 10,000 XP <br> 2,500 Gold | |
 | Nigel's Quest | 8 | Ciad Necklace (+1 Random Stat) OR<br> Tiota Necklace (+2 Random Stat) |  |
 | Ansels Lost Item | 21 | +3/+4 Random Stat Shield  |  |
