@@ -45,9 +45,10 @@
 | [Grimlock: Rare Weapons](../grimlock) | Requires <br> Grimlock Honour | ? |  |
 | [Grimlock: The Talos Mine](../grimlock) | Requires <br> Grimlock Honour | ? |  |
 | The Beggar's Cellar <br> (Solo Instance) | 20 | 25,000 XP <br> 25,000 Gold |  |
-| The Gauntlet | 41 | 871,000 XP <br> Cap of Danaan <br> Random Items |  |
-| Abel Crypt Gauntlet | 65 | 650,000 XP <br> 150,000 Gold <br> Class Fragment |  |
-| The Draco Hunt | 65? | 150,000 XP <br> 50,000 Gold |  |
+| The Gauntlet <br> (Solo Instance) | 41 | 871,000 XP <br> Cap of Danaan <br> Random Items |  |
+| [Flatskull's Fleet](../flatskulls_fleet) <br> (Group Instance) | 60 | 350,000 XP <br> 350,000 Gold <br> 5 Dubloons | Sneak onto Captain Flatskull's fleet and steal some items. |
+| Abel Crypt Gauntlet <br> (Group Instance) | 65 | 650,000 XP <br> 150,000 Gold <br> Class Fragment |  |
+| The Draco Hunt | 65 | 150,000 XP <br> 50,000 Gold |  |
 
 ## Class Quests
 

@@ -21,7 +21,7 @@
 | | 73 - Fine | 140 - 190 | | | |
 | | 74 - Grand | 145 - 195 | | | |
 | | 74 - Great | 150 - 200 | +200 HP <br> +2 CON <br> +2 DEX     | | |
-| Flatskull's Flail | 75 | 20 - 250 | +2 Damage | 500 Dubloons | Flatskull's Fleet <br> (Lynith Beach) |
+| Flatskull's Flail | 75 | 20 - 250 | +2 Damage | 500 Dubloons | [Flatskull's Fleet](../../quests/flatskulls_fleet) <br> (Lynith Beach) |
 | Two-Handed Emerald Sword | 77 | 140 - 190 | | | Monster Drop |
 | | 78 - Good | 145 - 195 | | | |
 | | 78 - Fine | 150 - 200 | | | |
