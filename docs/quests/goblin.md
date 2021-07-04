@@ -13,6 +13,8 @@ You will need to slay any 10 Grimlocks in Pravat Cave and return to the Goblin F
 
 ## Precious Gems
 
+You will need to collect 1 Flawed Ruby, 1 Flawed Coral, and 1 Flawed Beryl. Return the gems to the Goblin Foreman for your reward. You will receive a variable amount of gold, equal to (Goblin Honour) * 100.
+
 ## Rare Weapons
 
 You will need to obtain a rare Grimlock Dagger from one of the Pravat Grimlock. Slay Grimlocks until the Grimlock Dagger appears in your inventory. Return to the Goblin Foreman and receive experience for completing the quest. The amount of experience appears to be variable; perhaps related to level or Goblin honour.

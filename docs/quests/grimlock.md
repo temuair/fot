@@ -13,6 +13,8 @@ You will need to slay any 10 Goblins in Pravat Cave and return to the Grimlock Q
 
 ## Precious Gems
 
+You will need to collect 1 Finished Ruby, 1 Finished Coral, and 1 Finished Beryl. Return the gems to the Grimlock Queen for your reward. You will receive a variable amount of gold, equal to (Grimlock Honour) * 100.
+
 ## Rare Weapons
 
 ## The Talos Mine
