@@ -1,7 +1,7 @@
 # Fragments
 
 <figure>
-  <img src="../images/fragment.jpg"/>
+  <img src="../../images/fragment.jpg"/>
   <figcaption>A Fragment Sparkling on the Ground</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ When you empower an item with a fragment, its name will change to reflect that i
 ## Removing Fragments
 
 <figure>
-  <img src="../images/randel.jpg"/>
+  <img src="../../images/randel.jpg"/>
   <figcaption>Randel in the Tagor Dark Wizard Shop</figcaption>
 </figure>
 

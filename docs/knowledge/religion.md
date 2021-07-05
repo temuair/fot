@@ -1,7 +1,7 @@
 # Religion
 
 <figure>
-  <img src="../images/glioca_temple.jpg" />
+  <img src="../../images/glioca_temple.jpg" />
   <figcaption>Glioca's Temple</figcaption>
 </figure>
 

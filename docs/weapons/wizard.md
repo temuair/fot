@@ -1,6 +1,6 @@
 # Wizard
 
-While most staves have a low chance of dropping in higher-level hunting areas, many Wizard staves can be obtained from an [NPC in East Woodlands 5-1](../../knowledge/staff_crafting) starting at level 20. They can also be obtained from [Rodan](../../quests/undiam_village) at the Undine Wizard.
+While most staves have a low chance of dropping in higher-level hunting areas, many Wizard staves can be obtained from an [NPC in East Woodlands 5-1](../../crafting/staff_crafting) starting at level 20. They can also be obtained from [Rodan](../../quests/undiam_village) at the Undine Wizard.
 
 | Item | Level | Damage | Attributes |
 |-|-|-|-|

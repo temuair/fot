@@ -1,7 +1,7 @@
 # Upgrading Weapons and Armour
 
 <figure>
-  <img src="../images/tagor_forge.jpg" />
+  <img src="../../images/tagor_forge.jpg" />
   <figcaption>Tagor Forge</figcaption>
 </figure>
 

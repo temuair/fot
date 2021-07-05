@@ -10,7 +10,7 @@
 | Connor's Pests  | 3 | ? | |
 | Annebelle's Letter <br>(Heart of Fire) | 21 | ? | |
 | Bee Quest | 6 | 100,000 XP |  |
-| [Gain a Religion](../../religion) | 8 | 500 XP <br> 5,000 Gold <br> Permanent Stats | Choose a religion. <br> Warning: You cannot change religions! |
+| [Gain a Religion](../../knowledge/religion) | 8 | 500 XP <br> 5,000 Gold <br> Permanent Stats | Choose a religion. <br> Warning: You cannot change religions! |
 | Tagor Protector | 8 | 80,000 XP <br> "Tagor Historian" Legend Mark | |
 | Terror of the Crypt | 11 | 35,000 XP <br> 10,000 Gold <br> "Slew the Terror of the Crypt" Legend Mark | |
 | Dire Wolf Fabric | 10 | 20,000 XP <br> 10,000 Gold <br> Access to Abel Island |   |

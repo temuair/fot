@@ -1,6 +1,6 @@
 # Priest
 
-While most staves have a low chance of dropping in higher-level hunting areas, many Priest staves can be obtained from an [NPC in East Woodlands 5-1](../../knowledge/staff_crafting) starting at level 20. They can also be obtained from Orwell in the Tagor Potion Supply Shop.
+While most staves have a low chance of dropping in higher-level hunting areas, many Priest staves can be obtained from an [NPC in East Woodlands 5-1](../../crafting/staff_crafting) starting at level 20. They can also be obtained from Orwell in the Tagor Potion Supply Shop.
 
 ## List
 

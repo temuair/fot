@@ -1,7 +1,7 @@
 # Specializations
 
 <figure>
-  <img src="../images/aldair.jpg" />
+  <img src="../../images/aldair.jpg" />
   <figcaption>Aldair in Mileth</figcaption>
 </figure>
 
