@@ -8,7 +8,7 @@
 
 You may select your religion at level 8 by going to the temple of the religion you wish to join and completing a knowledge test. You may only select a religion once and this choice is permenant. Despite the permanency, it may be beneficial to choose your religion immediately, as the stats it provides will help you while leveling.
 
-You may also pray to the Gods within your trinity. That is, you can pray to the allies of your chosen God, at their respective temples, in order to gain their prayer benefits and consecrate items with their enchanments.
+You may also pray to the Gods within your trinity. That is, you can pray to the allies of your chosen God, at their respective temples, in order to gain their prayer benefits, but you cannot perform any altar activities, such as item consecration.
 
 ## Religions
 
@@ -47,7 +47,7 @@ These activies are performed by speaking to the cleric at the temple of any god 
 
 ### Altar
 
-These activities can be performed at the foot of the altar of any god in your trinity. These activities do not require labour. You will only be able to see these options if you have enough faith to perform them. You can increase your faith by praying or descrating items of enemy gods.
+These activities can be performed at the foot of the altar of your gold, but not with the other gods in your trinity. These activities do not require labour. You will only be able to see these options if you have enough faith to perform them. You can increase your faith by praying or descrating items of enemy gods.
 
 | **Activity** | **Effect** |
 | - | - |
