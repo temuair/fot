@@ -1,4 +1,4 @@
-# Goblin Quests
+# Grimlock Quests
 
 <figure>
   <img src="../../images/grimlock_queen.jpg" />
