@@ -17,5 +17,7 @@ You will need to collect 1 Finished Ruby, 1 Finished Coral, and 1 Finished Beryl
 
 ## Rare Weapons
 
+You will need to obtain a rare Goblin Guard Club from one of the Pravat Goblins. Slay Goblins until the Goblin Guard Club appears in your inventory. Return to the Grimlock Queen and receive gold for completing the quest. You will receive gold equal to (Grimlock Honour) \* 100.
+
 ## The Talos Mine
 

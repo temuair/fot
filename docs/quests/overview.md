@@ -37,13 +37,13 @@
 | Nigel's Quest | 8 | Ciad Necklace (+1 Random Stat) OR<br> Tiota Necklace (+2 Random Stat) |  |
 | Ansels Lost Item | 21 | +3/+4 Random Stat Shield  |  |
 | [Goblin: Fight Grimlocks](../goblin) | Requires <br> Goblin Honour | 50,000 XP | Slay Grimlocks. |
-| [Goblin: Precious Gems](../goblin) | Requires <br> Goblin Honour | (Goblin Honour) * 100 Gold | Exchange flawed gems for Gold. |
-| [Goblin: Rare Weapons](../goblin) | Requires <br> Goblin Honour | Variable XP | Collect a Grimlock Dagger. |
-| [Goblin: The Talos Mine](../goblin) | Requires <br> Goblin Honour | Variable XP |  |
+| [Goblin: Precious Gems](../goblin) | Requires <br> Goblin Honour | (Goblin Honour)\*100 Gold | Exchange flawed gems for Gold. |
+| [Goblin: Rare Weapons](../goblin) | Requires <br> Goblin Honour | (Goblin Honour)\*100 XP | Collect a Grimlock Dagger. |
+| [Goblin: The Talos Mine](../goblin) | 500 Goblin Honour | LVL\*4000 XP | Fend of Grimlocks inside the Talos Mine. |
 | [Grimlock: Fight Goblins](../grimlock) | Requires <br> Grimlock Honour | 50,000 Gold | Slay Goblins. |
-| [Grimlock: Precious Gems](../grimlock) | Requires <br> Grimlock Honour | (Grimlock Honour) * 100 Gold | Exchange finished gems for Gold. |
-| [Grimlock: Rare Weapons](../grimlock) | Requires <br> Grimlock Honour | ? |  |
-| [Grimlock: The Talos Mine](../grimlock) | Requires <br> Grimlock Honour | ? |  |
+| [Grimlock: Precious Gems](../grimlock) | Requires <br> Grimlock Honour | (Grimlock Honour)\*100 Gold | Exchange finished gems for Gold. |
+| [Grimlock: Rare Weapons](../grimlock) | Requires <br> Grimlock Honour | (Grimlock Honour)\*100 Gold | Collect a Goblin Guard Club. |
+| [Grimlock: The Talos Mine](../grimlock) | 500 Grimlock Honour | ? |  |
 | The Beggar's Cellar <br> (Solo Instance) | 20 | 25,000 XP <br> 25,000 Gold |  |
 | The Gauntlet <br> (Solo Instance) | 41 | 871,000 XP <br> Cap of Danaan <br> Random Items |  |
 | [Flatskull's Fleet](../flatskulls_fleet) <br> (Group Instance) | 60 | 350,000 XP <br> 350,000 Gold <br> 5 Dubloons <br> 250 HP <br> 150 MP | Sneak onto Captain Flatskull's fleet and steal some items. |
