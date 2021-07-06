@@ -2,7 +2,7 @@
 
 <figure>
   <img src="../../images/grimlock_queen.jpg" />
-  <figcaption>The Grimlock Queen Foreman in the Grimlock Queen's Lair</figcaption>
+  <figcaption>The Grimlock Queen in the Grimlock Queen's Lair</figcaption>
 </figure>
 
 All Grimlock quests are started at the Grimlock Queen. The Grimlock Queen can be found in the Grimlock Queen's Lair, which is found by travelling through Pravat Cave 1-1 (49, 33). In order to speak with the Grimlock Queen, you will need to ally yourself with Grimlocks. This can be done by speaking with Ethan at Pravat Cave entrance (27, 14).
