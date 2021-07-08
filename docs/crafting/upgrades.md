@@ -71,4 +71,5 @@ You cannot upgrade gear that is enchanted with Fragments. You must first remove 
 | - | - |
 | 2 | -1 Weight Reduction |
 | 5 | +1 to All Stats |
+| 10 | +1 to All Stats <br> -1 AC <br> +1% Drop Rate <br> +1% XP |
 
