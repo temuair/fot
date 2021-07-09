@@ -13,8 +13,6 @@ You cannot upgrade gear that is enchanted with Fragments. You must first remove 
 
 ## Earrings
 
-(Test on Deoch Coral Earrings)
-
 | **Upgrade Level** | **Effect** |
 | - | - |
 | 5 | +1 to All Stats |
@@ -22,16 +20,12 @@ You cannot upgrade gear that is enchanted with Fragments. You must first remove 
 
 ## Gloves
 
-(Tested on Deoch Leather Gauntlets)
-
 | **Upgrade Level** | **Effect** |
 | - | - |
 | 2 | -1 Weight Reduction |
 | 5 | +1 to All Stats |
 
 ## Greaves
-
-(Tested on Deoch Leather Greaves)
 
 | **Upgrade Level** | **Effect** |
 | - | - |
@@ -41,15 +35,12 @@ You cannot upgrade gear that is enchanted with Fragments. You must first remove 
 
 ## Belt
 
-(Tested on Wind Hy-Brasyl Belt)
-
 | **Upgrade Level** | **Effect** |
 | - | - |
 | 5 | +1 to All Stats <br> Elemental Resistance |
+| 10 | +1 to All Stats <br> Elemental Resistance <br> -1 AC <br> +1% Drop Rate <br> +1% XP |
 
 ## Ring
-
-(Tested on Deoch Jade Ring)
 
 | **Upgrade Level** | **Effect** |
 | - | - |
@@ -57,15 +48,11 @@ You cannot upgrade gear that is enchanted with Fragments. You must first remove 
 
 ## Neck
 
-(Test on Bone Necklace)
-
 | **Upgrade Level** | **Effect** |
 | - | - |
 | 5 | +1 to All Stats |
 
 ## Boots
-
-(Tested on Deoch Enchanted Boots)
 
 | **Upgrade Level** | **Effect** |
 | - | - |
