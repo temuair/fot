@@ -21,3 +21,5 @@ You will need to obtain a rare Goblin Guard Club from one of the Pravat Goblins.
 
 ## The Talos Mine
 
+The Grimlock Queen asks you to enter the Talos Mine and fend off the strongest of the Goblin that threaten their mines. You will enter an solo instance area where you will have to defeat all the Goblin in the mine. These Goblin have the possibility of dropping Talos Fragments. However, do not expect to obtain many of them in one expidition into the mine (approximately 2-5 Talos Fragments). This quest appears to reward an amount of XP equal to LVL \* 4000.
+
