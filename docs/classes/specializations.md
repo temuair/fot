@@ -31,9 +31,9 @@ Class specializations are permanent choices you make that effect your characters
 | Shillelagh (+50%) or Healing Spells (+10%) | ? | Aldair (Mileth) |
 | Shillelagh (+50%) or Healing Spells (+10%) | ? | Aldair (Mileth) |
 | Shillelagh (+50%) or Healing Spells (+10%) | ? | Aldair (Mileth) |
-| Armachd (+20%) or Fas Deireas (+10%) | ? | Mileth Priest (Mileth Church) |
-| Armachd (+20%) or Fas Deireas (+10%) | ? | Mileth Priest (Mileth Church) |
-| Armachd (+20%) or Fas Deireas (+10%) | ? | Mileth Priest (Mileth Church) |
+| Armachd (+20%) or Fas Deireas (+20%) | ? | Mileth Priest (Mileth Church) |
+| Armachd (+20%) or Fas Deireas (+20%) | ? | Mileth Priest (Mileth Church) |
+| Armachd (+20%) or Fas Deireas (+20%) | ? | Mileth Priest (Mileth Church) |
 
 ## Rogue
 
