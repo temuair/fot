@@ -11,7 +11,7 @@
 | Annebelle's Letter <br>(Heart of Fire) | 21 | ? | |
 | Bee Quest | 6 | 100,000 XP |  |
 | [Gain a Religion](../../knowledge/religion) | 8 | 500 XP <br> 5,000 Gold <br> Permanent Stats | Choose a religion. <br> Warning: You cannot change religions! |
-| Tagor Protector | 8 | 80,000 XP <br> "Tagor Historian" Legend Mark | |
+| [Tagor Protector](../tagor_protector) | 8 | 80,000 XP <br> "Tagor Historian" Legend Mark | Protect the citizens of Tagor from the undead and discover their origin. |
 | Terror of the Crypt | 11 | 35,000 XP <br> 10,000 Gold <br> "Slew the Terror of the Crypt" Legend Mark | |
 | Dire Wolf Fabric | 10 | 20,000 XP <br> 10,000 Gold <br> Access to Abel Island |   |
 | Save the Princess of Loures | 11 | 120,000 XP <br> "Saved the Princess of Loures" Legend Mark | |
@@ -34,7 +34,7 @@
 | - | - | - | - |
 | [Sign Quests](../../hunting) | Variable | Variable XP | Complete sign quests in hunting areas for XP. |
 | Calvin's Item Retrieval | 1 | 10,000 XP <br> 2,500 Gold | |
-| Nigel's Quest | 8 | Ciad Necklace (+1 Random Stat) OR<br> Tiota Necklace (+2 Random Stat) |  |
+| [Nigel's Lost Necklace](../nigel) | 8 | Ciad Necklace (+1 Random Stat) OR<br> Tiota Necklace (+2 Random Stat) |  |
 | Ansels Lost Item | 21 | +3/+4 Random Stat Shield  |  |
 | [Goblin: Fight Grimlocks](../goblin) | Requires <br> Goblin Honour | 50,000 XP | Slay Grimlocks. |
 | [Goblin: Precious Gems](../goblin) | Requires <br> Goblin Honour | (Goblin Honour)\*100 Gold | Exchange flawed gems for Gold. |
