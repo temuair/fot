@@ -18,3 +18,7 @@ The altar for summoning Dubhaim Clerics can be found in Dubhaim Castle North (en
 
 Return to the Grounds Keeper with your Dubhaim Cloth and they will craft your level 71 armour. You can continue to exchange Dubhaim Cloth for more level 71 armour.
 
+## Level 97 Armour
+
+Level 97 armour is crafted by obtaining a Kasmanium Chest from the Dracos of Kasmanium Mines. Alternatively, one of the quests offered by Ludar in Camp A'Chiad will have you slay a boss at the bottom of the mines and reward you with a Kasmanium Chest. Open the Kasmanium Chest, take the armour piece to Camp A'Chiad on the fifth floor of Kasmanium Mines, and drop the armour piece into the forge (2, 6). You will receive the level 97 armour of your class. You may repeat this any number of times to obtain more armours.
+
