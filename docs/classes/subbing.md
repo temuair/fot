@@ -31,6 +31,7 @@ Cthonic Scripts only drop from monsters in the Cthonic Remains, between floors 3
 
 - With items, fragments, and upgraded gear, it is possible to get all pre-master skills and spells before subbing. However, this will be especially difficult for Wizards.
 - If you are a Priest, remember to obtain your god's relic before subbing.
+- Remember to get all of your [class specializations](../specializations)!
 - You can continue to wear any gear that you're wearing when you sub, so select this gear carefully and consider weight restrictions. You will not be able to change elemental necklaces if you are overweight. You may also wish to enable 'Weapon Lock' or 'Equipment Lock' in the settings menu, so you don't accidently unequip any gear.
 - Even if you are subbing from a Priest or Wizard, you may wish to equip an elemental necklace to make the first few levels of your new path a little bit easier.
 
