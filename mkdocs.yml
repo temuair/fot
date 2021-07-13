@@ -23,9 +23,9 @@ nav:
   - Resources: resources.md
   - Classes:
           - Overview: classes/overview.md
-          - Subbing: classes/subbing.md
-          - Specializations: classes/specializations.md
           - Stats: classes/stats.md
+          - Specializations: classes/specializations.md
+          - Subbing: classes/subbing.md
   - Quests: quests/overview.md
   - Hunting: hunting.md
   - Knowledge:
