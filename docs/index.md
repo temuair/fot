@@ -6,9 +6,13 @@ Fragments of Temuair is a Dark Ages-inspired game created by Slyk, built upon th
 
 ## News
 
+**2021-07-12**
+
+It is now Deoch 2 and the Cthonic Remains, Chaos, and other features have been unlocked!
+
 **2021-07-10**
 
-The server has moved to a 'live' state and beta rewards will be handed out around the start of Deoch 2 (approximately 2021-07-13).
+The server has moved to a 'Live' state and beta rewards will be handed out around the start of Deoch 2 (approximately 2021-07-13).
 
 **2021-07-04**
 
