@@ -21,6 +21,12 @@ The requirements in order to choose a new path depend on the class you are subbi
 | Warrior | 6,500 Base Health <br> 100M XP |
 | Wizard | 4,500 Base Mana <br> 100M XP |
 
+## Quest
+
+In order to subpath, you will be required to bring a Decree of Deviation to Bedor (the mysterious old man) in the Temple of Choosing in Mileth. A Decree of Deviation can be obtained from Javelin on CR42 by trading 200 Cthonic Scripts for one Full Cthonic Scripture and trading the scripture back to Javelin for a Decree of Deviation. There are no enemies on CR42.
+
+Cthonic Scripts only drop from monsters in the Cthonic Remains, between floors 32-49. They have a drop chance of approximately 20%, so it may take some time to collect a full set of 200 Cthonic Scripts. However, there is a boss on CR38 and another on CR50 that rewards 10 and 20 Cthonic Scripts, respectively, to each member of the party that defeat the boss (but not to the person who initiates the boss fight). These boss fights can be repeated every two hours.
+
 ## Considerations
 
 - With items, fragments, and upgraded gear, it is possible to get all pre-master skills and spells before subbing. However, this will be especially difficult for Wizards.
