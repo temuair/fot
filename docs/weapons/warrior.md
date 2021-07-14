@@ -37,5 +37,6 @@
 | | 92 - Fine | 210 - 230 | | | |
 | | 93 - Grand | 215 - 235 | +100 HP | | |
 | | 94 - Great | 220 - 240 | +200 HP | | |
+| Giant Stone Axe | 1 - 200 | -2 AC <br> +2 HIT | | Monster Drop <br> (Undine Field) |
 | Hy-Brasyl Battle Axe | 99 | 280 - 300 | | | Monster Drop |
 | Dragon Slayer | 99 | 200 - 250 | -2 STR | | Monster Drop |
