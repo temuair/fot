@@ -56,7 +56,8 @@ Class specializations are permanent choices you make that effect your characters
 | Wallop (10%) or Windblade | ? | Aldair (Mileth) |
 | Wallop or Crith Talun | ? | Aldair (Mileth) |
 | Assail & Wallop or Crasher (+30%) | ? | Aldair (Mileth) |
-| ? | ? | Begley (Abel Training Academy) |
+| Improve Assault (+2%) | ? | Begley (Abel Training Academy) |
+| Improve Assail (+1%) | ? | Keallach (Mileth Combat Skill Master) |
 | Improve Assail (+1%) | ? | Keallach (Mileth Combat Skill Master) |
 
 ## Wizard
