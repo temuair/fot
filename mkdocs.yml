@@ -26,6 +26,7 @@ nav:
           - Stats: classes/stats.md
           - Specializations: classes/specializations.md
           - Subbing: classes/subbing.md
+          - Ascending: classes/ascending.md
           - Mastering: classes/mastering.md
   - Quests: quests/overview.md
   - Hunting: hunting.md
