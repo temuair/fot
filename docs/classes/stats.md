@@ -1,12 +1,12 @@
 # Stats
 
-When leveling a character, choosing how you place your stats can have major consequences for how your character plays. Of course, there are many different strategies for allocating stats and this is not definitive, but the following will be an overview of character stats and some general advice.
+When leveling a character, choosing how you place your stats can have major consequences for how your character plays. Of course, there are many different strategies for allocating stats and this is not a definitive guide, but the following will be an overview of character stats and some general advice.
 
 ## Overview
 
 | **Stat** | **Effect** |
 | - | - |
-| **Strength** | Increases the damage of assails <br> Increases carrying capacity <br> Increases the damage of Srad spells <br> Important for Warriors |
+| **Strength** | Increases the damage of assails (melee attacks) <br> Increases carrying capacity <br> Increases the damage of Srad spells <br> Important for Warriors |
 | **Intelligence** | Increases the damage of spells <br> Important for Wizards and Priests |
 | **Wisdom** | Increases mana regeneration <br> Increases mana gained per level <br> Increases the damage of Sal spells <br> Important for Wizards and Priests <br> Somewhat important for Monks and Rogues|
 | **Constitution** | Increases health regeneration <br> Increases health gained per level <br> Increases the damage of Monk abilities <br> Increases the damage of Creag spells <br> Important for Warriors and Monks <br> Somewhat important for Rogues, Wizards, and Priests |

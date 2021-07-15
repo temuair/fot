@@ -37,7 +37,7 @@ The prayer activities vary depending on which god is being prayed to and all of 
 
 ### Cleric
 
-These activies are performed by speaking to the cleric at the temple of any god in your trinity.
+These activies are performed by speaking to the cleric at the temple of your god. Additionally, you can access the God's Prayer for the allies of your god by visiting their temples and speaking with their clerics.
 
 | **Activity** | **Effect** |
 | - | - |
