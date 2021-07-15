@@ -46,7 +46,7 @@ Class specializations are permanent choices you make that effect your characters
 
 | Specialization | Level | Location |
 | - | - | - |
-| Assail or Receive Hatchet | ? | Aldair (Mileth) |
+| Assail (+10%) or Receive Hatchet | ? | Aldair (Mileth) |
 | Assail or Windblade | ? | Aldair (Mileth) |
 | Assault or Windblade | ? | Aldair (Mileth) |
 | Assault or Crith Talun | ? | Aldair (Mileth) |
