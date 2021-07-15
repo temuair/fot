@@ -25,3 +25,15 @@ As a rough benchmark:
 
 Additionally, whether or not you plan on [subbing](../subbing) can change how you want to place your stats. When subbing from Priest or Wizard, you will likely need to be very careful in your stat placement, and not raise any one stat too highly, whereas these concerns don't matter as much if you're going Pure. Notably, although Intelligence is an important stat for Wizards, if you're subbing from a Wizard to another class, you won't need very much Intelligence to obtain all your spells. However, a Wizard that is going Pure would benefit very much from having a high Intelligence.
 
+## Maximum Stats
+
+Before transcending your character, the maximum stats you can obtain depends on your class.
+
+| **Class** | **Strength** | **Intelligence** | **Wisdom** | **Constitution** | **Dexterity** |
+| - | - | - | - | - | - |
+| **Warrior** | 215 | 100 | 100 | 180 | 150 |
+| **Wizard** | 100 | 215 | 180 | 150 | 100 |
+| **Priest** | 100 | 180 | 215 | 150 | 100 |
+| **Monk** | 180 | 150 | 100 | 215 | 100 |
+| **Rogue** | 180 | 100 | 100 | 150 | 215 |
+
