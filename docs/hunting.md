@@ -30,3 +30,30 @@ Although group compositions can be varied, it's generally important to have acce
 
 There are signs that exist in hunting areas throughout Temuair. These signs will offer quests to slay 10 of a particular kind of enemy and reward you with a level-appropriate amount of XP for completing the quest. You can do these quests 4 (?) times per day, per location (i.e. Mileth Crypt, East Woodlands, etc.). However, it is possible that if you level into a different level bracket, you may be able to do quests again at a particular location after previously completing them all. It's worthwhile grabbing these sign quests regularly while hunting, if it doesn't take too long to travel back and forth.
 
+## Experience Needed
+
+The follow is a table of how much experience you need (boxed) in order to obtain each level.
+
+| Level | Total Experience (Boxed) |
+| - | - |
+| 1 | 0 |
+| 2 | 300 |
+| 3 | 2500 |
+| 4 | 8900 |
+| 5 | 21500 |
+| 6 | 42300 |
+| 7 | 73300 |
+| 8 | 116500 |
+| 9 | 173899 |
+| 10 | 247499 |
+| 11 | 339299 |
+| 12 | 451299 |
+| 13 | ? |
+| 14 | ? |
+| 15 | 928498 |
+| 16 | 1141297 |
+| 17 | 1384297 |
+| 18 | 1659497 |
+| 19 | 1968897 |
+| 20 | 2314496 |
+
