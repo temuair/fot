@@ -34,8 +34,8 @@
 | - | - | - | - |
 | [Sign Quests](../../hunting) | Variable | Variable XP | Complete sign quests in hunting areas for XP. |
 | [Calvin's Item Retrieval](../calvin) | 1 | Variable Gold and XP | Fetch the item that Calvin requests. |
-| [Nigel's Lost Necklace](../nigel) | 8 | Ciad Necklace (+1 Random Stat) OR<br> Tiota Necklace (+2 Random Stat) |  |
-| Ansels Lost Item | 21 | +3/+4 Random Stat Shield  |  |
+| [Nigel's Lost Necklace](../nigel) | 8 | Ciad Necklace (+1 Random Stat) OR<br> Tiota Necklace (+2 Random Stat) | Find Nigel's lost necklace. |
+| [Ansels Lost Bracelet](../ansel) | 21 | +3/+4 Random Stat Shield  | Find Ansel's lost shield. |
 | [Goblin: Fight Grimlocks](../goblin) | Requires <br> Goblin Honour | 50,000 XP | Slay Grimlocks. |
 | [Goblin: Precious Gems](../goblin) | Requires <br> Goblin Honour | (Goblin Honour)\*100 Gold | Exchange flawed gems for Gold. |
 | [Goblin: Rare Weapons](../goblin) | Requires <br> Goblin Honour | (Goblin Honour)\*100 XP | Collect a Grimlock Dagger. |
