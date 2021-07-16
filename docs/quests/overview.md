@@ -33,7 +33,7 @@
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
 | [Sign Quests](../../hunting) | Variable | Variable XP | Complete sign quests in hunting areas for XP. |
-| Calvin's Item Retrieval | 1 | 10,000 XP <br> 2,500 Gold | |
+| [Calvin's Item Retrieval](../calvin) | 1 | Variable Gold and XP | Fetch the item that Calvin requests. |
 | [Nigel's Lost Necklace](../nigel) | 8 | Ciad Necklace (+1 Random Stat) OR<br> Tiota Necklace (+2 Random Stat) |  |
 | Ansels Lost Item | 21 | +3/+4 Random Stat Shield  |  |
 | [Goblin: Fight Grimlocks](../goblin) | Requires <br> Goblin Honour | 50,000 XP | Slay Grimlocks. |
