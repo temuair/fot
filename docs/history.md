@@ -28,5 +28,6 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
     - Warmonger: Hank
     - Blackguard: Bunyi or Toast
     - Scholar: Kobunyi
+    - Trickster: Aurann
 - The first Dragon Scale Sword was claimed by Kalina.
 
