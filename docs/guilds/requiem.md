@@ -12,11 +12,11 @@
 
 1. Death
 2. Trueski
-3. LincolnLog
+3. Valerie
 
 **Members**:
 
-1. Valerie
+1. LincolnLog
 2. Gale
 3. Bunyi
 4. Chip
