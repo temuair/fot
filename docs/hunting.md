@@ -14,8 +14,10 @@ This is not an exhaustive list of all hunting areas, but rather some recommended
 | Tagor Path | 8 - 20 | All enemies are undead. <br> Effective for solo Priests. |
 | Astrid (South) | 11 - 25 | All enemies are passive. |
 | Dubhaim Castle | 20 - 50 | Dunans drop Talos Fragments. <br> Effective for solo Priests. |
-| Lynith Sea (Entrance Room) | 31 - 55 | All enemies are passive. <br> Effective for solo 40+ Wizards. |
-| Undine Field (North) | 50 - 90 |  |
+| Lynith Sea | 31 - 55 | All enemies are passive in entrance. |
+| House Macabre (Nikuru or Spiders) | 41 - 50 | Nikuru are passive. |
+| Undine Field (North) | 50 - 65 |  |
+| Cthonic Remains (11-30) | 60 - 99 |  |
 | Kasmanium Mines | 65 - 99 |  |
 
 ## XP Drain
