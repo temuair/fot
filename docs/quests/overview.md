@@ -45,8 +45,8 @@
 | [Grimlock: Rare Weapons](../grimlock) | Requires <br> Grimlock Honour | (Grimlock Honour)\*100 Gold | Collect a Goblin Guard Club. |
 | [Grimlock: The Talos Mine](../grimlock) | 500 Grimlock Honour | LVL\*4000 XP | Fend off Goblins inside the Talos Mine. |
 | [The Mileth Cellar](../mileth_cellar) <br> (Solo Instance) | 20 | 25,000 XP <br> 25,000 Gold | Help the Mileth Town Drunk clean up the cellar. |
-| The Gauntlet <br> (Solo Instance) | 41 | 871,000 XP <br> Cap of Danaan <br> Random Items |  |
-| [Flatskull's Fleet](../flatskulls_fleet) <br> (Group Instance) | 60 | 350,000 XP <br> 350,000 Gold <br> 5 Dubloons <br> 250 HP <br> 150 MP | Sneak onto Captain Flatskull's fleet and steal some items. |
+| [The Gauntlet](../gauntlet) <br> (Solo Instance) | 41 | 871,000 XP <br> Cap of Danaan <br> Random Items | Survive the gauntlet by defeating enemies. |
+| [Flatskull's Fleet](../flatskulls_fleet) <br> (Group Instance) | 60 | 350,000 XP <br> 350,000 Gold <br> 5 Dubloons <br> 250 HP <br> 150 MP <br> "Invaded Flatskull's Fleet" Legend mark | Sneak onto Captain Flatskull's fleet and steal some items. |
 | Abel Crypt Gauntlet <br> (Group Instance) | 65 | 650,000 XP <br> 150,000 Gold <br> Class Fragment |  |
 | The Draco Hunt | 65 | 150,000 XP <br> 50,000 Gold |  |
 
