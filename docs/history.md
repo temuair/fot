@@ -27,5 +27,6 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
     - Paladin: Eric
     - Warmonger: Hank
     - Blackguard: Bunyi or Toast
+    - Scholar: Kobunyi
 - The first Dragon Scale Sword was claimed by Kalina.
 
