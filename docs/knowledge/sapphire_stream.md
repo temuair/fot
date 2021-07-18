@@ -16,7 +16,7 @@ The Monk Mug Ruith will teach Monks the ways of the Dugon. This is done by provi
 | White | 11 | Bat (Mileth Crypt) |
 | Green | 22 | Crab (Piet Dungeon) |
 | Blue | 33 | Turtle (Mehadi Swamp) |
-| Yellow | 44 | ? |
+| Yellow | 44 | Goblin Guard (West Woodlands) |
 | Purple | 55 | ? |
 | Brown | 66 | ? |
 | Red | 77 | ? |
