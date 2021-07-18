@@ -11,18 +11,23 @@ This is not an exhaustive list of all hunting areas, but rather some recommended
 
 | **Name** | **Level Range** | **Notes** |
 | - | - | - |
+| Mileth Crypt (1-3) | 3 - 15 | Enemies on floors 1 and 2 have no elemental defense. |
 | Tagor Path | 8 - 20 | All enemies are undead. <br> Effective for solo Priests. |
 | Astrid (South) | 11 - 25 | All enemies are passive. |
 | Dubhaim Castle | 20 - 50 | Dunans drop Talos Fragments. <br> Effective for solo Priests. |
 | Lynith Sea | 31 - 55 | All enemies are passive in entrance. |
 | House Macabre (Nikuru or Spiders) | 41 - 50 | Nikuru are passive. |
 | Undine Field (North) | 50 - 65 |  |
-| Cthonic Remains (11-30) | 60 - 99 |  |
+| Cthonic Remains (11-30) | 61 - 99 |  |
 | Kasmanium Mines | 65 - 99 |  |
 
 ## XP Drain
 
 Every additional group member drains a small amount of XP (~7%) that would be granted to the group. Additionally, the level difference between the highest level group member and lowest level group member should not be more than 20. A difference of 20 or greater will result in a severe experience penalty for group members.
+
+## XP Loss
+
+In order to receive full experience for a kill, your character will need to be within 15 levels of the slain monster.
 
 ## Group Composition
 
@@ -68,6 +73,16 @@ The follow is a table of how much experience you need (boxed) in order to obtain
 | 28 | 6622495 |
 | 29 | 7383895 |
 | 30 | 8201495 |
-
+| 31 | 9077295 |
+| 32 | 10013295 |
+| 33 | 11011495 |
+| 34 | 12073895 |
+| 35 | 13202495 |
+| 36 | 14399295 |
+| ?? | ? |
+| 48 | 34808495 |
+| 49 | 37073895 |
+| 50 | 39435495 |
+| 51 | 41895295 |
 
 
