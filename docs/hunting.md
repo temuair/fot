@@ -33,6 +33,8 @@ In order to receive full experience for a kill, your character will need to be w
 
 Although group compositions can be varied, it's generally important to have access to the spell "Fas Nadur" (or its variants) and healing. This generally means bringing a Wizard and Priest to every group. Monks, Warriors, and Rogues can be great damage dealers, with Monks and Warriors being able to take damage from enemies and rogues providing crowd control abilities.
 
+While not necessary, it can be very helpful to have someone read the elements of the enemies' defense. Otherwise, you will have to guess the defensive elements, which will likely involve rotating through your elemental necklaces or elemental attacks until you find one that does the amount of damage you're expecting.
+
 ## Sign Quests
 
 There are signs that exist in hunting areas throughout Temuair. These signs will offer quests to slay 10 of a particular kind of enemy and reward you with a level-appropriate amount of XP for completing the quest. You can do these quests 4 (?) times per day, per location (i.e. Mileth Crypt, East Woodlands, etc.). However, it is possible that if you level into a different level bracket, you may be able to do quests again at a particular location after previously completing them all. It's worthwhile grabbing these sign quests regularly while hunting, if it doesn't take too long to travel back and forth.
