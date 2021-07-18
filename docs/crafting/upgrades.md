@@ -45,6 +45,7 @@ You cannot upgrade gear that is enchanted with Fragments. You must first remove 
 | **Upgrade Level** | **Effect** |
 | - | - |
 | 5 | +1 to All Stats |
+| 10 | +1 to All Stats <br> -1 AC <br> +1% Drop Rate <br> +1% XP |
 
 ## Neck
 
@@ -59,4 +60,13 @@ You cannot upgrade gear that is enchanted with Fragments. You must first remove 
 | 2 | -1 Weight Reduction |
 | 5 | +1 to All Stats |
 | 10 | +1 to All Stats <br> -1 AC <br> +1% Drop Rate <br> +1% XP |
+
+
+## Shield
+
+| **Upgrade Level** | **Effect** |
+| - | - |
+| 2 | -1 Weight Reduction |
+| 4 | -1 Weight Reduction |
+| 5 | +1 to All Stats |
 
