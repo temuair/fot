@@ -30,3 +30,8 @@ While your class name remains the same if you do not choose a [subpath](../subbi
 | **Rogue** | Sura | Shadowpriest | Rogue | Mercenary | Shadowmage |
 | **Warrior** | Champion | Crusader | Chaser | Warrior | Swordmage |
 | **Wizard** | Dark Druid | Cleric | Trickster | Stormbreaker | Wizard |
+
+## Super Peasant
+
+There is an additional hidden class: the Super Peasant. Please read the [Super Peasant](../super_peasant) page for more information.
+
