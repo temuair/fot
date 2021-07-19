@@ -16,6 +16,8 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
 ## Deoch 2
 
 - The Cthonic Uprising has been revealed by: Aurann, Ackter, Kobunyi, Arkane, Death, Bunyi, Krum, Chip, Verran, Eric, Tenebris, Pablito, and Toast!
+- The first Phoenix Creant was slain by Valerie, KHUG, and Jeff. (Unverified)
+- The first Shamansynth Creant was slain by Orko, Pablito, and Gutierrez. (Unverified)
 - The first masters of each class were:
     - Rogue: Verran
     - Warrior: Krum
@@ -29,6 +31,7 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
     - Blackguard: Bunyi or Toast
     - Scholar: Kobunyi
     - Trickster: Aurann
+    - Cleric: Katurina
 - The first Dragon Scale Sword was claimed by Kalina.
 - The first Super Peasant was Jesus.
 
