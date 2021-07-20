@@ -30,26 +30,8 @@ nav:
           - Mastering: classes/mastering.md
   - Quests: quests/overview.md
   - Hunting: hunting.md
-  - Knowledge:
-          - Religion: knowledge/religion.md
-          - Backpack: knowledge/backpack.md
-          - Armour Dyeing: knowledge/armour_dyeing.md
-          - Temuair Marketplace: knowledge/marketplace.md
-          - Auction House: knowledge/auction_house.md
-          - Labour: knowledge/labour.md
-          - Books: knowledge/books.md
-          - Spell Panes: knowledge/spell_panes.md
-          - Sapphire Stream: knowledge/sapphire_stream.md
-          - Tagor Training: knowledge/tagor_training.md
-  - Crafting:
-          - Upgrades: crafting/upgrades.md
-          - Fragments: crafting/fragments.md
-          - Armour Crafting: crafting/armour_crafting.md
-          - Gem Smithing: crafting/gem_smithing.md
-          - Ring Smithing: crafting/ring_smithing.md
-          - Staff Crafting: crafting/staff_crafting.md
-          - Weapon Smithing: crafting/weapon_smithing.md
-          - Enchanting: crafting/enchanting.md
+  - Knowledge: knowledge/overview.md
+  - Crafting: crafting/overview.md
   - Spells:
           - Priest: spells/priest.md
   - Weapons:
