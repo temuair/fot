@@ -81,5 +81,5 @@ While there is no clear choice of which religion to take, the following are some
 - Glioca's prayer provides a 1 minute Dion effect, which may be useful if you do not have access to Dion.
 - Luathas' prayer provides a temporary +5 intelligence, and may make certain stat builds easier. However, you may also join Cail or Gramail and still pray at the Luathas temple for this effect.
 - All of the prayer effects, except for Luathas Gnosis (+5 Int), appear to be copies or variants of priest spells.
-- If you are a priest, the relics of Cail (teleportion), Fiosachd (stealth), and Luathas (Fas Spiorad and MSPG) provide you with interesting benefits.
+- If you are a priest, the relics of Cail (teleportion), Fiosachd (stealth), and Luathas (Fas Spiorad and MSBG) provide you with interesting benefits.
 
