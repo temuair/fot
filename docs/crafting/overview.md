@@ -8,4 +8,5 @@
 - [Staff Crafting](../staff_crafting)
 - [Weapon Smithing](../weapon_smithing)
 - [Enchanting](../enchanting)
+- [Herbalism](../herbalism)
 
