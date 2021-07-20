@@ -10,4 +10,5 @@
 - [Spell Panes](../spell_panes)
 - [Sapphire Stream](../sapphire_stream)
 - [Tagor Training](../tagor_training)
+- [Hairstyling](../hairstyling)
 
