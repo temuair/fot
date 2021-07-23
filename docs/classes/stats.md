@@ -6,11 +6,11 @@ When leveling a character, choosing how you place your stats can have major cons
 
 | **Stat** | **Effect** |
 | - | - |
-| **Strength** | Increases the damage of assails (melee attacks) <br> Increases carrying capacity <br> Increases the damage of Srad spells <br> Important for Warriors |
+| **Strength** | Increases the damage of assails (melee attacks) <br> Increases carrying capacity <br> Important for Warriors |
 | **Intelligence** | Increases the damage of spells <br> Important for Wizards and Priests |
-| **Wisdom** | Increases mana regeneration <br> Increases mana gained per level <br> Increases the damage of Sal spells <br> Important for Wizards and Priests <br> Somewhat important for Monks and Rogues|
-| **Constitution** | Increases health regeneration <br> Increases health gained per level <br> Increases the damage of Monk abilities <br> Increases the damage of Creag spells <br> Important for Warriors and Monks <br> Somewhat important for Rogues, Wizards, and Priests |
-| **Dexterity** | Increases the damage of Rogue abilities <br> Increases the damage of some Warrior abilities <br> Increases the damage of Athar spells <br> Important for Rogues <br> Somewhat important for Warriors and Monks |
+| **Wisdom** | Increases mana regeneration <br> Increases mana gained per level <br> Important for Wizards and Priests <br> Somewhat important for Monks and Rogues|
+| **Constitution** | Increases health regeneration <br> Increases health gained per level <br> Increases the damage of Monk abilities <br> Important for Warriors and Monks <br> Somewhat important for Rogues, Wizards, and Priests |
+| **Dexterity** | Increases the damage of Rogue abilities <br> Increases the damage of some Warrior abilities <br> Important for Rogues <br> Somewhat important for Warriors and Monks |
 
 ## General Advice
 
