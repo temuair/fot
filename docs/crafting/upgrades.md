@@ -70,3 +70,11 @@ You cannot upgrade gear that is enchanted with Fragments. You must first remove 
 | 4 | -1 Weight Reduction |
 | 5 | +1 to All Stats |
 
+
+## Weapons
+
+| **Upgrade Level** | **Effect** |
+| - | - |
+| Every 1 | Increased minimum and maximum damage. |
+| Every 8 | Lifesteal |
+
