@@ -23,6 +23,7 @@ nav:
   - Resources: resources.md
   - Classes:
           - Overview: classes/overview.md
+          - Guides: classes/guides.md
           - Stats: classes/stats.md
           - Specializations: classes/specializations.md
           - Subbing: classes/subbing.md
