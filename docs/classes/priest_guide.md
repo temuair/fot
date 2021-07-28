@@ -28,7 +28,7 @@ You can choose any [religion](../../knowledge/religion), but remember to incorpo
 
 **Extra Stats: 22**
 
-You can use any up to 8 of these stats (leaving yourself with 14) to replace any of the above requirements as necessary. Or, if you don't care about carrying over any stats when you subclass, you may use any remaining stats to meet the stat requirements.
+You can use up to 8 of these stats (leaving yourself with 14) to replace any of the above requirements as necessary. Or, if you don't care about carrying over any stats when you subclass, you may use any remaining stats to meet the stat requirements.
 
 The "typical" items include:
 
@@ -43,13 +43,15 @@ The "typical" items include:
 
 As it is possible to [upgrade items](../../crafting/upgrades) so that they give extra stats, it may be easier to create upgraded gear sets, or borrow existing sets from other players. For example, with a full set of +10 gear, you will likely not need any fragments.
 
-If you choose to create upgraded gear for yourself, it is recommended that you start with chest armour and Hy-Brasyl belt, as these items slots typically do not provide stats normally, and you'll immediately get a benefit when upgrading them to +5.
+If you choose to create upgraded gear for yourself, it is recommended that you start with chest armour and a Hy-Brasyl belt, as these items slots typically do not provide stats normally, and you'll immediately get a benefit when upgrading them to +5.
 
 ### Checklist
 
 - All skills and spells known.
 - Select a religion and get the [god's relic](../../knowledge/religion#priest-relics).
 - Choose all your [class specializations](../specializations#priest).
+- Lower weight and equip armour.
+- Lock weapon and armour in options (F4).
 
 ## Recommendations
 
