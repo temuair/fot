@@ -12,3 +12,5 @@
 - [Tagor Training](../tagor_training)
 - [Hairstyling](../hairstyling)
 - [Wells](../wells)
+- [Necromancy](../necromancy)
+
