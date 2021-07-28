@@ -22,3 +22,7 @@ XP COST = 100 * (5000 * 17)
 
 XP COST = 8,500,000
 
+## Remarks
+
+Once a particular stat is higher than 150, it may be more effecient in terms of experience to purchase stats one by one by ascending for 250 HP and turning that HP into one stat. However, this will require you to use a Succubus hair for every stat point placed using this method.
+
