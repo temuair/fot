@@ -1,5 +1,6 @@
 :root {
 	--md-default-fg-color--light: hsl(198.3, 17.6%, 55%);
+	--legend-colour: #7ba5f7
 }
 
 table { border: none; border-collapse: collapse; }
@@ -12,3 +13,8 @@ table td { border-left: .05rem solid var(--md-default-fg-color--lightest)}
 .md-typeset table:not([class]) {
 	display: table;
 }
+
+.LegendText {
+	color: var(--legend-colour)
+}
+

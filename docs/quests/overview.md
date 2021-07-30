@@ -11,22 +11,22 @@
 | Annebelle's Letter <br>(Heart of Fire) | 21 | ? | |
 | Bee Quest | 6 | 100,000 XP |  |
 | [Gain a Religion](../../knowledge/religion) | 8 | 500 XP <br> 5,000 Gold <br> Permanent Stats | Choose a religion. <br> Warning: You cannot change religions! |
-| [Tagor Protector](../tagor_protector) | 8 | 80,000 XP <br> "Tagor Historian" Legend Mark | Protect the citizens of Tagor from the undead and discover their origin. |
-| Terror of the Crypt | 11 | 35,000 XP <br> 10,000 Gold <br> "Slew the Terror of the Crypt" Legend Mark | |
+| [Tagor Protector](../tagor_protector) | 8 | 80,000 XP <br> <div class="LegendText">Tagor Historian</div> | Protect the citizens of Tagor from the undead and discover their origin. |
+| Terror of the Crypt | 11 | 35,000 XP <br> 10,000 Gold <br> <div class="LegendText">Slew the Terror of the Crypt</div> | |
 | Dire Wolf Fabric | 10 | 20,000 XP <br> 10,000 Gold <br> Access to Abel Island |   |
-| Save the Princess of Loures | 11 | 120,000 XP <br> "Saved the Princess of Loures" Legend Mark | |
-| West Woods Invaders | 20 | 725,000 XP <br> Class-Related Weapon <br> "Dire Wolf Slayer" Legend Mark | |
-| Terror of the Alley | 20 | 75,000 XP <br> 20,000 Gold <br> "Slew the Terror of the Alley" Legend Mark |  |
-| Steadfast Soldier | 20 | 20,000 XP <br> 250,000 Gold <br> "Steadfast Soldier" Legend Mark <br> Steadfast Map | |
+| Save the Princess of Loures | 11 | 120,000 XP <br> <div class="LegendText"> Saved the Princess of Loures</div> | |
+| West Woods Invaders | 20 | 725,000 XP <br> Class-Related Weapon <br> <div class="LegendText">Dire Wolf Slayer</div> | |
+| Terror of the Alley | 20 | 75,000 XP <br> 20,000 Gold <br> <div class="LegendText">Slew the Terror of the Alley</div> |  |
+| Steadfast Soldier | 20 | 20,000 XP <br> 250,000 Gold <br> <div class="LegendText">Steadfast Soldier</div> Steadfast Map | |
 | Mileth Crypt 10-1 Shortcut | 20 | 250,000 XP |  |
 | Mileth Crypt 20-1 Shortcut | 40 | 500,000 XP |  |
 | Mileth Crypt 30-1 Shortcut | 55 | 500,000 XP |  |
-| Restore Harmony to Astrid | 21 | "Resotred Harmony to Astrid" Legend Mark |  |
+| Restore Harmony to Astrid | 21 | <div class="LegendText">Resotred Harmony to Astrid</div> |  |
 | Craft Lorica / Cotehardie | 26 (Warrior) | Lorica or Cotehardie |  |
 | Oren Tower | ? | ? |  |
 | Passage to A'Chaid | 65 | Kas Mines 5-1 Shortcut |  |
 | Nightmare Quest | 80 | ? |  |
-| Deadlast Defender | ? | 250,000 XP <br> "Deadlast Defender" Legend Mark <br> Deadlast Map |  |
+| Deadlast Defender | ? | 250,000 XP <br> <div class="LegendText">Deadlast Defender</div> Deadlast Map |  |
 
 ## Repeatable Quests
 
@@ -46,7 +46,7 @@
 | [Grimlock: The Talos Mine](../grimlock) | 500 Grimlock Honour | LVL\*4000 XP | Fend off Goblins inside the Talos Mine. |
 | [The Mileth Cellar](../mileth_cellar) <br> (Solo Instance) | 20 | 25,000 XP <br> 25,000 Gold | Help the Mileth Town Drunk clean up the cellar. |
 | [The Gauntlet](../gauntlet) <br> (Solo Instance) | 41 | 871,000 XP <br> Cap of Danaan <br> Random Items | Survive the gauntlet by defeating enemies. |
-| [Flatskull's Fleet](../flatskulls_fleet) <br> (Group Instance) | 60 | 350,000 XP <br> 350,000 Gold <br> 5 Dubloons <br> 250 HP <br> 150 MP <br> "Invaded Flatskull's Fleet" Legend mark | Sneak onto Captain Flatskull's fleet and steal some items. |
+| [Flatskull's Fleet](../flatskulls_fleet) <br> (Group Instance) | 60 | 350,000 XP <br> 350,000 Gold <br> 5 Dubloons <br> 250 HP <br> 150 MP <br> <div class="LegendText">Invaded Flatskull's Fleet</div> | Sneak onto Captain Flatskull's fleet and steal some items. |
 | Abel Crypt Gauntlet <br> (Group Instance) | 65 | 650,000 XP <br> 150,000 Gold <br> Class Fragment |  |
 | The Draco Hunt | 65 | 150,000 XP <br> 50,000 Gold |  |
 
