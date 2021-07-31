@@ -33,6 +33,7 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
     - Trickster: Aurann
     - Cleric: Katurina
     - Scholar: Spex
+    - Geomancer: Zack
 - The first Dragon Scale Sword was claimed by Kalina.
 - The first Super Peasant was Jesus.
 
