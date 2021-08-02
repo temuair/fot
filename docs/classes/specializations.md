@@ -39,8 +39,10 @@ Class specializations are permanent choices you make that effect your characters
 
 | Specialization | Level | Location |
 | - | - | - |
-| Assail or Stiletto Trap | ? | Aldair (Mileth) |
-| Spring Trap or Stab | ? | Mileth Rogue Master |
+| Assail or Stiletto Trap (+50%) | ? | Aldair (Mileth) |
+| Assail or Spring Trap (+50%) | ? | Aldair (Mileth) |
+| Swift Hand or Maiden Trap (+50%) | Aldair (Mileth) |
+| Spring Trap (+20%) or Stab | ? | Mileth Rogue Master |
 
 ## Warrior
 
