@@ -7,7 +7,7 @@ While most staves have a low chance of dropping in higher-level hunting areas, m
 |Magus Diana | 11 | 1 - 10 | -1 Lines on Spells |
 |Magus Ares  | 11 | 1 - 10 | |
 |Magus Kronos | 11 | 1 - 10 | |
-|Magus Zeus | 11 | 1 - 10 | Fas Nadur Spells become 2 Lines|
-|Magus Gaea | 11 | 1 - 10 | |
+|Magus Zeus | 11 | 1 - 10 | Fas Nadur Spells become 2 Lines |
+|Magus Gaea | 11 | 1 - 10 | -1 Lines on Spells <br> +500 MP |
 |Magus Apollo | 11 | 1 - 10 | All Spells become 3 Lines |
 
