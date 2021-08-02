@@ -64,8 +64,8 @@ Class specializations are permanent choices you make that effect your characters
 
 | Specialization | Level | Location |
 | - | - | - |
-| Srad (+5%) or Sal (+5%) or Creag (+5%) or Athar (+5%) | ? | Aldair (Mileth) |
-| Srad (+5%) or Sal (+5%) or Creag (+5%) or Athar (+5%) | ? | Aldair (Mileth) |
-| Srad (+5%) or Sal (+5%) or Creag (+5%) or Athar (+5%) | ? | Aldair (Mileth) |
+| Srad (+5%) or Sal (+5%) or Creag (+5%) or Athar (+5%) <br> Smite (+?%) | ? | Aldair (Mileth) |
+| Srad (+5%) or Sal (+5%) or Creag (+5%) or Athar (+5%) <br> Smite (+?%) | ? | Aldair (Mileth) |
+| Srad (+5%) or Sal (+5%) or Creag (+5%) or Athar (+5%) <br> Smite (+?%) | ? | Aldair (Mileth) |
 | Srad (+5%) or Sal (+5%) or Creag (+5%) or Athar (+5%) | ? | Rangvald (Suomi) |
 
