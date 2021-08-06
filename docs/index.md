@@ -1,5 +1,9 @@
 # Fragments of Temuair
 
+<center>
+<iframe width="768" height="432" src="https://www.youtube.com/embed/CAPiAYBLhnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 This fan website is written by Eric in the hope that it will be accurate and useful. I am not associated with the [Fragments of Temuair](https://fragmentsoftemuair.com/) development team.
 
 Fragments of Temuair is a Dark Ages-inspired game created by Slyk, built upon the Lorule client created by Wren. It is a free server and there is no content hidden behind a paywall. The game features new skills, spells, items, NPCs, quests, and maps. It also contains entirely new systems, such as fragments, endless dungeons, and transcended character progression.
