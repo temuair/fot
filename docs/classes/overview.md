@@ -27,7 +27,7 @@ While your class name remains the same if you do not choose a [subpath](../subbi
 | - | - | - | - | - | - |
 | **Monk** | Monk | Druid? | Blackguard | Warmonger | Geomancer |
 | **Priest** | Druid? | Priest | Vagabond | Paladin | Scholar |
-| **Rogue** | Sura | Shadowpriest | Rogue | Mercenary | Shadowmage |
+| **Rogue** | Sura | Shadow Priest | Rogue | Mercenary | Shadowmage |
 | **Warrior** | Champion | Crusader | Chaser | Warrior | Swordmage |
 | **Wizard** | Dark Druid | Cleric | Trickster | Stormbreaker | Wizard |
 
