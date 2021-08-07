@@ -34,4 +34,5 @@ Cthonic Scripts only drop from monsters in the Cthonic Remains, between floors 3
 - Remember to get all of your [class specializations](../specializations)!
 - You can continue to wear any gear that you're wearing when you sub, so select this gear carefully and consider weight restrictions. You will not be able to change elemental necklaces if you are overweight. You may also wish to enable 'Weapon Lock' or 'Equipment Lock' in the settings menu, so you don't accidentally unequip any gear.
 - Even if you are subbing from a Priest or Wizard, you may wish to equip an elemental necklace to make the first few levels of your new path a little bit easier.
+- Although not absolutely critical (as you can get both later), it may be useful to have grabbed one of the two [magic books](../../knowledge/books) before subbing.
 
