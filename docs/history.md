@@ -36,6 +36,7 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
     - Geomancer: Zack
     - Shadow Priest: Neo
     - Sura: Alf
+    - Dark Druid: GingerVitis
 - The first Dragon Scale Sword was claimed by Kalina.
 - The first Super Peasant was Jesus.
 
