@@ -63,6 +63,7 @@ Class specializations are permanent choices you make that effect your characters
 | Improve Assault (+2%) | ? | Begley (Abel Training Academy) |
 | Improve Assail (+1%) | ? | Keallach (Mileth Combat Skill Master) |
 | Improve Assail (+1%) | ? | Keallach (Mileth Combat Skill Master) |
+| Improve Wind Blade (+2%) | ? | Kobold Trader (EW 8-1 - Quest) |
 
 ## Wizard
 
