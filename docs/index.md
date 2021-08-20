@@ -10,6 +10,10 @@ Fragments of Temuair is a Dark Ages-inspired game created by Slyk, built upon th
 
 ## News
 
+**2021-08-08**
+
+A small update has been applied. Changes include a reduction in Deoch item's effectiveness and item protection for dropped items. Also, the ability to pay extra gold when upgrading items at the forge was added.
+
 **2021-07-12**
 
 It is now Deoch 2 and the Cthonic Remains, Chaos, Shinewood, and Oren have been unlocked!
