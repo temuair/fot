@@ -52,6 +52,7 @@ If you choose to create upgraded gear for yourself, it is recommended that you s
 - Choose all your [class specializations](../specializations#priest).
 - Lower weight and equip armour.
 - Lock weapon and armour in options (F4).
+- Purchase an [Insurance Policy](../../knowledge/insurance)!
 
 ## Recommendations
 

@@ -13,4 +13,5 @@
 - [Hairstyling](../hairstyling)
 - [Wells](../wells)
 - [Necromancy](../necromancy)
+- [Insurance](../insurance)
 
