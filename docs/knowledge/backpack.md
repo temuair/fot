@@ -11,9 +11,22 @@ Each Aisling can obtain one backpack for free from any Tailor in Temuair. Simply
 
 ## Usage
 
+### Storage
+
 The backpack functions as a small bank that is carried by the player. The player can put items into the backpack and withdraw them later. The items in the backpack do not contribute their weight to the player carrying the backpack. Additionally, if you perish, any items in your backpack will be protected from being destroyed.
 
 It may be convenient to store items in large stacks in the backpack: reds, smoke bombs, songs, etc. It may also be useful to store stackable items of high value found when hunting, so that they can be sold later.
+
+### Journal
+
+The backpack has the ability to function as a journal. Importantly, when you select "Review Journal" you're able to see the following attributes:
+
+- Base and equipped statistics
+- Experience bonus
+- Drop rate bonus
+- Vampirism
+- Item discoveries
+- [Skill enhancements](../../classes/specializations)
 
 ## Upgrading the Backpack
 
