@@ -6,7 +6,7 @@
 </figure>
 
 
-You may select your religion at level 8 by going to the temple of the religion you wish to join and completing a knowledge test. You may only select a religion once and this choice is permenant. Despite the permanency, it may be beneficial to choose your religion immediately, as the stats it provides will help you while leveling.
+You may select your religion at level 8 by going to the temple of the religion you wish to join and completing a knowledge test. You may only select a religion once and this choice is permenant. Despite the permanency, it may be beneficial to choose your religion immediately, as the stats it provides will help you while leveling. You may also wish to join a religion after [subpathing](../../classes/subbing), as you will lose your religion-granted stats when subbing to your new class (although stats can be bought after [mastering](../../classes/mastering)). However, priests should also choose a religion, as you must be a priest to obtain a religious relic.
 
 You may also pray to the Gods within your trinity. That is, you can pray to the allies of your chosen God, at their respective temples, in order to gain their prayer benefits, but you cannot perform any altar activities, such as item consecration.
 
