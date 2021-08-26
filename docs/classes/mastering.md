@@ -4,7 +4,7 @@ Once you reach level 99, you will be able to become a Master of your class. Afte
 
 ## Requirements
 
-In order to become a Master, you will need to have 200M experience (reaching level 99 requires approximately 315M) and the two items that comprise your "master set". The items you need depend on your class.
+In order to become a Master, you will need to have 200M experience (reaching level 99 [requires approximately 315M](../../hunting/#experience-needed)) and the two items that comprise your "master set". The items you need depend on your class.
 
 | **Class** | **Master Set** |
 | - | - |
