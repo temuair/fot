@@ -26,3 +26,7 @@ When you empower an item with a fragment, its name will change to reflect that i
 
 You can remove fragments from armour by visiting Randel at the Tagor Dark Wizard. You have the option of destroying the item to preserve and reclaim the fragments (one or both) or destroying the fragments to preserve and reclaim the item. This will cost you 250,000 Gold. You cannot preserve both the item and the fragments.
 
+## Grand Master Gear
+
+You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". This gear can only be empowered with "ascended fragments".
+
