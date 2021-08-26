@@ -7,7 +7,7 @@
 
 ## Noteworthy Areas
 
-This is not an exhaustive list of all hunting areas, but rather some recommended hunting areas.
+This is not an exhaustive list of all hunting areas, but rather some recommended hunting areas, based on my personal experience.
 
 | **Name** | **Level Range** | **Notes** |
 | - | - | - |
@@ -16,10 +16,11 @@ This is not an exhaustive list of all hunting areas, but rather some recommended
 | Astrid (South) | 11 - 25 | All enemies are passive. |
 | Dubhaim Castle | 20 - 50 | Dunans drop Talos Fragments. <br> Effective for solo Priests. |
 | Lynith Sea | 31 - 55 | All enemies are passive in entrance. |
-| House Macabre (Nikuru or Spiders) | 41 - 50 | Nikuru are passive. |
+| House Macabre (Nikuru) | 41 - 50 | Nikuru are passive. |
 | Undine Field (North) | 50 - 65 |  |
 | Cthonic Remains (11-30) | 61 - 99 |  |
 | Kasmanium Mines | 65 - 99 |  |
+| Oren Sewers Cube Rooms | 99 | Very high experience with Wizards casting Gar spells. <br> Very dangerous. |
 
 ## XP Drain
 
