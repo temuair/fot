@@ -24,5 +24,7 @@ XP COST = 8,500,000
 
 ## Remarks
 
+You should consider only purchasing stats with experience when your HP is at or near its minimum (4000). When done this way, you will spend less experience overall when [maxing your stats](../stats/#maximum-stats).
+
 Once a particular stat is higher than 150, it may be more effecient in terms of experience to purchase stats one by one by ascending for 250 HP and turning that HP into one stat. However, this will require you to use a Succubus hair for every stat point placed using this method.
 
