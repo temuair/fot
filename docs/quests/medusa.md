@@ -25,7 +25,7 @@ You transform your Dusty Pearl into a Polished Pearl by entering Lynith Sea 1. N
 
 ### Talisman Halves
 
-The Left and Right Talisman Halves can be found as drops from monsters in the Oren Ruins, which you will travel through in order to collect your Bag of Gems. You will likely complete this part of the quest while defeating enemies while you travel and I recommend starting with the the Pouch of Gems before (explicitly) farming the Talisman Halves.
+The Left and Right Talisman Halves can be found as drops from monsters in the Oren Ruins, which you will travel through in order to collect your Pouch of Gems. You will likely complete this part of the quest while defeating enemies while you travel and I recommend starting with the the Pouch of Gems before (explicitly) farming the Talisman Halves.
 
 The Left Talisman Half drops from monsters on the second floor of Oren Ruins and the Right Talisman Half drops from enemies on the third floor of Oren Ruins.
 
@@ -65,7 +65,7 @@ When you are finished digging up the bones, you should have a total of nine Copp
 
 The Ruby Gemstone is obtained by using your Copper Bones to summon the Copper Draco in the Oren Ruins Altar 1 room (accessed from Oren Ruins 2-16). The Copper Draco is Dark defense and Dark attack. You may need to recast debuffs if the Draco clears them. Suain makes the fight much easier.
 
-The Copper Draco drops the Ruby Gemstone and also has a chance of dropping the same kind of bones that are dug up outside in the Oren Ruins. It may be possible to summon and additional Dracos if you get enough of such bones.
+The Copper Draco drops the Ruby Gemstone and also has a chance of dropping the same kind of bones that are dug up outside in the Oren Ruins. It may be possible to summon additional Dracos if you get enough of such bones.
 
 #### Sapphire Gemstone
 
@@ -94,7 +94,7 @@ Ensure you have all the requirements in order to create the Medusa Talisman:
 - Polished Pearl
 - Pouch of Gems
 
-Return to Duncan in the Nobis Pub (Nobis Village - 29, 49) and tell him that you found talisman pieces and he will forge them into an Empty Talisman. If you speak to him again, he will forge the Medusa Talisman by combining the Empty Talisman with your Polished Pearl and Pouch of Gems.
+Return to Duncan in the Nobis Pub (Nobis Village - 29, 49). Tell him that you found talisman pieces and he will forge them into an Empty Talisman. If you speak to him again, he will forge the Medusa Talisman by combining the Empty Talisman with your Polished Pearl and Pouch of Gems.
 
 ### Medusa Creant Fight
 
