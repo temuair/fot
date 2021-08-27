@@ -41,3 +41,8 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
 - The first Dragon Scale Sword was claimed by Kalina.
 - The first Super Peasant was Jesus.
 
+## Deoch 3
+
+- The first Medusa Creant was slain by either Kobunyi's and ShadowKami's group, or Pablito's group.
+- The first Taurent Creant was slain by Requiem (unverified).
+
