@@ -78,3 +78,9 @@
 | Wizardry Things | 5 | 6,750 XP | |
 | [Undiam Village](../undiam_village) | 11+ | Undiam Ore <br> Experience | Venture into Undiam Village to recover Undiam Ore. |
 
+## Grand Master Quests
+
+| Name | Level | Rewards | Summary |
+| - | - | - | - |
+| [Medusa Creant](../medusa) | Master | Grand Master Rewards <br> <div class="LegendText">Defeated the Medusa Creant</div> | Forge the Medusa Talisman and defeat the Medusa Creant. |
+
