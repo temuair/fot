@@ -35,6 +35,8 @@ Collecting the Pouch of Gems is the most time-intensive part of the Medusa Crean
 
 The Oren Ruins can be accessed by travelling north through Oren Village (30, 1). You should walk through the gate, rather than around, as it is considered bad luck not to do so. While you are travelling throughout the Oren Ruins, you may wish to **not** cas Fas Nadur on yourself, as enemies cast Light elemental spells and have Dark melee attacks.
 
+Be warned that Gorgons spawn in all the boss rooms, so it is not safe to go AFK while in those rooms.
+
 #### Copper Bones
 
 You will need to collect nine Copper Bones throughout the outside part of Oren Ruins. In order to dig up the bones, you will need to buy a shovel and assail with it equipped. If you cannot unequip your equipped weapon because of subpathing, it is possible to have another character dig up with bones for you. However, there is a cooldown between the time any character can dig up the same bones twice.
