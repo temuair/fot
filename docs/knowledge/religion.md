@@ -14,14 +14,14 @@ You may also pray to the Gods within your trinity. That is, you can pray to the 
 
 | **God** | **Temple Location** | **Initiation Benefit** | **Prayer Effect** | **Item Enchant** | **Enemies** | **Allies** |
 | - | - | - | - | - | - | - |
-| **Cail** | Undine | +3 Con | +20 Hit | +1 Con | Fiosachd & Sgrios | Glioca & Luathas |
-| **Ceannlaidir** | Piet | +3 Str | +DMG | +1 Str | Glioca & Luathas | Fiosachd & Sgrios |
-| **Deoch** | Suomi | +4 Con <br> -1 Wis | Regen | Regen | Fiosachd & Luathas | Glioca & Sgrios |
-| **Fiosachd** | Abel | +3 Dex | Group Hide <br> (Not Self) | +1 Dex | Cail & Deoch | Ceannlaidir & Gramail |
-| **Glioca** | Mileth | +3 Wis | Dion | +1 Wis | Ceannlaidir & Gramail | Cail & Deoch |
-| **Gramail** | Loures | +4 Wis <br> -1 Con | Reflect | Magic Resist | Glioca & Sgrios | Fiosachd & Luathas |
-| **Luathas** | Rucesion | +3 Int | +5 Int | +1 Int | Ceannlaidir & Deoch | Cail & Gramail |
-| **Sgrios** | Dubhaum Castle | +6 Str <br> -2 Con <br> -2 Wis | -10 AC | +2 Str <br> -1 Wis <br> -1 Con | Cail & Gramail | Ceannlaidir & Deoch |
+| <img src="../../images/sprites/cail.png"/> <br> **Cail** | Undine | +3 Con | +20 Hit | +1 Con | Fiosachd & Sgrios | Glioca & Luathas |
+| <img src="../../images/sprites/ceannlaidir.png"/> <br> **Ceannlaidir** | Piet | +3 Str | +DMG | +1 Str | Glioca & Luathas | Fiosachd & Sgrios |
+| <img src="../../images/sprites/deoch.png"/> <br>**Deoch** | Suomi | +4 Con <br> -1 Wis | Regen | Regen | Fiosachd & Luathas | Glioca & Sgrios |
+| <img src="../../images/sprites/fiosachd.png"/> <br>**Fiosachd** | Abel | +3 Dex | Group Hide <br> (Not Self) | +1 Dex | Cail & Deoch | Ceannlaidir & Gramail |
+| <img src="../../images/sprites/glioca.png"/> <br>**Glioca** | Mileth | +3 Wis | Dion | +1 Wis | Ceannlaidir & Gramail | Cail & Deoch |
+| <img src="../../images/sprites/gramail.png"/> <br>**Gramail** | Loures | +4 Wis <br> -1 Con | Reflect | Magic Resist | Glioca & Sgrios | Fiosachd & Luathas |
+| <img src="../../images/sprites/luathas.png"/> <br>**Luathas** | Rucesion | +3 Int | +5 Int | +1 Int | Ceannlaidir & Deoch | Cail & Gramail |
+| <img src="../../images/sprites/sgrios.png"/> <br>**Sgrios** | Dubhaum Castle | +6 Str <br> -2 Con <br> -2 Wis | -10 AC | +2 Str <br> -1 Wis <br> -1 Con | Cail & Gramail | Ceannlaidir & Deoch |
 
 ## Religious Activities
 
