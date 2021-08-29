@@ -21,6 +21,7 @@ This is not an exhaustive list of all hunting areas, but rather some recommended
 | Cthonic Remains (11-30) | 61 - 99 |  |
 | Kasmanium Mines | 65 - 99 |  |
 | Oren Sewers Cube Rooms | 99 | Very high experience with Wizards casting Gar spells. <br> Very dangerous. |
+| Oren Ruins | 99 | Very high experience with Wizards casting Gar spells. |
 
 ## XP Drain
 
