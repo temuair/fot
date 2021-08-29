@@ -8,11 +8,11 @@ In order to become a Master, you will need to have 200M experience (reaching lev
 
 | **Class** | **Master Set** |
 | - | - |
-| Monk | Gold Sand <br> Cauldron |
-| Priest | Holy Ink <br> Holy Scroll |
-| Rogue | Copper File <br> Smith's Hammer |
-| Warrior | Jackal's Hilt <br> Jackal's Blade |
-| Wizard | Magic Ink <br> Magic Scroll |
+| **Monk** | Gold Sand <br> Cauldron |
+| **Priest** | Holy Ink <br> Holy Scroll |
+| **Rogue** | Copper File <br> Smith's Hammer |
+| **Warrior** | Jackal's Hilt <br> Jackal's Blade |
+| **Wizard** | Magic Ink <br> Magic Scroll |
 
 These master sets can be obtained from slaying monsters in the deepest parts of the Cthonic Remains. The sets drop on floors 51-56. However, it can be a dangerous place for the unprepared, so be sure to bring help with you!
 
