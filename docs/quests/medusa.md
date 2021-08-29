@@ -67,15 +67,21 @@ When you are finished digging up the bones, you should have a total of nine Copp
 
 #### Ruby Gemstone
 
+<img src="../../images/sprites/copper_draco.png"/>
+
 The Ruby Gemstone is obtained by using your Copper Bones to summon the Copper Draco in the Oren Ruins Altar 1 room (accessed from Oren Ruins 2-16). The Copper Draco is Dark defense and Dark attack. You may need to recast debuffs if the Draco clears them. Suain makes the fight much easier.
 
 The Copper Draco drops the Ruby Gemstone and also has a chance of dropping the same kind of bones that are dug up outside in the Oren Ruins. It may be possible to summon additional Dracos if you get enough of such bones.
 
 #### Sapphire Gemstone
 
+<img src="../../images/sprites/lava_golem.png"/>
+
 The Sapphire Gemstone is obtained by defeating the Ancient Lava Golem in the Oren Ruins Altar 2 room (accessed from Oren Ruins 2-10). Summoning the Golem will consume your Ruby Gemstone, but reward you with a Sapphire Gemstone. The Lava Golem has Fire Defense, so be sure to use Sea element when fighting it. You may need to recast debuffs in the fight. Suain makes the fight much easier.
 
 #### Amber Gemstone
+
+<img src="../../images/sprites/fire_hydraco.png"/>
 
 The Amber Gemstone is obtained by defeating the Ancient Fire Hydraco in the Oren Ruins Altar 3 room (accessed from Oren Ruins 3-10). Summoning the Hydraco will consume your Sapphire Gemstone, but reward you with an Amber Gemstone.
 
@@ -86,6 +92,8 @@ The Amber Gemstone is obtained by defeating the Ancient Fire Hydraco in the Oren
 You may need to cast debuffs if the fight goes slowly. Suain makes the fight much easier.
 
 #### Obtaining the Pouch
+
+<img src="../../images/sprites/fire_drake.png"/>
 
 The Pouch of Gems is obtained by defeating the Ancient Fire Drake in the Oren Ruins Altar 4 room (accessed from Oren Ruins 3-16). Summoning the Drake will consume your Amber Gemstone, but reward you with a Pouch of Gems. The Drake has Dark defense. You may need to recast debuffs in the fight. Suain makes the fight much easier.
 
@@ -101,6 +109,8 @@ Ensure you have all the requirements in order to create the Medusa Talisman:
 Return to Duncan in the Nobis Pub (Nobis Village - 29, 49). Tell him that you found talisman pieces and he will forge them into an Empty Talisman. If you speak to him again, he will forge the Medusa Talisman by combining the Empty Talisman with your Polished Pearl and Pouch of Gems.
 
 ### Medusa Creant Fight
+
+<img src="../../images/sprites/medusa.png"/>
 
 The Medusa is summoned in the Oren Ruins Altar 5 room (accessed from Oren Ruins 3-2).
 
