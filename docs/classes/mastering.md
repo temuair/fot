@@ -8,11 +8,13 @@ In order to become a Master, you will need to have 200M experience (reaching lev
 
 | **Class** | **Master Set** |
 | - | - |
-| **Monk** <br> <img src="../../images/sprites/male_monk.png"/> <img src="../../images/sprites/female_monk.png"/> | Gold Sand <br> Cauldron |
-| **Priest** <br> <img src="../../images/sprites/male_priest.png"/> <img src="../../images/sprites/female_priest.png"/> | Holy Ink <br> Holy Scroll |
-| **Rogue** <br> <img src="../../images/sprites/male_rogue.png"/> <img src="../../images/sprites/female_rogue.png"/> | Copper File <br> Smith's Hammer |
-| **Warrior** <br> <img src="../../images/sprites/male_warrior.png"/> <img src="../../images/sprites/female_warrior.png"/> | Jackal's Hilt <br> Jackal's Blade |
-| **Wizard** <br> <img src="../../images/sprites/male_wizard.png"/> <img src="../../images/sprites/female_wizard.png"/> | Magic Ink <br> Magic Scroll |
+| **Monk** <br> <img src="../../images/sprites/male_monk.png"/> <img src="../../images/sprites/female_monk.png"/> | <img src="../../images/sprites/sand.png"/> <img src="../../images/sprites/cauldron.png"/> <br> Gold Sand & Cauldron |
+| **Priest** <br> <img src="../../images/sprites/male_priest.png"/> <img src="../../images/sprites/female_priest.png"/> | <img src="../../images/sprites/ink.png"/> <img src="../../images/sprites/scroll.png"/> <br>Holy Ink & Holy Scroll |
+| **Rogue** <br> <img src="../../images/sprites/male_rogue.png"/> <img src="../../images/sprites/female_rogue.png"/> | <img src="../../images/sprites/file.png"/> <img src="../../images/sprites/hammer.png"/> <br>Copper File & Smith's Hammer |
+| **Warrior** <br> <img src="../../images/sprites/male_warrior.png"/> <img src="../../images/sprites/female_warrior.png"/> | <img src="../../images/sprites/broken_hilt.png"/> <img src="../../images/sprites/broken_sword.png"/> <br>Jackal's Hilt & Jackal's Blade |
+| **Wizard** <br> <img src="../../images/sprites/male_wizard.png"/> <img src="../../images/sprites/female_wizard.png"/> | <img src="../../images/sprites/ink.png"/> <img src="../../images/sprites/scroll2.png"/> <br>Magic Ink & Magic Scroll |
+
+<img src="../../images/sprites/bone_dragon.png"/>
 
 These master sets can be obtained from slaying monsters in the deepest parts of the Cthonic Remains. The sets drop on floors 51-56. However, it can be a dangerous place for the unprepared, so be sure to bring help with you!
 
