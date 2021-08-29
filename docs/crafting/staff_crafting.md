@@ -11,19 +11,19 @@ Priests and Wizards are able to craft staves by speaking to the Woodland Priest 
 
 | **Name** | **Requirements** |
 | - | - |
-| Holy Apollo | 1 Finished Ruby <br> Strong Stick <br> 250,000 Gold |
-| Holy Diana | 2 Finished Coral <br> Strong Stick <br> 250,000 Gold |
-| Holy Kronos | 1 Uncut Beryl <br> Strong Stick <br> 250,000 Gold |
-| Holy Gaea | 1 Uncut Coral <br> Strong Stick <br> 250,000 Gold |
-| Holy Zeus | 2 Finished Beryl <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/apollo.png"/> <br> Holy Apollo | 1 Finished Ruby <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/diana.png"/> <br> Holy Diana | 2 Finished Coral <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/kronos.png"/> <br> Holy Kronos | 1 Uncut Beryl <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/gaea.png"/> <br> Holy Gaea | 1 Uncut Coral <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/zeus.png"/> <br> Holy Zeus | 2 Finished Beryl <br> Strong Stick <br> 250,000 Gold |
 
 ## Wizard Staves
 
 | **Name** | **Requirements** |
 | - | - |
-| Magus Apollo | 1 Finished Ruby <br> Strong Stick <br> 250,000 Gold |
-| Magus Diana | 2 Finished Coral <br> Strong Stick <br> 250,000 Gold |
-| Magus Kronos | 1 Uncut Beryl <br> Strong Stick <br> 250,000 Gold |
-| Magus Gaea | 1 Uncut Coral <br> Strong Stick <br> 250,000 Gold |
-| Magus Zeus | 2 Finished Beryl <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/apollo.png"/> <br> Magus Apollo | 1 Finished Ruby <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/diana.png"/> <br> Magus Diana | 2 Finished Coral <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/kronos.png"/> <br> Magus Kronos | 1 Uncut Beryl <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/gaea.png"/> <br> Magus Gaea | 1 Uncut Coral <br> Strong Stick <br> 250,000 Gold |
+| <img src="../../images/sprites/zeus.png"/> <br> Magus Zeus | 2 Finished Beryl <br> Strong Stick <br> 250,000 Gold |
 
