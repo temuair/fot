@@ -7,6 +7,8 @@
 
 ## Obtaining a Backpack
 
+<img src="../../images/sprites/backpack.png" />
+
 Each Aisling can obtain one backpack for free from any Tailor in Temuair. Simply speak to a Tailor and ask about "Backpacks".
 
 ## Usage
