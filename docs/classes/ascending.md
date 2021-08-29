@@ -8,6 +8,8 @@ In order to be able to ascend, you need to complete the quest to slay the Bone D
 
 ## Experience Cost
 
+### Stats
+
 When ascending for stats directly at the Temple of Choosing, the experience cost formula appears to be as follows. Credit goes to Pablito for discovering this formula.
 
 Let STAT be the current base value of the stat you're going to raise.
