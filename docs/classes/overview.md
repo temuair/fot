@@ -11,13 +11,23 @@ Every Aisling starts their adventure as a Peasant. However, you can choose your 
 
 **Monk**: Monks fight with their powerful hands and feet. They are very defensive and have a variety of useful spells.
 
+<img src="../../images/sprites/male_monk.png"/> <img src="../../images/sprites/female_monk.png"/>
+
 **Priest**: Priests support their group with healing spells, as well as a variety of beneficial spells and curses.
+
+<img src="../../images/sprites/male_priest.png"/> <img src="../../images/sprites/female_priest.png"/>
 
 **Rogue**: Rogues excel when fighting indirectly: studying their enemies, attacking from behind, and using traps.
 
+<img src="../../images/sprites/male_rogue.png"/> <img src="../../images/sprites/female_rogue.png"/>
+
 **Warrior**: Warriors fight with a variety of weapons and shields. They want to get in close and hit the enemy hard.
 
+<img src="../../images/sprites/male_warrior.png"/> <img src="../../images/sprites/female_warrior.png"/>
+
 **Wizard**: Wizards are the masters of magic elements. They cast elemental spells and augment or change the elements of their enemies.
+
+<img src="../../images/sprites/male_wizard.png"/> <img src="../../images/sprites/female_wizard.png"/>
 
 ## Class Names
 

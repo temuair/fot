@@ -1,5 +1,7 @@
 # Medusa Creant
 
+<img src="../../images/sprites/medusa.png"/>
+
 The Medusa Creant quest involves creating the Medusa Talisman in order to summon and defeat Medusa. Completing the Medusa Creant quest is part of Grand Mastering and is required to transcend your class.
 
 ## Quest

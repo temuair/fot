@@ -1,5 +1,7 @@
 # Priest Guide
 
+<img src="../../images/sprites/male_priest.png"/> <img src="../../images/sprites/female_priest.png"/>
+
 ## Subbing
 
 ### Overview
