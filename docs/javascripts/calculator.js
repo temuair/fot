@@ -1,6 +1,6 @@
 function maxStatsCalculator() {
 
-	const calculatorTarget = document.getElementById("calculator-target");
+	const calculatorClass = document.getElementById("calculator-class");
 	const calculatorHP = document.getElementById("calculator-hp");
 	const calculatorButton = document.getElementById("calculator-button");
 	const calculatorExperience = document.getElementById("calculator-experience");
@@ -17,35 +17,36 @@ function maxStatsCalculator() {
 	const targetConBox = document.getElementById("calculator-target-con");
 	const targetDexBox = document.getElementById("calculator-target-dex");
 
-	calculatorTarget.onchange = function() {
 
-		var target = calculatorTarget.value
+	calculatorClass.onchange = function() {
 
-		if (target == "monk") {
+		var className = calculatorClass.value
+
+		if (className == "monk") {
 			targetStrBox.value = "180";
 			targetIntBox.value = "150";
 			targetWisBox.value = "100";
 			targetConBox.value = "215";
 			targetDexBox.value = "100";
-		} else if (target == "priest") {
+		} else if (className == "priest") {
 			targetStrBox.value = "100";
 			targetIntBox.value = "180";
 			targetWisBox.value = "215";
 			targetConBox.value = "150";
 			targetDexBox.value = "100";
-		} else if (target == "rogue") {
+		} else if (className == "rogue") {
 			targetStrBox.value = "180";
 			targetIntBox.value = "100";
 			targetWisBox.value = "100";
 			targetConBox.value = "150";
 			targetDexBox.value = "215";
-		} else if (target == "warrior") {
+		} else if (className == "warrior") {
 			targetStrBox.value = "215";
 			targetIntBox.value = "100";
 			targetWisBox.value = "100";
 			targetConBox.value = "180";
 			targetDexBox.value = "150";
-		} else if (target == "wizard") {
+		} else if (className == "wizard") {
 			targetStrBox.value = "100";
 			targetIntBox.value = "215";
 			targetWisBox.value = "180";
@@ -95,6 +96,7 @@ function maxStatsCalculator() {
 		calculatorExperience.value = total.toLocaleString("en-US");
 
 	}
+
 }
 
 if (document.getElementById("max-stats-calculator") != null) {
