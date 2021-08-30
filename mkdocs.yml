@@ -13,10 +13,14 @@ theme:
 extra_css:
         - stylesheets/extra.css
 
+extra_javascript:
+        - javascripts/calculator.js
+
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
 
 nav:
   - Home: index.md
@@ -44,3 +48,5 @@ nav:
           - Rogue: weapons/rogue.md
   - Maps and Coords:
           - Mileth Crypt: maps/mileth_crypt.md
+  - Tools:
+          - Max Stats XP Calculator: tools/max_stats_calculator.md
