@@ -14,13 +14,13 @@ You may also pray to the Gods within your trinity. That is, you can pray to the 
 
 | **God** | **Temple Location** | **Initiation Benefit** | **Prayer Effect** | **Item Enchant** | **Enemies** | **Allies** |
 | - | - | - | - | - | - | - |
-| <img src="../../images/sprites/cail.png"/> <br> **Cail** | Undine | +3 Con | +20 Hit | +1 Con | Fiosachd & Sgrios | Glioca & Luathas |
-| <img src="../../images/sprites/ceannlaidir.png"/> <br> **Ceannlaidir** | Piet | +3 Str | +DMG | +1 Str | Glioca & Luathas | Fiosachd & Sgrios |
-| <img src="../../images/sprites/deoch.png"/> <br>**Deoch** | Suomi | +4 Con <br> -1 Wis | Regen | Regen | Fiosachd & Luathas | Glioca & Sgrios |
-| <img src="../../images/sprites/fiosachd.png"/> <br>**Fiosachd** | Abel | +3 Dex | Group Hide <br> (Not Self) | +1 Dex | Cail & Deoch | Ceannlaidir & Gramail |
-| <img src="../../images/sprites/glioca.png"/> <br>**Glioca** | Mileth | +3 Wis | Dion | +1 Wis | Ceannlaidir & Gramail | Cail & Deoch |
-| <img src="../../images/sprites/gramail.png"/> <br>**Gramail** | Loures | +4 Wis <br> -1 Con | Reflect | Magic Resist | Glioca & Sgrios | Fiosachd & Luathas |
-| <img src="../../images/sprites/luathas.png"/> <br>**Luathas** | Rucesion | +3 Int | +5 Int | +1 Int | Ceannlaidir & Deoch | Cail & Gramail |
+| <img src="../../images/sprites/cail.png"/> <br> **Cail** | Undine | +3 Con | <img src="../../images/sprites/cail_prayer.png"/> <br> +20 Hit | +1 Con | Fiosachd & Sgrios | Glioca & Luathas |
+| <img src="../../images/sprites/ceannlaidir.png"/> <br> **Ceannlaidir** | Piet | +3 Str | <img src="../../images/sprites/ceann_prayer.png"/> <br> +DMG | +1 Str | Glioca & Luathas | Fiosachd & Sgrios |
+| <img src="../../images/sprites/deoch.png"/> <br>**Deoch** | Suomi | +4 Con <br> -1 Wis | <img src="../../images/sprites/deoch_prayer.png"/> <br> Regen | Regen | Fiosachd & Luathas | Glioca & Sgrios |
+| <img src="../../images/sprites/fiosachd.png"/> <br>**Fiosachd** | Abel | +3 Dex | <img src="../../images/sprites/fio_prayer.png"/> <br>Group Hide <br> (Not Self) | +1 Dex | Cail & Deoch | Ceannlaidir & Gramail |
+| <img src="../../images/sprites/glioca.png"/> <br>**Glioca** | Mileth | +3 Wis | <img src="../../images/sprites/glioca_prayer.png"/> <br> Dion | +1 Wis | Ceannlaidir & Gramail | Cail & Deoch |
+| <img src="../../images/sprites/gramail.png"/> <br>**Gramail** | Loures | +4 Wis <br> -1 Con | <img src="../../images/sprites/gramail_prayer.png"/> <br> Reflect | Magic Resist | Glioca & Sgrios | Fiosachd & Luathas |
+| <img src="../../images/sprites/luathas.png"/> <br>**Luathas** | Rucesion | +3 Int | <img src="../../images/sprites/luathas_prayer.png"/> <br> +5 Int | +1 Int | Ceannlaidir & Deoch | Cail & Gramail |
 | <img src="../../images/sprites/sgrios.png"/> <br>**Sgrios** | Dubhaum Castle | +6 Str <br> -2 Con <br> -2 Wis | -10 AC | +2 Str <br> -1 Wis <br> -1 Con | Cail & Gramail | Ceannlaidir & Deoch |
 
 ## Religious Activities
@@ -36,6 +36,8 @@ The prayer activities vary depending on which god is being prayed to and all of 
 | Pray for (God). | Increases your faith with the God. |
 
 ### Cleric
+
+<img src="../../images/sprites/woman1.png"/>
 
 These activies are performed by speaking to the cleric at the temple of your god. Additionally, you can access the God's Prayer for the allies of your god by visiting their temples and speaking with their clerics.
 
@@ -63,14 +65,14 @@ Relics are obtained by priests when their faith exceeds the ability to perform m
 
 | **Name** | **First Option** | **Cooldown** | **Second Option** | **Cooldown** |
 | - | - | - | - | - |
-| **Cail** | Recall your party. <br> (teleports party to you) | 2 hours | None | |
-| **Ceannlaidir** | Gain 10% max HP. <br> (temporary) | 10 mins | Give 10% max HP to group. <br> (temporary) | 10 mins |
-| **Deoch** | Feel the warmth of Deoch. <br> (casts Inner Fire) | 10 mins | Summon Deoch's Curse. <br> (casts Ard Cradh Gar) | 10 mins |
-| **Fiosachd** | Cloak your self in shadow. <br> (casts Hide) | 1 min | Cloak your party in shadow. <br> (casts group Hide) | 10 mins |
-| **Glioca** | Heal a scar of Sgrios from another. | 4 hours | Heal a scar of Sgrios from yourself. | 4 hours |
-| **Gramail** | Gain 10% max MP. <br> (temporary) | 10 mins | Give 10% max MP to group. <br> (temporary)| 10 mins |
-| **Luathas** | Fas Spiorad <br> (sacrifice health for mana) | 10 mins | Mor Strioch Bais Gar <br> (use all MP to attack all enemies) | 10 mins |
-| **Sgrios** | Empower yourself greatly. <br> (+6 str) | 10 mins | Empower your party. <br> (+3 str) | 10 mins |
+| <img src="../../images/sprites/cail_symbol.png"/> <br> **Cail** | Recall your party. <br> (teleports party to you) | 2 hours | None | |
+| <img src="../../images/sprites/ceann_symbol.png"/> <br> **Ceannlaidir** | Gain 10% max HP. <br> (temporary) | 10 mins | Give 10% max HP to group. <br> (temporary) | 10 mins |
+| <img src="../../images/sprites/deoch_symbol.png"/> <br> **Deoch** | Feel the warmth of Deoch. <br> (casts Inner Fire) | 10 mins | Summon Deoch's Curse. <br> (casts Ard Cradh Gar) | 10 mins |
+| <img src="../../images/sprites/fio_symbol.png"/> <br> **Fiosachd** | Cloak your self in shadow. <br> (casts Hide) | 1 min | Cloak your party in shadow. <br> (casts group Hide) | 10 mins |
+| <img src="../../images/sprites/glioca_symbol.png"/> <br> **Glioca** | Heal a scar of Sgrios from another. | 4 hours | Heal a scar of Sgrios from yourself. | 4 hours |
+| <img src="../../images/sprites/gramail_symbol.png"/> <br> **Gramail** | Gain 10% max MP. <br> (temporary) | 10 mins | Give 10% max MP to group. <br> (temporary)| 10 mins |
+| <img src="../../images/sprites/luathas_symbol.png"/> <br> **Luathas** | Fas Spiorad <br> (sacrifice health for mana) | 10 mins | Mor Strioch Bais Gar <br> (use all MP to attack all enemies) | 10 mins |
+| <img src="../../images/sprites/sgrios_symbol.png"/> <br> **Sgrios** | Empower yourself greatly. <br> (+6 str) | 10 mins | Empower your party. <br> (+3 str) | 10 mins |
 
 ## Considerations
 
