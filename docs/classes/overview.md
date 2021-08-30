@@ -7,27 +7,39 @@
 
 ## Choosing a Class
 
+<img src="../../images/sprites/male_peasant.png"/> <img src="../../images/sprites/female_peasant.png"/>
+
 Every Aisling starts their adventure as a Peasant. However, you can choose your path at level 5 at the Temple of Choosing in Mileth. This will likely be one of the most important choices you make. There are five paths an Aisling can go down: Monk, Priest, Rogue, Warrior, and Wizard. Every class has unique strengths and weaknesses:
 
-**Monk**: Monks fight with their powerful hands and feet. They are very defensive and have a variety of useful spells.
+### Monk
 
 <img src="../../images/sprites/male_monk.png"/> <img src="../../images/sprites/female_monk.png"/>
 
-**Priest**: Priests support their group with healing spells, as well as a variety of beneficial spells and curses.
+Monks fight with their powerful hands and feet. They are very defensive and have a variety of useful spells.
+
+### Priest
 
 <img src="../../images/sprites/male_priest.png"/> <img src="../../images/sprites/female_priest.png"/>
 
-**Rogue**: Rogues excel when fighting indirectly: studying their enemies, attacking from behind, and using traps.
+Priests support their group with healing spells, as well as a variety of beneficial spells and curses.
+
+### Rogue
 
 <img src="../../images/sprites/male_rogue.png"/> <img src="../../images/sprites/female_rogue.png"/>
 
-**Warrior**: Warriors fight with a variety of weapons and shields. They want to get in close and hit the enemy hard.
+Rogues excel when fighting indirectly: studying their enemies, attacking from behind, and using traps.
+
+### Warrior
 
 <img src="../../images/sprites/male_warrior.png"/> <img src="../../images/sprites/female_warrior.png"/>
 
-**Wizard**: Wizards are the masters of magic elements. They cast elemental spells and augment or change the elements of their enemies.
+Warriors fight with a variety of weapons and shields. They want to get in close and hit the enemy hard.
+
+### Wizard
 
 <img src="../../images/sprites/male_wizard.png"/> <img src="../../images/sprites/female_wizard.png"/>
+
+Wizards are the masters of magic elements. They cast elemental spells and augment or change the elements of their enemies.
 
 ## Class Names
 
@@ -42,6 +54,8 @@ While your class name remains the same if you do not choose a [subpath](../subbi
 | **Wizard** | Dark Druid | Cleric | Trickster | Stormbreaker | Wizard |
 
 ## Super Peasant
+
+<img src="../../images/sprites/male_peasant.png"/> <img src="../../images/sprites/female_peasant.png"/>
 
 There is an additional hidden class: the Super Peasant. Please read the [Super Peasant](../super_peasant) page for more information.
 
