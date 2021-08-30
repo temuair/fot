@@ -27,6 +27,8 @@ You transform your Dusty Pearl into a Polished Pearl by entering Lynith Sea 1. N
 
 ### Talisman Halves
 
+<img src="../../images/sprites/talisman_left.png"/> <img src="../../images/sprites/talisman_right.png"/>
+
 The Left and Right Talisman Halves can be found as drops from monsters in the Oren Ruins, which you will travel through in order to collect your Pouch of Gems. You will likely complete this part of the quest while defeating enemies while you travel and I recommend starting with the the Pouch of Gems before (explicitly) farming the Talisman Halves.
 
 The Left Talisman Half drops from monsters on the second floor of Oren Ruins and the Right Talisman Half drops from enemies on the third floor of Oren Ruins.
@@ -98,6 +100,8 @@ You may need to cast debuffs if the fight goes slowly. Suain makes the fight muc
 The Pouch of Gems is obtained by defeating the Ancient Fire Drake in the Oren Ruins Altar 4 room (accessed from Oren Ruins 3-16). Summoning the Drake will consume your Amber Gemstone, but reward you with a Pouch of Gems. The Drake has Dark defense. You may need to recast debuffs in the fight. Suain makes the fight much easier.
 
 ### Medusa Talisman
+
+<img src="../../images/sprites/talisman_whole.png"/>
 
 Ensure you have all the requirements in order to create the Medusa Talisman:
 
