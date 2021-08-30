@@ -4,7 +4,7 @@
 }
 
 table { border: none; border-collapse: collapse; }
-table td { border-left: .05rem solid var(--md-default-fg-color--lightest)}
+table:not([class]) td { border-left: .05rem solid var(--md-default-fg-color--lightest)}
 
 .md-typeset__table {
 	min-width: 100%;
@@ -18,3 +18,18 @@ table td { border-left: .05rem solid var(--md-default-fg-color--lightest)}
 	color: var(--legend-colour)
 }
 
+.CalculatorInputBox {
+	border:1px solid var(--md-primary-fg-color);
+	background-color: white;
+}
+
+.CalculatorInfoBox {
+	border:1px solid var(--md-primary-fg-color);
+	background-color: var(--md-default-fg-color--lightest);
+	color: var(--md-primary-fg-color);
+}
+
+.CalulatorTable {
+	min-width: 0%;
+	border: none;
+}
