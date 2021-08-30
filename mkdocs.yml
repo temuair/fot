@@ -48,5 +48,6 @@ nav:
           - Rogue: weapons/rogue.md
   - Maps and Coords:
           - Mileth Crypt: maps/mileth_crypt.md
+          - Kasmanium Mines: maps/kasmanium.md
   - Tools:
           - Max Stats XP Calculator: tools/max_stats_calculator.md
