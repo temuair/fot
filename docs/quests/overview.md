@@ -8,7 +8,6 @@
 | [Broken Pen](../broken_pen) | 3 | 3,000 XP <br> 1,000 Gold <br> Random Item | A wolf has slipped through a broken fence and is terrorizing a Mileth farm. |
 | Devlin's Bookshelf | 3 | 30,000 XP <br> 25,000 Gold <br> Hydele Deum <br> Beag Ioc Deum | |
 | Connor's Pests  | 3 | ? | |
-| Annebelle's Letter <br>(Heart of Fire) | 21 | ? | |
 | Bee Quest | 6 | 100,000 XP |  |
 | [Gain a Religion](../../knowledge/religion) | 8 | 500 XP <br> 5,000 Gold <br> Permanent Stats | Choose a religion. <br> Warning: You cannot change religions! |
 | [Tagor Protector](../tagor_protector) | 8 | 80,000 XP <br> <div class="LegendText">Tagor Historian</div> | Protect the citizens of Tagor from the undead and discover their origin. |
@@ -18,6 +17,7 @@
 | West Woods Invaders | 20 | 725,000 XP <br> Class-Related Weapon <br> <div class="LegendText">Dire Wolf Slayer</div> | |
 | Terror of the Alley | 20 | 75,000 XP <br> 20,000 Gold <br> <div class="LegendText">Slew the Terror of the Alley</div> |  |
 | Steadfast Soldier | 20 | 20,000 XP <br> 250,000 Gold <br> <div class="LegendText">Steadfast Soldier</div> Steadfast Map | |
+| Annebelle's Letter <br> (Heart of Fire) | 21 | ? | |
 | Mileth Crypt 10-1 Shortcut | 20 | 250,000 XP |  |
 | Mileth Crypt 20-1 Shortcut | 40 | 500,000 XP |  |
 | Mileth Crypt 30-1 Shortcut | 55 | 500,000 XP |  |
