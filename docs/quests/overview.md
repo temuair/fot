@@ -22,7 +22,6 @@
 | Mileth Crypt 20-1 Shortcut | 40 | 500,000 XP |  |
 | Mileth Crypt 30-1 Shortcut | 55 | 500,000 XP |  |
 | Restore Harmony to Astrid | 21 | <div class="LegendText">Resotred Harmony to Astrid</div> |  |
-| Craft Lorica / Cotehardie | 26 (Warrior) | Lorica or Cotehardie |  |
 | Oren Tower | ? | ? |  |
 | Passage to A'Chaid | 65 | Kas Mines 5-1 Shortcut |  |
 | Nightmare Quest | 80 | ? |  |
@@ -70,6 +69,12 @@
 | - | - | - | - |
 | [Dubhaim Crypt](../dubhaim_crypt) | 11+ | Dubhaim Ore <br> Experience | Venture into Dubhaim Crypt to recover Dubhaim Ore. |
 
+### Warrior
+
+| Name | Level | Rewards | Summary |
+| - | - | - | - |
+| Craft Lorica / Cotehardie | 26 (Warrior) | Lorica or Cotehardie |  |
+
 ### Wizard
 
 | Name | Level | Rewards | Summary |
@@ -83,4 +88,3 @@
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
 | [Medusa Creant](../medusa) | Master | Grand Master Rewards <br> <div class="LegendText">Defeated the Medusa Creant</div> | Forge the Medusa Talisman and defeat the Medusa Creant. |
-
