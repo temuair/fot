@@ -11,7 +11,7 @@
 | Bee Quest | 6 | 100,000 XP |  |
 | [Gain a Religion](../../knowledge/religion) | 8 | 500 XP <br> 5,000 Gold <br> Permanent Stats | Choose a religion. <br> Warning: You cannot change religions! |
 | [Tagor Protector](../tagor_protector) | 8 | 80,000 XP <br> <div class="LegendText">Tagor Historian</div> | Protect the citizens of Tagor from the undead and discover their origin. |
-| Terror of the Crypt | 11 | 35,000 XP <br> 10,000 Gold <br> <div class="LegendText">Slew the Terror of the Crypt</div> | |
+| [Terror of the Crypt](../terror_of_the_crypt) | 11 | 35,000 XP <br> 50,000 Gold <br> <div class="LegendText">Slew the Terror of the Crypt</div> | Investigate the terror of Mileth Crypt. |
 | Dire Wolf Fabric | 10 | 20,000 XP <br> 10,000 Gold <br> Access to Abel Island |   |
 | Save the Princess of Loures | 11 | 120,000 XP <br> <div class="LegendText"> Saved the Princess of Loures</div> | |
 | West Woods Invaders | 20 | 725,000 XP <br> Class-Related Weapon <br> <div class="LegendText">Dire Wolf Slayer</div> | |
