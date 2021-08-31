@@ -1,16 +1,16 @@
 | Item | Level | Damage | Attributes | Price | Location |
 |-|-|-|-|-|-|
-| Snow Dagger | 1 | 10 - 15 | | 1,000 | Abel Weapon Shop |
+| <img src="../../images/sprites/dirk.png"/> <br> Snow Dagger | 1 | 10 - 15 | | 1,000 | Abel Weapon Shop |
 | | 1 - Good | 11 - 15 | | | |
 | | 1 - Fine | 12 - 15 | | | |
 | | 2 - Grand | 12 - 16 | | | |
 | | 2 - Great | 13 - 17 | | | |
-| Center Dagger | 4 | 20 - 30 | | 3,000 | Abel Weapon Shop |
+| <img src="../../images/sprites/center_dagger.png"/> <br> Center Dagger | 4 | 20 - 30 | | 3,000 | Abel Weapon Shop |
 | | 4 - Good | 22 - 30 | | | |
 | | 4 - Fine | 22 - 32 | | | |
 | | 4 - Grand | 24 - 32 | | | |
 | | 4 - Great | 22 - 36 | | | |
-| Blossom Dagger | 14 | 30 - 40 | | 7,000 | Loures Castle Armoury |
+| <img src="../../images/sprites/blossom_dagger.png"/> <br> Blossom Dagger | 14 | 30 - 40 | | 7,000 | Loures Castle Armoury |
 | | 15 - Good | 32 - 40 | | | |
 | | 16 - Fine | 32 - 42 | | | |
 | | 17 - Grand | 34 - 44 | | | |
@@ -62,3 +62,4 @@
 | | 88 - Grand | 110 - 140 | | | |
 | | 88 - Great | 110 - 145 | +3 DEX | | |
 | Blood Dagger | 89 | 110 - 180 | Can't be smithed | | Mantaray Drop |
+

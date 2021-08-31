@@ -13,5 +13,5 @@ While most staves have a low chance of dropping in higher-level hunting areas, m
 | <img src="../../images/sprites/apollo.png"/> <br> Holy Apollo | 11 | 1 - 10 | ? |
 | <img src="../../images/sprites/hermes.png"/> <br> Holy Hermes | 11 | 1 - 10 | Ioc Spells become 0 Lines |
 | Alzar's Staff | 11 | 1 - 10 | Colour variant of Holy Diana <br> +5 Dex <br> Does not perish on death. |
-| Stone Cross | 98 | 1 - 180 | +100 HP <br> -2 STR |
+| <img src="../../images/sprites/stone_cross.png"/> <br> Stone Cross | 98 | 1 - 180 | +100 HP <br> -2 STR |
 

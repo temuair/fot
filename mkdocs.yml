@@ -42,10 +42,11 @@ nav:
           - Priest: spells/priest.md
   - Weapons:
           - All: weapons/all.md
-          - Warrior: weapons/warrior.md
+          - Monk: weapons/monk.md
           - Priest: weapons/priest.md
-          - Wizard: weapons/wizard.md
           - Rogue: weapons/rogue.md
+          - Warrior: weapons/warrior.md
+          - Wizard: weapons/wizard.md
   - Maps and Coords:
           - Mileth Crypt: maps/mileth_crypt.md
           - Kasmanium Mines: maps/kasmanium.md
