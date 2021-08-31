@@ -73,7 +73,8 @@
 
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
-| Craft Lorica / Cotehardie | 26 (Warrior) | Lorica or Cotehardie |  |
+| [Urach Village](../urach_village) | 11+ | Urach Ore <br> Experience | Venture into Urach Village to recover Urach Ore. |
+| Craft Lorica / Cotehardie | 26 | Lorica or Cotehardie |  |
 
 ### Wizard
 
