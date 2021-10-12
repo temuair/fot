@@ -159,4 +159,10 @@ The following is a table of how much experience you need in order to level. This
 |98|305123500|9525400|194200|
 |99|314648900|||
 
+## AB Needed
+
+| Ability | Next AB |
+| - | - |
+| 1 | 5000 |
+| 2 | 5000 |
 
