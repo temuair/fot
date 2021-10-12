@@ -10,6 +10,10 @@ Fragments of Temuair is a Dark Ages-inspired game created by Slyk, built upon th
 
 ## News
 
+**2021-10-10**
+
+It is now Deoch 4 and Medenia has been released!
+
 **2021-08-29**
 
 The [Mileth Fair](../knowledge/mileth_fair) has been released!
