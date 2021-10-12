@@ -20,7 +20,7 @@ When ascending for stats directly at the Temple of Choosing, the experience cost
 
 Let STAT be the current base value of the stat you're going to raise.
 
-XP COST = STAT * (BASE\_HP * 17)
+XP COST = STAT * (BASE HP) * 17
 
 ### Example
 
@@ -29,6 +29,20 @@ For example, if my base HP is 5000 at I want to raise my strength from 100 to 10
 XP COST = 100 * (5000 * 17)
 
 XP COST = 8,500,000
+
+## HP
+
+When ascending for health by speaking to Deoch, the experience cost formula appears to be as follows:
+
+**50 HP**
+
+XP COST = (BASE HP) * 500
+
+**500 HP**
+
+XP COST = (BASE HP) * 5000
+
+It is most efficient to buy 500 HP at a time, as you pay the cost relative to the starting point, rather than the increased cost at every 50 HP increment.
 
 ## Remarks
 
