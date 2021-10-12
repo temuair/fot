@@ -9,7 +9,7 @@
 
 This is not an exhaustive list of all hunting areas, but rather some recommended hunting areas, based on my personal experience.
 
-| **Name** | **Level Range** | **Notes** |
+| **Name** | **Approximate<br>Level Range** | **Notes** |
 | - | - | - |
 | Mileth Crypt (1-3) | 3 - 15 | Enemies on floors 1 and 2 have no elemental defense. |
 | Tagor Path | 8 - 20 | All enemies are undead. <br> Effective for solo Priests. |
@@ -20,12 +20,24 @@ This is not an exhaustive list of all hunting areas, but rather some recommended
 | Undine Field (North) | 50 - 65 |  |
 | Cthonic Remains (11-30) | 61 - 99 |  |
 | Kasmanium Mines | 65 - 99 |  |
-| Oren Sewers Cube Rooms | 99 | Very high experience with Wizards casting Gar spells. <br> Very dangerous. |
+| Ice Caves | 70+ | Very useful place for leeching level 70+ characters. |
 | Oren Ruins | 99 | Very high experience with Wizards casting Gar spells. |
+
+## Example Progression
+
+The following are typically the areas I hunt when leveling a new character:
+
+| **Name** | **Approximate<br>Level Range** |
+| - | - |
+| Mileth Crypt <br> East Woodlands <br> Astrid (Leech) | 1 - 20 |
+| Dubhaim Castle | 20 - 50 |
+| Undine Field (North) | 50 - 70 |
+| Ice Caves (Leech) | 70+ |
+| Oren Ruins <br> Chaos | 99+ |
 
 ## XP Drain
 
-Every additional group member drains a small amount of XP (~7%) that would be granted to the group. Additionally, the level difference between the highest level group member and lowest level group member should not be more than 20. A difference of 20 or greater will result in a severe experience penalty for group members.
+Every additional group member drains a small amount of XP (~5% of solo XP) that would be granted to the group. Additionally, the level difference between the highest level group member and lowest level group member should not be more than 20. A difference of 20 or greater will result in a severe experience penalty for group members.
 
 ## XP Loss
 
