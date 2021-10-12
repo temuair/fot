@@ -89,3 +89,5 @@
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
 | [Medusa Creant](../medusa) | Master | Grand Master Rewards <br> <div class="LegendText">Defeated the Medusa Creant</div> | Forge the Medusa Talisman and defeat the Medusa Creant. |
+| [Tauren Creant](../tauren) | Master | Grand Master Rewards <br> <div class="LegendText">Defeated the Tauren Creant</div> | Collect items and defeat the Tauren Creant. |
+

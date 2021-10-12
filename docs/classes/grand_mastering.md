@@ -9,12 +9,12 @@ Becoming a Grand Master involves summoning and defeating each of the four creant
         <td><center><img src="../../images/sprites/phoenix.png"/></center></td>
         <td><center><img src="../../images/sprites/shamensyth.png"/></center></td>
         <td><center><a href="../../quests/medusa"><img src="../../images/sprites/medusa.png"/></a></center></td>
-        <td><center><img src="../../images/sprites/tauren.png"/></center></td>
+        <td><center><a href="../../quests/tauren"><img src="../../images/sprites/tauren.png"/></a></center></td>
     </tr>
     <tr>
         <td><center><b>Lady Phoenix</b></center></td>
         <td><center><b>Shamensyth</b></center></td>
         <td><center><b><a href="../../quests/medusa">Medusa</a></b></center></td>
-        <td><center><b>Tauren</b></center></td>
+        <td><center><b><a href="../../quests/tauren">Tauren</a></b></center></td>
 </table>
 
