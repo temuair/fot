@@ -1,6 +1,6 @@
 # History
 
-This page is an informal record of Fragments of Temuair's player history. I (Eric) am one player, with a limited perspective, so this information may be somewhat inaccurate.
+This page is an informal record of Fragments of Temuair's player history. I (Eric) am one player, with a limited perspective, so this information may be somewhat inaccurate. Please message Eric in-game or on Discord if you believe something should be added or corrected. Thanks!
 
 ## Deoch 1
 
@@ -45,4 +45,9 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
 
 - The first Medusa Creant was slain by either Kobunyi's and ShadowKami's group, or Pablito's group.
 - The first Taurent Creant was slain by Requiem (unverified).
+
+## Deoch 4
+
+- The following characters witnessed Law's demise: Rager, Link, Drakeness, Cloud, Gutierrez, Archie, Verran, Pablito, BowJobs, Kobunyi, Eric, Bunyi, Hank, Citti, Ramhu, and Skyfire.
+- Pablito dealt the final blow to Law and release Temuair from The Rift.
 
