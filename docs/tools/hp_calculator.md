@@ -4,13 +4,13 @@
 
   <table class="CalculatorTable">
   <tr>
-  <td>Current HP: </td>
+  <td>Current: </td>
   <td><input type="text" size="6" value="4000" class="CalculatorInputBox md-typeset" id="hp-calculator-current"></td>
   </tr>
 
   <tr>
-  <td>Target HP: </td>
-  <td><input type="text" size="6" value="4000" class="CalculatorInputBox md-typeset" id="hp-calculator-target"></td>
+  <td>Target: </td>
+  <td><input type="text" size="6" value="8000" class="CalculatorInputBox md-typeset" id="hp-calculator-target"></td>
   </tr>
 
   </table>
