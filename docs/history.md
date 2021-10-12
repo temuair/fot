@@ -15,7 +15,7 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
 
 ## Deoch 2
 
-- The Cthonic Uprising has been revealed by: Aurann, Ackter, Kobunyi, Arkane, Death, Bunyi, Krum, Chip, Verran, Eric, Tenebris, Pablito, and Toast!
+- The [Cthonic Uprising](https://www.youtube.com/watch?v=JFlnyDdtQas) has been revealed by: Aurann, Ackter, Kobunyi, Arkane, Death, Bunyi, Krum, Chip, Verran, Eric, Tenebris, Pablito, and Toast!
 - The first Phoenix Creant was slain by Valerie, KHUG, and Jeff. (Unverified)
 - The first Shamansynth Creant was slain by Orko, Pablito, and Gutierrez. (Unverified)
 - The first masters of each class were:
@@ -48,6 +48,6 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
 
 ## Deoch 4
 
-- The following characters witnessed Law's demise: Rager, Link, Drakeness, Cloud, Gutierrez, Archie, Verran, Pablito, BowJobs, Kobunyi, Eric, Bunyi, Hank, Citti, Ramhu, and Skyfire.
+- The following characters witnessed [Law's Demise](https://www.youtube.com/watch?v=wRUIuWESW2I): Rager, Link, Drakeness, Cloud, Gutierrez, Archie, Verran, Pablito, BowJobs, Kobunyi, Eric, Bunyi, Hank, Citti, Ramhu, and Skyfire.
 - Pablito dealt the final blow to Law and release Temuair from The Rift.
 
