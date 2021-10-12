@@ -15,6 +15,7 @@ extra_css:
 
 extra_javascript:
         - javascripts/calculator.js
+        - javascripts/hp_calculator.js
 
 markdown_extensions:
   - admonition
@@ -52,4 +53,5 @@ nav:
           - Mileth Crypt: maps/mileth_crypt.md
           - Kasmanium Mines: maps/kasmanium.md
   - Tools:
-          - Max Stats XP Calculator: tools/max_stats_calculator.md
+          - Max Stats Calculator: tools/max_stats_calculator.md
+          - HP Calculator: tools/hp_calculator.md
