@@ -59,3 +59,7 @@ While your class name remains the same if you do not choose a [subpath](../subbi
 
 There is an additional hidden class: the Super Peasant. Please read the [Super Peasant](../super_peasant) page for more information.
 
+## Progression
+
+As your character grows in power, you may eventually [subclass](../subbing), [master](../mastering) your class, become a [grand master](../grand_mastering), and [transcend](../transcending) your class.
+
