@@ -1,6 +1,6 @@
 # Mastering
 
-Once you reach level 99, you will be able to become a Master of your class. After becoming a Master, you will be able to learn new abilities, increase your character stats, and eventually work towards becoming a Grand Master.
+Once you reach level 99, you will be able to become a Master of your class. After becoming a Master, you will be able to learn new abilities, increase your character stats, and eventually work towards becoming a [Grand Master](../grand_mastering).
 
 ## Requirements
 
