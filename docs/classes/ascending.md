@@ -10,9 +10,9 @@ Ascending is the process of exchanging experience for more character power: heal
 
 In order to be able to ascend, you need to complete the quest to slay the Bone Dragon at the bottom of the Kasmanium Mines, given to you by Ludar in Camp A'Chaid. After slaying the Bone Dragon, be sure to speak with Ludar again to fully complete the quest.
 
-## Experience Cost
+## Stats
 
-### Stats
+### Experience
 
 Please see the [max stats experience calculator](../../tools/max_stats_calculator) to calculate how much experience is required to max your stats.
 
