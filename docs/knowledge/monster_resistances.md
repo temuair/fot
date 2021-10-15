@@ -4,10 +4,24 @@ Below are tables containing damage reductions and elemental resistances.
 
 ## Chaos
 
-| Monster | Phys Dmg reduction (Average)| Mag Dmg Reduction (Average) | Fire <br> resistance| Water <br> resistance | Earth <br> resistance | Wind <br> resistance | Dark <br> resistance | Light <br> resistance |
-| - | - | - | - | - | - | - | - | - |
+Monsters marked with * indicate their resistance states change. Their resistances change between 12-18 seconds. Special attention should be given to 100% magic damage reduction when using spells to kill.
+
+| Monster | Phys Dmg reduction (Average)| Mag Dmg Reduction (Average) |
+| - | - | - |
+| <img src="../../images/sprites/fire_beetalic.png"/> <br> Fire Beetalic | 0% | 0% |
+| <img src="../../images/sprites/lava_golem.png"/> <br> Flame Elemental* | 0% | 50% <br> or <br> 100% |
+| <img src="../../images/sprites/grand_hydren_-_state1.png"/> <br> Grand Hydren* | 20% | 0% <br> or <br> 100% |
+| <img src="../../images/sprites/hydren_-_stage1.png"/> <br> Hydren* | 20% | 0% <br> or <br> 100% |
+| <img src="../../images/sprites/verdant_losgann.png"/> <br> Logannus | 60% | 20% |
+| <img src="../../images/sprites/death_knight.png"/> <br> Lord Of Death | 100% | 20% |
+| <img src="../../images/sprites/losgann.png"/> <br> Losgann | 60% | 10% |
+| <img src="../../images/sprites/fire_drake.png"/> <br> Molten Drake* | 50% | 0% <br> or <br> 50% |
+| <img src="../../images/sprites/fire_skeleton.png"/> <br> Molten Skeleton* | 20% | 0% <br> or <br> 100% |
+| <img src="../../images/sprites/smol_draco.png"/> <br> Smol Draco | 20% | 12% |
 
 ## Medenia
+
+Medenian monster resistances vary. As such an average was taken for the results shown. Pay attention to 100% immune monsters of a given element.
 
 | Monster | Phys Dmg reduction (Average)| Mag Dmg Reduction (Average) | Fire <br> resistance| Water <br> resistance | Earth <br> resistance | Wind <br> resistance | Dark <br> resistance | Light <br> resistance |
 | - | - | - | - | - | - | - | - | - |
