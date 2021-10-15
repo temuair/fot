@@ -4,6 +4,7 @@
 - [Auction House](../auction_house)
 - [Books](../books)
 - [Backpack](../backpack)
+- [Citizenship](../citizenship)
 - [Guilds](../guilds)
 - [Hairstyling](../hairstyling)
 - [Insurance](../insurance)
