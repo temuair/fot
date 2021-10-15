@@ -91,3 +91,11 @@
 | [Medusa Creant](../medusa) | Master | Grand Master Rewards <br> <div class="LegendText">Defeated the Medusa Creant</div> | Forge the Medusa Talisman and defeat the Medusa Creant. |
 | [Tauren Creant](../tauren) | Master | Grand Master Rewards <br> <div class="LegendText">Defeated the Tauren Creant</div> | Collect items and defeat the Tauren Creant. |
 
+## Medenia Quests
+
+| Name | Level | Rewards | Summary |
+| - | - | - | - |
+| Collect Blue Glue | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Blue Glu from Asilon Prairie |
+| Collect Green Glue | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Green Glu from Asilon Prairie |
+| Collect Snuzz Fuzz | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Snuzz Fuzz from Asilon Prairie |
+
