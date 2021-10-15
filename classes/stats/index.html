@@ -284,22 +284,35 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#overview" class="md-nav__link">
-    Overview
+  <a href="#primary" class="md-nav__link">
+    Primary
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
+    <nav class="md-nav" aria-label="Primary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
   <a href="#general-advice" class="md-nav__link">
     General Advice
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#maximum-stats" class="md-nav__link">
     Maximum Stats
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#secondary-stats" class="md-nav__link">
+    Secondary Stats
   </a>
   
 </li>
@@ -730,22 +743,35 @@
     <ul class="md-nav__list" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#overview" class="md-nav__link">
-    Overview
+  <a href="#primary" class="md-nav__link">
+    Primary
   </a>
   
-</li>
-      
-        <li class="md-nav__item">
+    <nav class="md-nav" aria-label="Primary">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
   <a href="#general-advice" class="md-nav__link">
     General Advice
   </a>
   
 </li>
-      
-        <li class="md-nav__item">
+        
+          <li class="md-nav__item">
   <a href="#maximum-stats" class="md-nav__link">
     Maximum Stats
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#secondary-stats" class="md-nav__link">
+    Secondary Stats
   </a>
   
 </li>
@@ -765,7 +791,7 @@
                 
                 <h1 id="stats">Stats</h1>
 <p>When leveling a character, choosing how you place your stats can have major consequences for how your character plays. Of course, there are many different strategies for allocating stats and this is not a definitive guide, but the following will be an overview of character stats and some general advice.</p>
-<h2 id="overview">Overview</h2>
+<h2 id="primary">Primary</h2>
 <table>
 <thead>
 <tr>
@@ -776,37 +802,30 @@
 <tbody>
 <tr>
 <td><strong>Strength</strong></td>
-<td>Increases the damage of assails (melee attacks) <br> Increases carrying capacity <br> Important for Warriors</td>
+<td>Increases the damage of assails (melee attacks) <br> Increases carrying capacity <br> Every 15 gives +1% Stun Resist</td>
 </tr>
 <tr>
 <td><strong>Intelligence</strong></td>
-<td>Increases the damage of spells <br> Important for Wizards and Priests</td>
+<td>Increases the damage of spells</td>
 </tr>
 <tr>
 <td><strong>Wisdom</strong></td>
-<td>Increases mana regeneration <br> Increases mana gained per level <br> Important for Wizards and Priests <br> Somewhat important for Monks and Rogues</td>
+<td>Increases mana regeneration <br> Increases mana gained per level</td>
 </tr>
 <tr>
 <td><strong>Constitution</strong></td>
-<td>Increases health regeneration <br> Increases health gained per level <br> Increases the damage of Monk abilities <br> Important for Warriors and Monks <br> Somewhat important for Rogues, Wizards, and Priests</td>
+<td>Increases health regeneration <br> Increases health gained per level <br> Increases the damage of some Monk abilities <br> Every 15 gives +1% Blind Resist</td>
 </tr>
 <tr>
 <td><strong>Dexterity</strong></td>
-<td>Increases the damage of Rogue abilities <br> Increases the damage of some Warrior abilities <br> Important for Rogues <br> Somewhat important for Warriors and Monks</td>
+<td>Improves hit rate (?) <br> Increases the damage of some Rogue and Warrior abilities <br> Every 15 gives +1% Poison Resist</td>
 </tr>
 </tbody>
 </table>
-<h2 id="general-advice">General Advice</h2>
+<h3 id="general-advice">General Advice</h3>
 <p>In general, it's important to invest most of your early stats into Constitution, Wisdom, or both (depending or your class). This is because the amount of health and mana you gain per level is dependent on your Constitution and Wisdom, respectively, and the earlier you invest in these stats the more levels there are to benefit from the investment. Depending on what sort of access to stat items you have, you may need to put a few points in other stats to function as your class, but you should try to put as many points in Consitution and Wisdom as early as possible (as makes sense for your class).</p>
-<p>As a rough benchmark:</p>
-<ul>
-<li><strong>Rogues</strong> will benefit greatly from raising their Constitution and Wisdom to 20 before investing much in dexterity.</li>
-<li><strong>Priests</strong> should try to raise their Wisdom to 50, putting only the minimum they need into Intelligence, before raising other stats.</li>
-<li><strong>Warriors</strong> and <strong>Monks</strong> should aim to raise their Constitution to 40 before investing much in other stats.</li>
-<li><strong>Wizards</strong> should try to prioritize Wisdom for Sal spells, while ensuring they are able to learn Fas spells.</li>
-</ul>
 <p>Additionally, whether or not you plan on <a href="../subbing">subbing</a> can change how you want to place your stats. When subbing from Priest or Wizard, you will likely need to be very careful in your stat placement, and not raise any one stat too highly, whereas these concerns don't matter as much if you're going Pure. Notably, although Intelligence is an important stat for Wizards, if you're subbing from a Wizard to another class, you won't need very much Intelligence to obtain all your spells. However, a Wizard that is going Pure would benefit very much from having a high Intelligence.</p>
-<h2 id="maximum-stats">Maximum Stats</h2>
+<h3 id="maximum-stats">Maximum Stats</h3>
 <p>Before transcending your character, the maximum stats you can obtain depends on your class.</p>
 <table>
 <thead>
@@ -859,6 +878,93 @@
 <td>100</td>
 <td>150</td>
 <td>215</td>
+</tr>
+</tbody>
+</table>
+<h2 id="secondary-stats">Secondary Stats</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Stat</strong></th>
+<th><strong>Effect</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Accuracy</td>
+<td></td>
+</tr>
+<tr>
+<td>Dodge</td>
+<td></td>
+</tr>
+<tr>
+<td>Experience Bonus</td>
+<td>The percentage of bonus experience gained when an enemy is killed. In a group setting, the amount of experience is determined by whomever gets the killing blow, and everyone will recieve this amount of experience.</td>
+</tr>
+<tr>
+<td>Drop Rate Bonus</td>
+<td>An increase in the probability of items dropping. Note: if an item normally has a drop rate of 10%, then a +10% drop rate bonus will make the drop rate become 11% (not 20%).</td>
+</tr>
+<tr>
+<td>Elemental Resist</td>
+<td>Reduces elemental damage. 100% elemental resistance means you will take no damage from that element. Elemental resistance is overcome with elemental pierce.</td>
+</tr>
+<tr>
+<td>Elemental Pierce</td>
+<td>The amount of elemental resistance your attacks will ignore. This cannot reduce an enemy's resistances to below 0%.</td>
+</tr>
+<tr>
+<td>Physical Damage Reduction</td>
+<td>Reduces physical damage. 100% physical damage reduction means you will take no damage from physical attacks. Physical damage reduction is overcome by physical damage reduction pierce.</td>
+</tr>
+<tr>
+<td>Physical Damage Reduction Pierce</td>
+<td>The amount of physical damage reduction your attacks will ignore. This cannot reduce an enemy's resistances to below 0%.</td>
+</tr>
+<tr>
+<td>Magic  Damage Reduction</td>
+<td>Reduces magical damage. 100% magical damage reduction means you will take no damage from magical attacks. Magical damage reduction is overcome by magic damage reduction pierce (not elemental pierce for spells).</td>
+</tr>
+<tr>
+<td>Magic Damage Reduction Pierce</td>
+<td>The amount of magic damage reduction your attacks will ignore. This cannot reduce an enemy's resistances to below 0%.</td>
+</tr>
+<tr>
+<td>Sunder Power</td>
+<td></td>
+</tr>
+<tr>
+<td>Spellbreaker Power</td>
+<td></td>
+</tr>
+<tr>
+<td>Extra Gold</td>
+<td>Whether or not enemies will drop extra gold. True or False.</td>
+</tr>
+<tr>
+<td>Vampirism</td>
+<td>The percentage of health you will gain from physical attacks and skills.</td>
+</tr>
+<tr>
+<td>Stun Resist</td>
+<td>The probability of resisting stuns.</td>
+</tr>
+<tr>
+<td>Blind Resist</td>
+<td>The probability of resisting blinds.</td>
+</tr>
+<tr>
+<td>Suain Resist</td>
+<td>The probability of resisting suains.</td>
+</tr>
+<tr>
+<td>Poison Resist</td>
+<td>The probability of resisting poison.</td>
+</tr>
+<tr>
+<td>Pramh Resist</td>
+<td>The probability of resisting pramhs.</td>
 </tr>
 </tbody>
 </table>
