@@ -21,6 +21,7 @@ This is not an exhaustive list of all hunting areas, but rather some recommended
 | Cthonic Remains (11-30) | 61 - 99 |  |
 | Kasmanium Mines | 65 - 99 |  |
 | Ice Caves | 70+ | Very useful place for leeching level 70+ characters. |
+| Loures Canals | 90+ | Will need bashers. <br> All enemies in the first two rooms are water defense. |
 | Oren Ruins | 99 | Very high experience with Wizards casting Gar spells. |
 
 ## Example Progression
