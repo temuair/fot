@@ -9,6 +9,7 @@
 - [Hairstyling](../hairstyling)
 - [Insurance](../insurance)
 - [Labour](../labour)
+- [Monster Resistances](../monster_resistances)
 - [Mileth Fair](../mileth_fair)
 - [Necromancy](../necromancy)
 - [Religion](../religion)
