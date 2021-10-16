@@ -49,9 +49,12 @@ nav:
           - Rogue: weapons/rogue.md
           - Warrior: weapons/warrior.md
           - Wizard: weapons/wizard.md
+  - Armour:
+          - All: armour/all.md
   - Maps and Coords:
           - Mileth Crypt: maps/mileth_crypt.md
           - Kasmanium Mines: maps/kasmanium.md
+          - Asilon: maps/asilon.md
   - Tools:
           - Max Stats Calculator: tools/max_stats_calculator.md
           - HP Calculator: tools/hp_calculator.md
