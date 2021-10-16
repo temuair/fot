@@ -95,7 +95,9 @@
 
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
-| Collect Blue Glue | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Blue Glu from Asilon Prairie |
-| Collect Green Glue | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Green Glu from Asilon Prairie |
-| Collect Snuzz Fuzz | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Snuzz Fuzz from Asilon Prairie |
+| [Collect Blue Glue](../heart_of_asilon) | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Blue Glu from Asilon Prairie |
+| [Collect Green Glue](../heart_of_asilon) | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Green Glu from Asilon Prairie |
+| [Collect Snuzz Fuzz](../heart_of_asilon) | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Snuzz Fuzz from Asilon Prairie |
+| [Relics of Asilon](../heart_of_asilon) | Transcended | Vegetable Stew <br> 1000 AB <br> 2,000,000 Gold | Visit the relics of Asilon Prairie |
+| [Altars of Asilon](../heart_of_asilon) | Transcended | Vegetable Stew <br> 1000 AB <br> 2,000,000 Gold | Visit the altars of Asilon Prairie |
 
