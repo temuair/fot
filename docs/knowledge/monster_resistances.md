@@ -1,10 +1,23 @@
 # Monster Resistances
 
-Below are tables containing damage reductions and elemental resistances.
+Monsters marked with * indicate their resistance states change. Special attention should be given to 100% resistances when using spells to kill.
+
+Below are tables containing damage reductions and elemental resistances. If a monster has 100% magic damage reduction they will take no damage from any spells. This reduction can be overcome by manabreaker rings which each provide 5% pierce.
+
+Using the formula `Damage_Type_Reduction - Pierce_Ammount = Damage_Reduced_By` with 100% magic damage and 5% spell pierce results in 5% damage going through.
+
+Lowering a resist below 0% does not increase damage taken.
+
+## Andor
+
+| Monster | Phys Dmg reduction (Average)| Mag Dmg Reduction (Average) | Fire <br> resistance| Water <br> resistance | Earth <br> resistance | Wind <br> resistance | Dark <br> resistance | Light <br> resistance |
+| - | - | - | - | - | - | - | - | - |
+| <img src="../../images/sprites/larva.png"/> <br> Larva  | ¿? | 0% | 51% | 51% | 51% | 51% | 101% | 101% |
+| <img src="../../images/sprites/bullet_ant.png"/> <br> Bullet Ant* | 17% <br> or <br> 90% | 0% | 1% | 1% | 1% | 1% | 101% | 101% |
 
 ## Chaos
 
-Monsters marked with * indicate their resistance states change. Their resistances change between 12-18 seconds. Special attention should be given to 100% magic damage reduction when using spells to kill.
+Chaos monsters who change resistances change every 12-18 seconds.
 
 | Monster | Phys Dmg reduction (Average)| Mag Dmg Reduction (Average) |
 | - | - | - |
@@ -39,3 +52,6 @@ Medenian monster resistances vary. As such an average was taken for the results 
 | <img src="../../images/sprites/treagle.png"/> <br> Treagle | 14% | 42% | 10% | 10% | 5% | 10% | 20% | 20% |
 | <img src="../../images/sprites/vulture.png"/> <br> Vulture | 45% | 12% | 50% | 5% | 5% | 50% | 60% | 60% |
 
+## Oren Maze
+
+The cubes when dropping below a certain level of health develop 100% magic damage reduction.
