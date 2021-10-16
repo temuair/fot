@@ -47,8 +47,8 @@ While your class name remains the same if you do not choose a [subpath](../subbi
 
 | ↓ First / Second → | **Monk** | **Priest** | **Rogue** | **Warrior** | **Wizard** |
 | - | - | - | - | - | - |
-| **Monk** | Monk | Druid? | Blackguard | Warmonger | Geomancer |
-| **Priest** | Druid? | Priest | Vagabond | Paladin | Scholar |
+| **Monk** | Monk | Acolyte | Blackguard | Warmonger | Geomancer |
+| **Priest** | Druid | Priest | Vagabond | Paladin | Scholar |
 | **Rogue** | Sura | Shadow Priest | Rogue | Mercenary | Shadowmage |
 | **Warrior** | Champion | Crusader | Chaser | Warrior | Swordmage |
 | **Wizard** | Dark Druid | Cleric | Trickster | Stormbreaker | Wizard |
