@@ -14,7 +14,7 @@ extra_css:
         - stylesheets/extra.css
 
 extra_javascript:
-        - javascripts/calculator.js
+        - javascripts/stats_calculator.js
         - javascripts/hp_calculator.js
 
 markdown_extensions:
@@ -56,5 +56,5 @@ nav:
           - Kasmanium Mines: maps/kasmanium.md
           - Asilon: maps/asilon.md
   - Tools:
-          - Max Stats Calculator: tools/max_stats_calculator.md
+          - Stats Calculator: tools/stats_calculator.md
           - HP Calculator: tools/hp_calculator.md

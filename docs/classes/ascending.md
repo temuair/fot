@@ -14,7 +14,7 @@ In order to be able to ascend, you need to complete the quest to slay the Bone D
 
 ### Experience
 
-Please see the [max stats experience calculator](../../tools/max_stats_calculator) to calculate how much experience is required to max your stats.
+Please see the [stats calculator](../../tools/stats_calculator) to calculate how much experience is required to max your stats.
 
 When ascending for stats directly at the Temple of Choosing, the experience cost formula appears to be as follows. Credit goes to Pablito for discovering this formula.
 
@@ -53,6 +53,8 @@ XP COST = 250 * 500,000
 XP COST = 125,000,000
 
 ## HP
+
+Please see the [HP calculator](../../tools/hp_calculator) to calculate how much experience is required to increase your HP.
 
 When ascending for health by speaking to Deoch, the experience cost formula appears to be as follows:
 
