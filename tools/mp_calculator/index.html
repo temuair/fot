@@ -14,7 +14,7 @@
     
     
       
-        <title>Max Stats Calculator - Fragments of Temuair</title>
+        <title>MP Calculator - Fragments of Temuair</title>
       
     
     
@@ -64,7 +64,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#max-stats-xp-calculator" class="md-skip">
+        <a href="#mp-calculator" class="md-skip">
           Skip to content
         </a>
       
@@ -96,7 +96,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              Max Stats Calculator
+              MP Calculator
             
           </span>
         </div>
@@ -682,6 +682,32 @@
           
 
 
+
+  <li class="md-nav__item">
+    <a href="../stats_calculator/" class="md-nav__link">
+      Stats Calculator
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+
+  <li class="md-nav__item">
+    <a href="../hp_calculator/" class="md-nav__link">
+      HP Calculator
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
   
 
 
@@ -693,12 +719,12 @@
     
     
       <label class="md-nav__link md-nav__link--active" for="__toc">
-        Max Stats Calculator
+        MP Calculator
         <span class="md-nav__icon md-icon"></span>
       </label>
     
     <a href="./" class="md-nav__link md-nav__link--active">
-      Max Stats Calculator
+      MP Calculator
     </a>
     
       
@@ -732,19 +758,6 @@
   
 </nav>
     
-  </li>
-
-        
-          
-          
-          
-
-
-
-  <li class="md-nav__item">
-    <a href="../hp_calculator/" class="md-nav__link">
-      HP Calculator
-    </a>
   </li>
 
         
@@ -804,68 +817,34 @@
               
                 
                 
-                <h1 id="max-stats-xp-calculator">Max Stats XP Calculator</h1>
-<form id="max-stats-calculator">
-
-  <label>Class:</label>
-  <select name="class" id="calculator-class">
-    <option value="select">-- Select Class --</option>
-    <option value="monk">Monk</option>
-    <option value="priest">Priest</option>
-    <option value="rogue">Rogue</option>
-    <option value="warrior">Warrior</option>
-    <option value="wizard">Wizard</option>
-  </select>
-
-  <br><br>
-
-  Base HP: <input type="text" size="6" value="4000" class="CalculatorInputBox md-typeset" id="calculator-hp">
-
-  <br><br>
+                <h1 id="mp-calculator">MP Calculator</h1>
+<form id="mp-calculator">
 
   <table class="CalculatorTable">
-
   <tr>
-  <td></td>
-  <td><center>STR</center></td>
-  <td><center>INT</center></td>
-  <td><center>WIS</center></td>
-  <td><center>CON</center></td>
-  <td><center>DEX</center></td>
+  <td>Current: </td>
+  <td><input type="text" size="6" value="4000" class="CalculatorInputBox md-typeset" id="mp-calculator-current"></td>
   </tr>
 
   <tr>
-  <td style="text-align:right">Current:</td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="calculator-current-str"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="calculator-current-int"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="calculator-current-wis"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="calculator-current-con"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="calculator-current-dex"></td>
+  <td>Target: </td>
+  <td><input type="text" size="6" value="8000" class="CalculatorInputBox md-typeset" id="mp-calculator-target"></td>
   </tr>
 
-  <tr>
-  <td style="text-align:right">Target:</td>
-  <td><input type="text" size="3" readonly class="CalculatorInfoBox md-typeset" id="calculator-target-str"></td>
-  <td><input type="text" size="3" readonly class="CalculatorInfoBox md-typeset" id="calculator-target-int"></td>
-  <td><input type="text" size="3" readonly class="CalculatorInfoBox md-typeset" id="calculator-target-wis"></td>
-  <td><input type="text" size="3" readonly class="CalculatorInfoBox md-typeset" id="calculator-target-con"></td>
-  <td><input type="text" size="3" readonly class="CalculatorInfoBox md-typeset" id="calculator-target-dex"></td>
-  </tr>
   </table>
 
   <br>
 
-  XP Needed: <input type="text" size="14" readonly class="CalculatorInfoBox md-typeset" id="calculator-experience">
+  XP Needed: <input type="text" size="14" readonly class="CalculatorInfoBox md-typeset" id="mp-calculator-experience">
 
 </form>
 
 <p><br>
-<a class="md-button md-button--primary" href="#" id="calculator-button">Calculate</a></p>
+<a class="md-button md-button--primary" href="#" id="mp-calculator-button">Calculate</a></p>
 <h2 id="usage">Usage</h2>
-<p>Select your class, enter your base health, and enter your current (base) stats. You don't need to enter values for particular stats that you don't want to calculate (for example, if they're already maxed and you don't want to type it).</p>
+<p>Enter your current and target MP. The calculator will attempt to purchase as many 250 MP increments as possible, and then purchase 25 MP increments until it just exceeds your target MP.</p>
 <h2 id="notes">Notes</h2>
 <ul>
-<li>The minimum HP for buying stats with experience is 4000.</li>
 <li>Please see <a href="../../classes/ascending">Ascending</a> for more information.</li>
 </ul>
                 
@@ -886,7 +865,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../../maps/asilon/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../hp_calculator/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -895,25 +874,11 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Asilon
-              </div>
-            </div>
-          </a>
-        
-        
-          <a href="../hp_calculator/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
-            <div class="md-footer-nav__title">
-              <div class="md-ellipsis">
-                <span class="md-footer-nav__direction">
-                  Next
-                </span>
                 HP Calculator
               </div>
             </div>
-            <div class="md-footer-nav__button md-icon">
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
-            </div>
           </a>
+        
         
       </nav>
     </div>
@@ -940,9 +905,11 @@
         })
       </script>
       
-        <script src="../../javascripts/calculator.js"></script>
+        <script src="../../javascripts/stats_calculator.js"></script>
       
         <script src="../../javascripts/hp_calculator.js"></script>
+      
+        <script src="../../javascripts/mp_calculator.js"></script>
       
     
   </body>

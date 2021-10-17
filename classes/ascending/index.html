@@ -330,11 +330,11 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#stats" class="md-nav__link">
-    Stats
+  <a href="#pre-max-stats" class="md-nav__link">
+    Pre-Max Stats
   </a>
   
-    <nav class="md-nav" aria-label="Stats">
+    <nav class="md-nav" aria-label="Pre-Max Stats">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -346,6 +346,26 @@
         
           <li class="md-nav__item">
   <a href="#example" class="md-nav__link">
+    Example
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#post-max-stats" class="md-nav__link">
+    Post-Max Stats
+  </a>
+  
+    <nav class="md-nav" aria-label="Post-Max Stats">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#example_1" class="md-nav__link">
     Example
   </a>
   
@@ -763,8 +783,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../../tools/max_stats_calculator/" class="md-nav__link">
-      Max Stats Calculator
+    <a href="../../tools/stats_calculator/" class="md-nav__link">
+      Stats Calculator
     </a>
   </li>
 
@@ -778,6 +798,19 @@
   <li class="md-nav__item">
     <a href="../../tools/hp_calculator/" class="md-nav__link">
       HP Calculator
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+
+  <li class="md-nav__item">
+    <a href="../../tools/mp_calculator/" class="md-nav__link">
+      MP Calculator
     </a>
   </li>
 
@@ -819,11 +852,11 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#stats" class="md-nav__link">
-    Stats
+  <a href="#pre-max-stats" class="md-nav__link">
+    Pre-Max Stats
   </a>
   
-    <nav class="md-nav" aria-label="Stats">
+    <nav class="md-nav" aria-label="Pre-Max Stats">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -835,6 +868,26 @@
         
           <li class="md-nav__item">
   <a href="#example" class="md-nav__link">
+    Example
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#post-max-stats" class="md-nav__link">
+    Post-Max Stats
+  </a>
+  
+    <nav class="md-nav" aria-label="Post-Max Stats">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#example_1" class="md-nav__link">
     Example
   </a>
   
@@ -878,17 +931,29 @@
 <h2 id="ascension-quest">Ascension Quest</h2>
 <p><img src="../../images/sprites/bone_dragon.png"/></p>
 <p>In order to be able to ascend, you need to complete the quest to slay the Bone Dragon at the bottom of the Kasmanium Mines, given to you by Ludar in Camp A'Chaid. After slaying the Bone Dragon, be sure to speak with Ludar again to fully complete the quest.</p>
-<h2 id="stats">Stats</h2>
+<h2 id="pre-max-stats">Pre-Max Stats</h2>
 <h3 id="experience">Experience</h3>
-<p>Please see the <a href="../../tools/max_stats_calculator">max stats experience calculator</a> to calculate how much experience is required to max your stats.</p>
+<p>Please see the <a href="../../tools/stats_calculator">stats calculator</a> to calculate how much experience is required to max your stats.</p>
 <p>When ascending for stats directly at the Temple of Choosing, the experience cost formula appears to be as follows. Credit goes to Pablito for discovering this formula.</p>
 <p>Let STAT be the current base value of the stat you're going to raise.</p>
+<p><strong>Before Transcending</strong></p>
 <p>XP COST = STAT * (BASE HP) * 17</p>
+<p><strong>After Transcending</strong></p>
+<p>XP COST = STAT * (BASE HP) * 20</p>
 <h3 id="example">Example</h3>
-<p>For example, if my base HP is 5000 at I want to raise my strength from 100 to 101 then it will cost:</p>
+<p>For example, if my base HP is 5000, haven't transcended, and I want to raise my strength from 100 to 101 then it will cost:</p>
 <p>XP COST = 100 * (5000 * 17)</p>
 <p>XP COST = 8,500,000</p>
+<h2 id="post-max-stats">Post-Max Stats</h2>
+<p>When increasing stats beyond the your class-specific <a href="../stats">maximum for that stat</a>, the cost to increase the stat is as follows:</p>
+<p>Let STAT be the current base value of the stat you're going to raise.</p>
+<p>XP COST = STAT * 500,000</p>
+<h3 id="example_1">Example</h3>
+<p>For example, if I am a Warrior, and I want to raise my strength from 250 to 251:</p>
+<p>XP COST = 250 * 500,000</p>
+<p>XP COST = 125,000,000</p>
 <h2 id="hp">HP</h2>
+<p>Please see the <a href="../../tools/hp_calculator">HP calculator</a> to calculate how much experience is required to increase your HP.</p>
 <p>When ascending for health by speaking to Deoch, the experience cost formula appears to be as follows:</p>
 <p><strong>50 HP</strong></p>
 <p>XP COST = (BASE HP) * 500</p>
@@ -970,9 +1035,11 @@
         })
       </script>
       
-        <script src="../../javascripts/calculator.js"></script>
+        <script src="../../javascripts/stats_calculator.js"></script>
       
         <script src="../../javascripts/hp_calculator.js"></script>
+      
+        <script src="../../javascripts/mp_calculator.js"></script>
       
     
   </body>
