@@ -68,6 +68,22 @@ XP COST = (BASE HP) * 5000
 
 It is most efficient to buy 500 HP at a time, as you pay the cost relative to the starting point, rather than the increased cost at every 50 HP increment.
 
+## MP
+
+Please see the [MP calculator](../../tools/mp_calculator) to calculate how much experience is required to increase your MP.
+
+When ascending for mana by speaking to Gramail, the experience cost formula appears to be as follows:
+
+**25 MP**
+
+XP COST = (BASE MP) * 500
+
+**250 HP**
+
+XP COST = (BASE MP) * 5000
+
+It is most efficient to buy 250 MP at a time, as you pay the cost relative to the starting point, rather than the increased cost at every 25 MP increment.
+
 ## Remarks
 
 You should consider only purchasing stats with experience when your HP is at or near its minimum (4000). When done this way, you will spend less experience overall when [maxing your stats](../stats/#maximum-stats).
