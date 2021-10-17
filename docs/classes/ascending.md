@@ -10,7 +10,7 @@ Ascending is the process of exchanging experience for more character power: heal
 
 In order to be able to ascend, you need to complete the quest to slay the Bone Dragon at the bottom of the Kasmanium Mines, given to you by Ludar in Camp A'Chaid. After slaying the Bone Dragon, be sure to speak with Ludar again to fully complete the quest.
 
-## Stats
+## Pre-Max Stats
 
 ### Experience
 
@@ -20,15 +20,37 @@ When ascending for stats directly at the Temple of Choosing, the experience cost
 
 Let STAT be the current base value of the stat you're going to raise.
 
+**Before Transcending**
+
 XP COST = STAT * (BASE HP) * 17
+
+**After Transcending**
+
+XP COST = STAT * (BASE HP) * 20
 
 ### Example
 
-For example, if my base HP is 5000 at I want to raise my strength from 100 to 101 then it will cost:
+For example, if my base HP is 5000, haven't transcended, and I want to raise my strength from 100 to 101 then it will cost:
 
 XP COST = 100 * (5000 * 17)
 
 XP COST = 8,500,000
+
+## Post-Max Stats
+
+When increasing stats beyond the your class-specific [maximum for that stat](../stats), the cost to increase the stat is as follows:
+
+Let STAT be the current base value of the stat you're going to raise.
+
+XP COST = STAT * 500,000
+
+### Example
+
+For example, if I am a Warrior, and I want to raise my strength from 250 to 251:
+
+XP COST = 250 * 500,000
+
+XP COST = 125,000,000
 
 ## HP
 
