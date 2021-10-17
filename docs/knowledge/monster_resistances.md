@@ -23,8 +23,8 @@ Chaos monsters who change resistances change every 12-18 seconds.
 | - | - | - |
 | <img src="../../images/sprites/fire_beetalic.png"/> <br> Fire Beetalic | 0% | 0% |
 | <img src="../../images/sprites/lava_golem.png"/> <br> Flame Elemental* | 0% | 50% <br> or <br> 100% |
-| <img src="../../images/sprites/grand_hydren_-_state1.png"/> <br> Grand Hydren* | 20% | 0% <br> or <br> 100% |
-| <img src="../../images/sprites/hydren_-_stage1.png"/> <br> Hydren* | 20% | 0% <br> or <br> 100% |
+| <img src="../../images/sprites/grand_hydren.png"/> <br> Grand Hydren* | 20% | 0% <br> or <br> 100% |
+| <img src="../../images/sprites/hydren.png"/> <br> Hydren* | 20% | 0% <br> or <br> 100% |
 | <img src="../../images/sprites/verdant_losgann.png"/> <br> Logannus | 60% | 20% |
 | <img src="../../images/sprites/death_knight.png"/> <br> Lord Of Death | 100% | 20% |
 | <img src="../../images/sprites/losgann.png"/> <br> Losgann | 60% | 10% |
