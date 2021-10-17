@@ -16,6 +16,7 @@ extra_css:
 extra_javascript:
         - javascripts/stats_calculator.js
         - javascripts/hp_calculator.js
+        - javascripts/mp_calculator.js
 
 markdown_extensions:
   - admonition
@@ -58,3 +59,5 @@ nav:
   - Tools:
           - Stats Calculator: tools/stats_calculator.md
           - HP Calculator: tools/hp_calculator.md
+          - MP Calculator: tools/mp_calculator.md
+
