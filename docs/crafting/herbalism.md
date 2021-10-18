@@ -1,5 +1,9 @@
 # Herbalism
 
+!!! warning
+
+    The following information is still a work in progress!
+
 ## Overview
 
 Herbalism is performed with the 'Herbalism' or 'Herbal Lore' spell active. These spells are learned by Priest and Monks. Herbalism involves mixing items in your inventory with herbs in the world, which is done by stepping on to the herbs. The result will be some sort of potion added to your inventory.

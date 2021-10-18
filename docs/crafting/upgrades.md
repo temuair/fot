@@ -5,6 +5,10 @@
   <figcaption>Tagor Forge</figcaption>
 </figure>
 
+!!! warning
+
+    The following information is still a work in progress!
+
 You can upgrade items by speaking with Maldor at Tagor Forge. In order to upgrade items, you spend 100,000 Gold to attempt to upgrade the item in your first inventory slot. If the upgrade is successful, the item improves by +1 upgrade and some abilities may be unlocked for the item. If the upgrade is unsuccessful the item is destroyed.
 
 <img src="../../images/sprites/talgonite.png" /> <img src="../../images/sprites/silver_bar.png" />
