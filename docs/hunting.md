@@ -54,6 +54,10 @@ While not necessary, it can be very helpful to have someone read the elements of
 
 There are signs that exist in hunting areas throughout Temuair. These signs will offer quests to slay 10 of a particular kind of enemy and reward you with a level-appropriate amount of XP for completing the quest. You can do these quests 4 (?) times per day, per location (i.e. Mileth Crypt, East Woodlands, etc.). However, it is possible that if you level into a different level bracket, you may be able to do quests again at a particular location after previously completing them all. It's worthwhile grabbing these sign quests regularly while hunting, if it doesn't take too long to travel back and forth.
 
+## Aggro
+
+For some particular enemies, aggro (short for "aggressive/ness") will not be dropped by leaving their vision. Instead, they will continue to chase you accross the map until either something else draws their attention or you leave the map.
+
 ## Experience Boost
 
 A server-wide experience boost of 10% can be triggered for 30 minutes by giving the beggar in East Woodlands 5,000,000 Gold.
