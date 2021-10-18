@@ -62,3 +62,33 @@ Rewards:
 - 2,000,000 Gold
 - 1000 AB
 
+## Asilon Trials
+
+You enter the Asilon Trials by navigating to Asilon Prairie 6 (19, 20), entering the Asilon Trials Entry, and speaking with Gatekeeper Y'chal. The trial consists of five rounds, comprised mostly of enemies found throughout the Asilon Prairie. Almost all enemies are aggressive and cast ao sith and pramh. You should avoid healers getting aggro, so that they can remain buffed and ressurect teammates without problems.
+
+You should probably have a group of 3 or more people.
+
+### Round 1
+
+You will need to defeat all the enemies on the map. You should try to only pull a few at a time, unless you're confident in your abilities.
+
+### Round 2
+
+Very similar to the previous round. You will need to defeat all enemies.
+
+### Round 3
+
+The boss is non-aggresive, but moves quickly and appears to change its physical and magical resistances over time. Try to trap the boss so that it can't move and freeze / poison / blind the boss as much as possible.
+
+### Round 4
+
+There will be enemies all over the map. However, you do not need to kill all the enemies to proceed. Collect the amulet in the southern corner of the map and return it to the center of the map. The other enemies will despawn. All enemies are hostile.
+
+### Round 5
+
+The final round consists of a single, aggressive boss that moves quickly and appears to change its physical and magical resistances over time. Try to trap the boss so that it can't move and freeze / poison / blind the boss as much as possible.
+
+### Conclusion
+
+Speak with the Gatekeeper after you complete the trial, collect your Heart of Asilon and return to Gustav in Asilon Town. You will then be able to upgrade your Grand Master or Medenia equipment.
+
