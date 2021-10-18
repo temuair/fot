@@ -164,8 +164,9 @@ The following is a table of how much experience you need in order to level. This
 
 | Ability | Approximate AB Needed |
 | - | - |
-| 1 | 5000 |
-| 2 | 5000 |
-| 3 | 6500 |
-| 4 | 8300 |
+| 1 | 5,000 |
+| 2 | 5,000 |
+| 3 | 6,500 |
+| 4 | 8,300 |
+| 5 | 11,500 |
 
