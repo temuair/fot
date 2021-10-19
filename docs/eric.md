@@ -51,7 +51,7 @@ Class: Paladin
 - Strength (+5 Str)
 - 3x Accuracy (+15% Accuracy)
 
-Grand Master War Plate
+## Grand Master War Plate
 
 **Noam**
 
