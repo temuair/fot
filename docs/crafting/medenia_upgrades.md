@@ -6,9 +6,11 @@
 
 Medenia upgrades can be obtained by completing quests in Medenia that reward them.
 
-## Weapons
+## Asilon
 
-### 1st Upgrade
+### Weapons
+
+#### 1st Upgrade
 
 | Upgrade | Effect |
 | - | - |
@@ -22,9 +24,23 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
 
-## Chest Armour
+### Chest Armour
 
-### 1st Upgrade
+#### 1st Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str ? |
+| Intelliggence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+
+### Helmet
+
+#### 1st Upgrade
 
 | Upgrade | Effect |
 | - | - |
@@ -36,12 +52,16 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
 
-## Helmet
+## Noam
 
-### 1st Upgrade
+### Weapons
+
+#### 1st Upgrade
 
 | Upgrade | Effect |
 | - | - |
+| Weapon Max Damage | +40 Max Damage |
+| Weapon Minimum Damage | ? |
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str ? |
@@ -49,4 +69,46 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Wisdom | +5 Wis ? |
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
+
+#### 2nd Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Weapon Max Damage | +40 Max Damage |
+| Weapon Minimum Damage | ? |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str ? |
+| Intelliggence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | ? |
+| Accuracy | ? |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+
+#### 3rd Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Weapon Max Damage | +40 Max Damage ? |
+| Weapon Minimum Damage | ? |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str ? |
+| Intelliggence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | ? |
+| Accuracy | ? |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+| Total Weapon Damage | ? |
+| Life Steal | ? |
 
