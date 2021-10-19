@@ -5,8 +5,11 @@
   <figcaption>Aldair in Mileth</figcaption>
 </figure>
 
-
 Class specializations are permanent choices you make that effect your characters abilities. These specializations persist with subpathing and you can select new options after starting your new path.
+
+!!! warning
+
+    The following information is still a work in progress!
 
 ## All Classes
 
