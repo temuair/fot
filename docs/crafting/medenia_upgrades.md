@@ -112,3 +112,16 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Total Weapon Damage | ? |
 | Life Steal | ? |
 
+### Chest Armour
+
+#### 1st Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str ? |
+| Intelliggence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
