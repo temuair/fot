@@ -26,6 +26,7 @@ Class specializations are permanent choices you make that effect your characters
 | Double Punch or Kick | ? | Aldair (Mileth) |
 | Double Punch or High Kick | ? | Aldair (Mileth) |
 | Double Punch or Mantis Kick | ? | Aldair (Mileth) |
+| Mantis Kick (+50%) or Triple Kick | AB1? | Hankreld (Noam) |
 
 ## Priest
 
