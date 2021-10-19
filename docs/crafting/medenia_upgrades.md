@@ -134,8 +134,10 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Total Weapon Damage | +60 Min Damage, +60 Max Damage ? |
 | Life Steal | ? |
 | Spell Line Reduction (Weapon) | -1 Spell Lines |
-| Enhance Wind Blade <br> (Path of the Warrior) | ? |
+| Enhance Wind Blade <br> (Path of the Warrior) | +15% Windblade |
 | Enhance Ioc Spells <br> (Path of the Priest) | ? |
+| Enhance Creag Spells <br> (Path of the Wizard) | ? |
+| Enhance Swift Hand <br> (Path of the Rogue) | +5% Swift Hand |
 
 ### Chest Armour
 
@@ -189,7 +191,7 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Damage Reduction | +2% Physical Damage Reduction |
 | Damage Reduction Pierce | ? |
 | Experience Increase | ? |
-| Drop Rate Increase | ? |
+| Drop Rate Increase | +5% |
 
 #### 4th Upgrade
 
@@ -211,9 +213,11 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Damage Reduction | ? |
 | Damage Reduction Pierce | ? |
 | Experience Increase | ? |
-| Drop Rate Increase | ? |
+| Drop Rate Increase | +5% |
 | Enhance Wind Blade <br> (Path of the Warrior) | ? |
-| Enhance Ioc Spells <br> (Path of the Priest) | ? |
+| Enhance Ioc Spells <br> (Path of the Priest) | +15% Windblade |
+| Enhance Creag Spells <br> (Path of the Wizard) | ? |
+| Enhance Swift Hand <br> (Path of the Rogue) | +5% Swift Hand |
 
 ### Helmet
 
@@ -282,6 +286,8 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
-| Enhance Wind Blade <br> (Path of the Warrior) | ? |
+| Enhance Wind Blade <br> (Path of the Warrior) | +15% Windblade |
 | Enhance Ioc Spells <br> (Path of the Priest) | ? |
+| Enhance Creag Spells <br> (Path of the Wizard) | ? |
+| Enhance Swift Hand <br> (Path of the Rogue) | +5% Swift Hand |
 
