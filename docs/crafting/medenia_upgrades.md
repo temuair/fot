@@ -19,7 +19,7 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str ? |
-| Intelliggence | +5 Int ? |
+| Intelligence | +5 Int ? |
 | Wisdom | +5 Wis ? |
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
@@ -33,7 +33,7 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str ? |
-| Intelliggence | +5 Int ? |
+| Intelligence | +5 Int ? |
 | Wisdom | +5 Wis ? |
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
@@ -47,7 +47,7 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str ? |
-| Intelliggence | +5 Int ? |
+| Intelligence | +5 Int ? |
 | Wisdom | +5 Wis ? |
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
@@ -65,7 +65,7 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str ? |
-| Intelliggence | +5 Int ? |
+| Intelligence | +5 Int ? |
 | Wisdom | +5 Wis ? |
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
@@ -79,13 +79,13 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str ? |
-| Intelliggence | +5 Int ? |
+| Intelligence | +5 Int ? |
 | Wisdom | +5 Wis ? |
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
 | Durability | ? |
 | Weight Reduction | ? |
-| Armour Class | ? |
+| Armour Class | -2 AC |
 | Accuracy | ? |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
@@ -99,7 +99,29 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str ? |
-| Intelliggence | +5 Int ? |
+| Intelligence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | -2 AC |
+| Accuracy | ? |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+| Total Weapon Damage | +60 Min Damage, +60 Max Damage |
+| Life Steal | ? |
+
+#### 4th Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Weapon Max Damage | +40 Max Damage ? |
+| Weapon Minimum Damage | ? |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str ? |
+| Intelligence | +5 Int ? |
 | Wisdom | +5 Wis ? |
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
@@ -109,8 +131,11 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Accuracy | ? |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
-| Total Weapon Damage | ? |
+| Total Weapon Damage | +60 Min Damage, +60 Max Damage ? |
 | Life Steal | ? |
+| Spell Line Reduction (Weapon) | -1 Spell Lines |
+| Enhance Wind Blade <br> (Path of the Warrior) | ? |
+| Enhance Ioc Spells <br> (Path of the Priest) | ? |
 
 ### Chest Armour
 
@@ -120,8 +145,143 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | - | - |
 | Health | ? |
 | Mana | ? |
-| Strength | +5 Str ? |
-| Intelliggence | +5 Int ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int ? |
 | Wisdom | +5 Wis ? |
 | Constitution | +5 Con ? |
 | Dexterity | +5 Dex ? |
+
+#### 2nd Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | -2 AC? |
+| Accuracy | +5% Accuracy |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+
+#### 3rd Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | -2 AC? |
+| Accuracy | +5% Accuracy |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+| Damage Reduction | +2% Physical Damage Reduction |
+| Damage Reduction Pierce | ? |
+| Experience Increase | ? |
+| Drop Rate Increase | ? |
+
+#### 4th Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | -2 AC? |
+| Accuracy | +5% Accuracy |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+| Damage Reduction | ? |
+| Damage Reduction Pierce | ? |
+| Experience Increase | ? |
+| Drop Rate Increase | ? |
+| Enhance Wind Blade <br> (Path of the Warrior) | ? |
+| Enhance Ioc Spells <br> (Path of the Priest) | ? |
+
+### Helmet
+
+#### 1st Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+
+#### 2nd Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | -2 AC? |
+| Accuracy | +5% Accuracy |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+
+#### 3rd Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | -2 AC? |
+| Accuracy | +5% Accuracy |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+
+#### 4th Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int ? |
+| Wisdom | +5 Wis ? |
+| Constitution | +5 Con ? |
+| Dexterity | +5 Dex ? |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | -2 AC? |
+| Accuracy | +5% Accuracy |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+| Enhance Wind Blade <br> (Path of the Warrior) | ? |
+| Enhance Ioc Spells <br> (Path of the Priest) | ? |
+
