@@ -3,6 +3,7 @@
 ## External Websites
 
 - [Official Website](https://fragmentsoftemuair.com/)
+- [Official Forum](https://fragmentsoftemuair1.wixsite.com/website/forum)
 - [Community Discord](https://discord.gg/tWCPfyBnV9)
 - [Eric's FoT YouTube Channel](https://www.youtube.com/channel/UCi29XwM61SWBSMpxIr3s0Cg)
 - [Claudine's FoT Website](https://sevmccauley.wixsite.com/fragments)
