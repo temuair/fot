@@ -21,6 +21,12 @@ Class: Paladin
 - Wind Blade (+2%)
 - Assault (+2%)
 - Assail (+10%)
+- 3x Wind Blade (+30%)
+- Assault (+10%)
+- Clobber (+10%)
+- 2x Crasher (+20%)
+- Wallop (+10%)
+- Crasher (+30%)
 
 ## Grand Master Upgrades
 
