@@ -18,11 +18,11 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Weapon Minimum Damage | ? |
 | Health | ? |
 | Mana | ? |
-| Strength | +5 Str ? |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 
 ### Chest Armour
 
@@ -32,11 +32,11 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | - | - |
 | Health | ? |
 | Mana | ? |
-| Strength | +5 Str ? |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 
 ### Helmet
 
@@ -46,11 +46,11 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | - | - |
 | Health | ? |
 | Mana | ? |
-| Strength | +5 Str ? |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 
 ## Noam
 
@@ -64,11 +64,11 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Weapon Minimum Damage | ? |
 | Health | ? |
 | Mana | ? |
-| Strength | +5 Str ? |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 
 #### 2nd Upgrade
 
@@ -78,15 +78,15 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Weapon Minimum Damage | ? |
 | Health | ? |
 | Mana | ? |
-| Strength | +5 Str ? |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 | Durability | ? |
 | Weight Reduction | ? |
 | Armour Class | -2 AC |
-| Accuracy | ? |
+| Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
 
@@ -94,23 +94,23 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 
 | Upgrade | Effect |
 | - | - |
-| Weapon Max Damage | +40 Max Damage ? |
+| Weapon Max Damage | +40 Max Damage |
 | Weapon Minimum Damage | ? |
 | Health | ? |
 | Mana | ? |
-| Strength | +5 Str ? |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 | Durability | ? |
 | Weight Reduction | ? |
 | Armour Class | -2 AC |
-| Accuracy | ? |
+| Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
 | Total Weapon Damage | +60 Min Damage, +60 Max Damage |
-| Life Steal | ? |
+| Life Steal | 1% ? |
 
 #### 4th Upgrade
 
@@ -120,20 +120,21 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Weapon Minimum Damage | ? |
 | Health | ? |
 | Mana | ? |
-| Strength | +5 Str ? |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 | Durability | ? |
 | Weight Reduction | ? |
-| Armour Class | ? |
-| Accuracy | ? |
+| Armour Class | -2 AC |
+| Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
 | Total Weapon Damage | +60 Min Damage, +60 Max Damage ? |
-| Life Steal | ? |
+| Life Steal | 1% ? |
 | Spell Line Reduction (Weapon) | -1 Spell Lines |
+| Enchance High Kick <br> (Path of the Monk) | ? |
 | Enhance Wind Blade <br> (Path of the Warrior) | +15% Windblade |
 | Enhance Ioc Spells <br> (Path of the Priest) | ? |
 | Enhance Creag Spells <br> (Path of the Wizard) | ? |
@@ -148,10 +149,10 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 
 #### 2nd Upgrade
 
@@ -160,13 +161,13 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 | Durability | ? |
 | Weight Reduction | ? |
-| Armour Class | -2 AC? |
+| Armour Class | -2 AC |
 | Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
@@ -178,13 +179,13 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 | Durability | ? |
 | Weight Reduction | ? |
-| Armour Class | -2 AC? |
+| Armour Class | -2 AC |
 | Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
@@ -200,26 +201,27 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 | Durability | ? |
 | Weight Reduction | ? |
-| Armour Class | -2 AC? |
+| Armour Class | -2 AC |
 | Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
-| Damage Reduction | ? |
+| Damage Reduction | +2% Physical Damage Reduction |
 | Damage Reduction Pierce | ? |
 | Experience Increase | ? |
 | Drop Rate Increase | +5% |
+| Enchance High Kick <br> (Path of the Monk) | ? |
 | Enhance Wind Blade <br> (Path of the Warrior) | ? |
 | Enhance Ioc Spells <br> (Path of the Priest) | +15% Windblade |
 | Enhance Creag Spells <br> (Path of the Wizard) | ? |
 | Enhance Swift Hand <br> (Path of the Rogue) | +5% Swift Hand |
 
-### Helmet
+### Helmet and Greaves
 
 #### 1st Upgrade
 
@@ -228,10 +230,10 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 
 #### 2nd Upgrade
 
@@ -240,13 +242,13 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 | Durability | ? |
 | Weight Reduction | ? |
-| Armour Class | -2 AC? |
+| Armour Class | -2 AC |
 | Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
@@ -258,13 +260,13 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 | Durability | ? |
 | Weight Reduction | ? |
-| Armour Class | -2 AC? |
+| Armour Class | -2 AC |
 | Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
@@ -276,16 +278,17 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Health | ? |
 | Mana | ? |
 | Strength | +5 Str |
-| Intelligence | +5 Int ? |
-| Wisdom | +5 Wis ? |
-| Constitution | +5 Con ? |
-| Dexterity | +5 Dex ? |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
 | Durability | ? |
 | Weight Reduction | ? |
-| Armour Class | -2 AC? |
+| Armour Class | -2 AC |
 | Accuracy | +5% Accuracy |
 | Hit (Dodge) | ? |
 | Magic Resist | ? |
+| Enchance High Kick <br> (Path of the Monk) | ? |
 | Enhance Wind Blade <br> (Path of the Warrior) | +15% Windblade |
 | Enhance Ioc Spells <br> (Path of the Priest) | ? |
 | Enhance Creag Spells <br> (Path of the Wizard) | ? |
