@@ -38,6 +38,7 @@ Medenian monster resistances vary. As such an average was taken for the results 
 
 | Monster | Phys Dmg reduction (Average)| Mag Dmg Reduction (Average) | Fire <br> resistance| Water <br> resistance | Earth <br> resistance | Wind <br> resistance | Dark <br> resistance | Light <br> resistance |
 | - | - | - | - | - | - | - | - | - |
+| <img src="../../images/sprites/blue_gluber.png"/> <br> Blue Gluber | 24% | 27% | 1% | 500% | 1% | 1% | 20% | 20% |
 | <img src="../../images/sprites/desert_toad.png"/> <br> Desert Toad | 11% | 2% | 100% | 100% | 1% | 1% | 80% | 60% |
 | <img src="../../images/sprites/gangler.png"/> <br> Gangler | 35% | 34% | 100% | 100% | 100% | 100% | 100% | 90% |
 | <img src="../../images/sprites/green_gluber.png"/> <br> Green Gluber | 22% | 23% | 1% | 1% | 50% | 1% | 20% | 20% |
