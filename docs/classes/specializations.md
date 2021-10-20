@@ -55,14 +55,14 @@ Class specializations are permanent choices you make that effect your characters
 | Specialization | Level | Location |
 | - | - | - |
 | Assail (+10%) or Receive Hatchet | ? | Aldair (Mileth) |
-| Assail or Windblade | ? | Aldair (Mileth) |
-| Assault or Windblade | ? | Aldair (Mileth) |
-| Assault or Crith Talun | ? | Aldair (Mileth) |
-| Clobber or Crith Talun | ? | Aldair (Mileth) |
+| Assail or Windblade (+10%) | ? | Aldair (Mileth) |
+| Assault or Windblade (+10%) | ? | Aldair (Mileth) |
+| Assault (+10%) or Crith Talun | ? | Aldair (Mileth) |
+| Clobber (+10%) or Crith Talun | ? | Aldair (Mileth) |
 | Clobber or Crasher (+10%) | ? | Aldair (Mileth) |
 | Wallop or Crasher (+10%) | ? | Aldair (Mileth) |
-| Wallop (10%) or Windblade | ? | Aldair (Mileth) |
-| Wallop or Crith Talun | ? | Aldair (Mileth) |
+| Wallop (+10%) or Windblade (+10%) | ? | Aldair (Mileth) |
+| Wallop (+10%) or Crith Talun | ? | Aldair (Mileth) |
 | Assail & Wallop or Crasher (+30%) | ? | Aldair (Mileth) |
 | Improve Assault (+2%) | ? | Begley (Abel Training Academy) |
 | Improve Assail (+1%) | ? | Keallach (Mileth Combat Skill Master) |
