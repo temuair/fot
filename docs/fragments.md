@@ -171,3 +171,4 @@ Fragments found as a creature drop
 | Pirate | +1 Dex | Weapon | Chunky | Canals - Floor2 Boss' summon |
 | Larvae | +3% Earth Reduction Pierce | Earrings |  | Andor |
 | Worker Ant | +5% Earth Reduction Pierce | Body Armor |  | Andor |
+| Ant Guard | +5% Water Reduction Pierce | Body Armor |  | Andor |
