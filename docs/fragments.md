@@ -170,3 +170,4 @@ Fragments found as a creature drop
 | Heroic Harald | +10% Crasher damage | Weapon |  | Noam Arena |
 | Pirate | +1 Dex | Weapon | Chunky | Canals - Floor2 Boss' summon |
 | Larvae | +3% Earth Reduction Pierce | Earrings |  | Andor |
+| Worker Ant | +5% Earth Reduction Pierce | Body Armor |  | Andor |
