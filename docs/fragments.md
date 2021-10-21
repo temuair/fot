@@ -1,26 +1,20 @@
 # Fragments
 
-Fragments allow you to improve an item
+Fragments may be found as a creature drop or as a reward from a quest.
 
-Fragments gained from completing the Abel Dungeon Trial
-
-| Name | Effect | Equip | Name | Location |
+| Name | Effect | Equip | Prefix/Suffix | Location |
 |  |  |  |  |  |
-| Fragment of Might | +50% Wind Blade Strength | Weapon | of The Mighty | Abel Dungeon Trial (Warrior) |
-| Fragment of Magic | +10% Lamh Damage | Weapon | of the Magician | Abel Dungeon Trial |
-| Fragment of Wisdom | +100% Armachd | Weapon | of Shielding | Abel Dungeon Trial |
-| Fragment of Virtue | +100% Kick Damage | Body Armor | of Low Kick | Abel Dungeon Trial |
-| Fragment of Stealth | +20% Bolt Trap Damage <br> +20% Spring Trap Damage | Body Armor | of Trapping | Abel Dungeon Trial |
-
-Fragments found as a creature drop
-
-| Name | Effect | Equip | Name | Location |
-|  |  |  |  |  |
-| Urach Goblin | +5 Hit (Dodge) | Weapon |  | (Warrior Instance) |
-| Undiam Kobold | +5% Mor Fas Nadur length | Weapon |  | (Wizard Instance) |
-| Alzar Macabre | -5 AC | Weapon | of Alzar's Defense | Alzar's Tower (Priest Instance) |
-| Dubhaim Dunan | +3% Drop Rate | Weapon | Dubhaim Spirit | Dubhaim Crypt (Rogue Instance) |
-| Canal Gloop | +150 HP <br> +1 Str | Belt |  | Canals Floor2 |
+| Might | +50% Wind Blade Strength | Weapon | of the Mighty | Abel Dungeon Trial <br> (Warrior) |
+| Magic | +10% Lamh Damage | Weapon | of the Magician | Abel Dungeon Trial <br> (Wizard) |
+| Wisdom | +100% Armachd | Weapon | of Shielding | Abel Dungeon Trial <br> (Priest) |
+| Virtue | +100% Kick Damage | Body Armor | of Low Kick | Abel Dungeon Trial <br> (Monk) |
+| Stealth | +20% Bolt Trap Damage <br> +20% Spring Trap Damage | Body Armor | of Trapping | Abel Dungeon Trial <br> (Rogue) |
+| Urach Goblin | +5 Hit (Dodge) | Weapon |  | Warrior Instance <br> East Woodlands |
+| Undiam Kobold | +5% Mor Fas Nadur duration | Weapon |  | Wizard Instance <br> Undine Wizard Trainer |
+| Alzar Macabre | -5 AC | Weapon | of Alzar's Defense | Priest Instance <br> Tagor potion shop |
+| Sapphire Guard | +5 DMG | Weapon | of Crystal |  Monk Instance <br> Sapphire Stream |
+| Dubhaim Dunan | +3% Drop Rate | Weapon | Dubhaim Spirit | Rogue Instance <br> Dubhaim Crypt |
+| Canal Gloop | +150 HP <br> +1 Str | Belt |  | Loures Canals: 2nd Floor |
 | Dubhaim Cleric | +2% HP <br> +2% MP | Belt |  | Dubhaim Castle |
 | Flesh Golem | Does not break on death | Belt | of Immortality | Cthonic Realm |
 | Gauntlet Dwarf | 1 AC | Belt |  | Gauntlet |
@@ -32,7 +26,7 @@ Fragments found as a creature drop
 | Bone Collector | +200 HP <br> +2000 Durability | Body Armor |  | Cthonic Realm |
 | Centipede | +25 HP <br> +25 MP | Body Armor | Crawling | Mileth Crypt |
 | Dark Cleric | +500 MP <br> +2000 Durability | Body Armor | of Cleric | Cthonic Realm |
-| Gauntlet Rat | 5 Weight Reduction | Body Armor | ? | Temauir Gauntlet |
+| Gauntlet Rat | 5 Weight Reduction | Body Armor |   | Temauir Gauntlet |
 | Goblin Chief | -1 Spell Lines | Body Armor | of Mind Bending | Ice Caverns in Mt. Giragan |
 | Gorgon |  | Body Armor |  | Nobis: Ruins Altar 1 |
 | GruesomeFly | +1% mana | Body Armor | of Vile Magic | Piet Dungeon |
@@ -49,9 +43,9 @@ Fragments found as a creature drop
 | Mantis | +1 Dex | Boots | Agile/Nimble | EW |
 | Marauder | +2 Dex | Boots | Steady | Mileth Crypt |
 | Nautilus | +250 HP | Boots | Shelled | Lynith Sea |
-| Scurvy Pirate | gold drop increase | Boots | Goldenrod | Pirate Instance |
+| Scurvy Pirate | gold Drop Rate | Boots | Goldenrod | Pirate Instance |
 | Pirate | Gain Extra Gold from Monsters | Weapon |  |  |
-| Shinewood Viper | +3% EXP | Boots | Of Study | Shinewood (Map 9 through 12) |
+| Shinewood Viper | +3% EXP | Boots | of Study | Shinewood <br> Map 9 through 12 |
 | Shrieker | +2% Magic Resistance | Boots | Deaf | East/West Woods |
 | Slug | +100 HP <br> +1 Str | Boots |  | Abel Dungeon |
 | Viper | +25 HP | Boots | Scaled | Garden / Wastelands |
@@ -61,7 +55,7 @@ Fragments found as a creature drop
 | Lich | +3% Drop Rate | Earrings | of Dark Luck | House Macabre |
 | Polyp Sac | +1% EXP | Earrings | of Ethics | Abel Crypt |
 | Unseelie Satyr | -2 Str <br> +3 Int | Earrings |  | Cthonic Realm |
-| Vile Sea Creature | +3 Int <br> +3 Con | Earrings |  | boat to med |
+| Vile Sea Creature | +3 Int <br> +3 Con | Earrings |  | Boat to Medenia |
 | White Bat | +1 Int | Earrings |  | Mileth Crypt |
 | Bat | +3% Wind Resistance | Gauntlets | Winged | Mileth Crypt |
 | Batuss | +350 HP | Gauntlets |  | Chaos |
@@ -76,23 +70,23 @@ Fragments found as a creature drop
 | Glupe | +1 Hit (Dodge) | Gauntlets | Dodgy | Abel Dungeon |
 | Green Gluber | +2% Earth Resistance | Gauntlets |  | Asilon Prairie |
 | Ice Skeleton | +2% EXP | Gauntlets | Hunter | Mount Giragan |
-| Wasp | +75 MP | Gauntlets | Of the wasp | Shinewood (Map 1 through 11) |
+| Wasp | +75 MP | Gauntlets | of the wasp | Shinewood <br> Map 1 through 11 |
 | Kopfloser Rieter | +100 MP <br> +1 Int | Greaves | of Cavalry | Cthonic Realm |
-| Scorpion | +1 Dmg | Greaves | Stinging | Mileth Crypt |
-| Shinewood Mantis | +1% EXP | Greaves | Of the woods | Shinewood |
-| Vile Rodent | +3 Intellect | Greaves | of Vermin | Canals |
+| Scorpion | +1 DMG | Greaves | Stinging | Mileth Crypt |
+| Shinewood Mantis | +1% EXP | Greaves | of the Woods | Shinewood |
+| Vile Rodent | +3 Int | Greaves | of Vermin | Canals |
 | Zombie | +5% Dark Resistance | Greaves |  | House Macabre |
 | Dwarf | +1 Str <br> +1 Con | Helm | of Caverns | Abel Dungeon |
-| Frog | +3% EXP | Helm | Of Knowledge | Mehadi Swamp / Piet Dungeon |
+| Frog | +3% EXP | Helm | of Knowledge | Mehadi Swamp / Piet Dungeon |
 | Ghast | -500 HP <br> +2 Wis  | Helm | of Dark Wisdom | Dubhaim Castle |
 | Goblin | +1 Str | Helm | of Brute | East/West Woods or Pravat Cave |
 | Goblin Guard | +1 Con | Helm |  | Kasmanium Mines |
 | Gold Enigma | +1% Wind Resistance <br> +1% Fire Resistance | Helm |  |  |
-| Grimlock Soldier | +8% drop increase | Helm | Of Luck | Pravat Cave |
-| Grimlock Warrior | +10% drop increase | Helm | of Fortune | Pravat Cave |
-| Grimlock Worker | +4% drop increase | Helm | of Chance | Pravat Cave |
+| Grimlock Soldier | +8% Drop Rate | Helm | of Luck | Pravat Cave |
+| Grimlock Warrior | +10% Drop Rate | Helm | of Fortune | Pravat Cave |
+| Grimlock Worker | +4% Drop Rate | Helm | of Chance | Pravat Cave |
 | Grimlok | +25% Drop Rate | Helm | of Greed | Kas mines |
-| Grimlok Guard | +35% Drop Rate | Helm | Of Treasure | Kas mines |
+| Grimlok Guard | +35% Drop Rate | Helm | of Treasure | Kas mines |
 | Grimlok Soldier | +50% Drop Rate | Helm | of Hoarding | Kas mines |
 | Starfish | +2% Water Resistance | Helm | of the Sea | Lynith Sea |
 | Yellow Cube | +1% Wind Resistance <br> +1% Fire Resistance | Helm | of Burning Wind | Oren |
@@ -105,17 +99,17 @@ Fragments found as a creature drop
 | Ruidhtear | +1% Light Resistance | Necklace |  | Nobis Floor 3 |
 | Scarlet Beetle | +300 MP | Necklace |  | Cthonic Realm |
 | Skeleton | +1 Hit (Ddoge) | Necklace |  | Nobis 2-16 |
-| Srad Deamhan | +10% Fire Resistance | Necklace | of flame | Chaos |
+| Srad Deamhan | +10% Fire Resistance | Necklace | of Flame | Chaos |
 | Succubus | +3 Wis | Necklace | of Siren | Mileth Crypt |
 | Turtle | +5% Water Resistance | Necklace | Bogwater | Piet |
 | Water Elemental | +10% water Resistance | Necklace | Frozen | Ice Caves |
 | Wolf | +100 HP | Necklace | Fierce | East/West Woods |
-| Black Cat | +100 HP <br> +100 MP | Ring | Of the Black Cat | House Macabre |
+| Black Cat | +100 HP <br> +100 MP | Ring | of the Black Cat | House Macabre |
 | Clogad Craidhneach | +2 Str | Ring |  | Chaos |
 | Craidhneach | +1 Str | Ring |  | Chaos |
 | Dark Aisling | +1% HP | Ring | Possessed | Undine Field |
 | Fire Beetalic | +3% Fire Resistance | Ring |  | Nobis Floor 3 |
-| Fragment of Wizard | +1500 MP <br> +5 Int  | Ring | of the wizard | Phoenix creant SW |
+| Fragment of Wizard | +1500 MP <br> +5 Int  | Ring | of the Wizard | Phoenix creant SW |
 | Gargoyle | +2% HP | Ring | Embalmed | Dubhaim Castle |
 | Gargoyle Fiend | +2% MP | Ring |  | Dubhaim Castle |
 | Green Widow | +50 HP <br> +50 MP | Ring | Widowmaker | House Macabre |
@@ -129,7 +123,7 @@ Fragments found as a creature drop
 | Jungle Scorpion | -500 HP <br> +2 AC | Shield |  |  |
 | Orc Soldier | -3 Wis <br> +3 Con | Shield |  | Kasmanium Mines |
 | Spore | +5% Magic Resistance | Shield | Infected | Abel Dungeon |
-| Carnun Champion | +50 Maximum Dmg | Weapon |  | Undine Field |
+| Carnun Champion | +50 Maximum DMG | Weapon |  | Undine Field |
 | Draco Hatchling | 3 Weight Reduction | Weapon |  | Pravat Cave |
 | Dwarf Soldier | +2 Str | Weapon | Sharpened | Abel Dungeon |
 | Fae | +2 Int | Weapon |  | East/West Woods |
@@ -138,7 +132,7 @@ Fragments found as a creature drop
 | Gog | +15 Minimum Weapon Damage | Weapon | of Southpaw | Piet Dungeon |
 | Kabungkl | +3% Vampirisim | Weapon |  | Chaos |
 | Kardi | +5 Weapon Damage | Weapon | of Biting | Mileth Crypt |
-| Kobold | +3 Dmg | Weapon | of Thief | East/West Woods/Astrid |
+| Kobold | +3 DMG | Weapon | of Thief | East/West Woods/Astrid |
 | Leech | +1% Vampirisim | Weapon |  | Mehadi Swamp |
 | Losgann | +3% Drop Rate | Weapon | of Plunder | Chaos |
 | Macabre Zombie | -1 AC | Weapon |  | Priest Solo Dungeon |
@@ -147,8 +141,8 @@ Fragments found as a creature drop
 | Nageteir Dieter | +2% Drop Rate | Weapon |  | Cthonic Realm |
 | Qualgeist (Ghost Baby) | +3000 Durability | Weapon | of Stone Blade | Cthonic Realm |
 | Rock Gobbler | +1000 Durability | Weapon |  | Piet Dungeon |
-| Sapphire Guard | +5 Dmg | Weapon |  | Sapphire stream |
-| Sapphire Guardian | +12 Dmg | Weapon |  | Sapphire stream |
+| Sapphire Guard | +5 DMG | Weapon |  | Sapphire stream |
+| Sapphire Guardian | +12 DMG | Weapon |  | Sapphire stream |
 | Shamansyth Creant | Fragmented weapon is usable by Rogue | Weapon | Enigmatic | Nobis |
 | Shinewood Beetle | +1% EXP | Weapon | Fortified | Shinewood |
 | The Sacrifice | +50 Minimum Damage <br> +50 Maximum Damage | Weapon |  | Nobis |
@@ -172,3 +166,11 @@ Fragments found as a creature drop
 | Larvae | +3% Earth Reduction Pierce | Earrings |  | Andor |
 | Worker Ant | +5% Earth Reduction Pierce | Body Armor |  | Andor |
 | Ant Guard | +5% Water Reduction Pierce | Body Armor |  | Andor |
+
+
+<!-- Include sort types you need -->
+<script src="../javascripts/tablesort.min.js"></script>
+
+<script>
+  document.querySelectorAll('table').forEach(element => new Tablesort(element));
+</script>
