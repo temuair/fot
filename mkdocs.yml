@@ -41,6 +41,7 @@ nav:
   - Quests: quests/overview.md
   - Hunting: hunting.md
   - Knowledge: knowledge/overview.md
+  - Fragments: fragments.md
   - Crafting: crafting/overview.md
   - Spells:
           - Priest: spells/priest.md
