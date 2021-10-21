@@ -14,6 +14,9 @@ Lowering a resist below 0% does not increase damage taken.
 | - | - | - | - | - | - | - | - | - |
 | <img src="../../images/sprites/larva.png"/> <br> Larva  | ¿? | 0% | 51% | 51% | 51% | 51% | 101% | 101% |
 | <img src="../../images/sprites/bullet_ant.png"/> <br> Bullet Ant* | 17% <br> or <br> 90% | 0% | 1% | 1% | 1% | 1% | 101% | 101% |
+| <img src="../../images/sprites/bullet_ant.png"/> <br> Ant Worker | 1% | 1% | 1% | 21% | 51% | 1% | 71% | 71% |
+| <img src="../../images/sprites/ant_guard.png"/> <br> Ant Guard | 1% | 1% | 1% | 51% | 21% | 1% | 21% | 51% |
+
 
 ## Chaos
 
