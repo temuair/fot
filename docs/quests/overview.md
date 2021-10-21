@@ -62,6 +62,7 @@
 | Name | Level | Rewards | Summary |
 | - | - | - | - |
 | [Collect Holy Water](../holy_water) | 5 | LVL\*1000 + COMPLETIONS\*1500 <br> XP and Gold | Collect water from Sapphire Stream for the Mileth Priest |
+| Alzar's Tower | 11+ | Macabre Ore <br> Experience | Venture into Alzar's Tower to recover Macabre Ore. |
 
 ### Rogue
 
