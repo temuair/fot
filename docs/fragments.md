@@ -27,6 +27,10 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 
 ## List
 
+!!! warning
+
+    The following information is still a work in progress!
+
 | Name | Effect | Equip | Prefix/Suffix | Location |
 |  |  |  |  |  |
 | Might | +50% Wind Blade Strength | Weapon | of the Mighty | Abel Dungeon Trial <br> (Warrior) |
