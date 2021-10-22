@@ -2,7 +2,7 @@
 
 - [Armour Crafting](../armour_crafting)
 - [Enchanting](../enchanting)
-- [Fragments](../fragments)
+- [Fragments](../../fragments)
 - [Gem Smithing](../gem_smithing)
 - [Herbalism](../herbalism)
 - [Medenia Upgrades](../medenia_upgrades)
