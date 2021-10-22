@@ -17,6 +17,7 @@ extra_javascript:
         - javascripts/stats_calculator.js
         - javascripts/hp_calculator.js
         - javascripts/mp_calculator.js
+        - javascripts/tablesort.min.js
 
 markdown_extensions:
   - admonition
@@ -41,6 +42,7 @@ nav:
   - Quests: quests/overview.md
   - Hunting: hunting.md
   - Knowledge: knowledge/overview.md
+  - Fragments: fragments.md
   - Crafting: crafting/overview.md
   - Spells:
           - Priest: spells/priest.md
