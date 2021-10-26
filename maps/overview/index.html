@@ -14,7 +14,7 @@
     
     
       
-        <title>Stats Calculator - Aldair's Info</title>
+        <title>Maps and Coords - Aldair's Info</title>
       
     
     
@@ -64,7 +64,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#stats-calculator" class="md-skip">
+        <a href="#maps-and-coordinates" class="md-skip">
           Skip to content
         </a>
       
@@ -96,7 +96,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              Stats Calculator
+              Maps and Coords
             
           </span>
         </div>
@@ -614,11 +614,20 @@
       
 
 
+  
 
-  <li class="md-nav__item">
-    <a href="../../maps/overview/" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
       Maps and Coords
     </a>
+    
   </li>
 
     
@@ -627,14 +636,12 @@
       
 
 
-  
-
 
   
-  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+  <li class="md-nav__item md-nav__item--nested">
     
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-14" type="checkbox" id="nav-14" checked>
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-14" type="checkbox" id="nav-14" >
     
     <label class="md-nav__link" for="nav-14">
       Tools
@@ -653,56 +660,11 @@
           
 
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        Stats Calculator
-        <span class="md-nav__icon md-icon"></span>
-      </label>
-    
-    <a href="./" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../../tools/stats_calculator/" class="md-nav__link">
       Stats Calculator
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#usage" class="md-nav__link">
-    Usage
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#notes" class="md-nav__link">
-    Notes
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-    
   </li>
 
         
@@ -713,7 +675,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../hp_calculator/" class="md-nav__link">
+    <a href="../../tools/hp_calculator/" class="md-nav__link">
       HP Calculator
     </a>
   </li>
@@ -726,7 +688,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../mp_calculator/" class="md-nav__link">
+    <a href="../../tools/mp_calculator/" class="md-nav__link">
       MP Calculator
     </a>
   </li>
@@ -755,28 +717,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#usage" class="md-nav__link">
-    Usage
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#notes" class="md-nav__link">
-    Notes
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -788,72 +728,12 @@
               
                 
                 
-                <h1 id="stats-calculator">Stats Calculator</h1>
-<form id="stats-calculator">
-
-  <label>Class:</label>
-  <select name="class" id="stats-calculator-class">
-    <option value="monk">Monk</option>
-    <option value="priest">Priest</option>
-    <option value="rogue">Rogue</option>
-    <option value="warrior">Warrior</option>
-    <option value="wizard">Wizard</option>
-  </select>
-
-  <br>
-  <label for="stats-calculator-transcended">Transcended:</label>
-  <input type="checkbox" id="stats-calculator-transcended" name="transcended" value="Transcended">
-
-  <br><br>
-
-  Base HP: <input type="text" size="6" value="4000" class="CalculatorInputBox md-typeset" id="stats-calculator-hp">
-
-  <br><br>
-
-  <table class="CalculatorTable">
-
-  <tr>
-  <td></td>
-  <td><center>STR</center></td>
-  <td><center>INT</center></td>
-  <td><center>WIS</center></td>
-  <td><center>CON</center></td>
-  <td><center>DEX</center></td>
-  </tr>
-
-  <tr>
-  <td style="text-align:right">Current:</td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-current-str" value="3"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-current-int" value="3"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-current-wis" value="3"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-current-con" value="3"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-current-dex" value="3"></td>
-  </tr>
-
-  <tr>
-  <td style="text-align:right">Target:</td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-target-str" value="180"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-target-int" value="150"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-target-wis" value="100"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-target-con" value="215"></td>
-  <td><input type="text" size="3" class="CalculatorInputBox md-typeset" id="stats-calculator-target-dex" value="100"></td>
-  </tr>
-  </table>
-
-  <br>
-
-  XP Needed: <input type="text" size="14" readonly class="CalculatorInfoBox md-typeset" id="stats-calculator-experience">
-
-</form>
-
-<p><br>
-<a class="md-button md-button--primary" href="#" id="stats-calculator-button">Calculate</a></p>
-<h2 id="usage">Usage</h2>
-<p>Select your class, select whether or not you're <a href="../../classes/transcending">transcended</a>, enter your base health, and enter your current (base) and target stats. You don't need to enter values for particular stats that you don't want to calculate.</p>
-<h2 id="notes">Notes</h2>
+                <h1 id="maps-and-coordinates">Maps and Coordinates</h1>
 <ul>
-<li>The minimum HP for buying stats with experience is 4000.</li>
-<li>Please see <a href="../../classes/ascending">Ascending</a> for more information.</li>
+<li><a href="../abel_dungeon">Abel Dungeon</a></li>
+<li><a href="../mileth_crypt">Mileth Crypt</a></li>
+<li><a href="../kasmanium">Kasmanium Mines</a></li>
+<li><a href="../asilon">Asilon</a></li>
 </ul>
                 
               
@@ -873,7 +753,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../../maps/overview/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../../armour/all/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -882,19 +762,19 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Maps and Coords
+                All
               </div>
             </div>
           </a>
         
         
-          <a href="../hp_calculator/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../../tools/stats_calculator/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                HP Calculator
+                Stats Calculator
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
