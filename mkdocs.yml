@@ -55,10 +55,7 @@ nav:
           - Wizard: weapons/wizard.md
   - Armour:
           - All: armour/all.md
-  - Maps and Coords:
-          - Mileth Crypt: maps/mileth_crypt.md
-          - Kasmanium Mines: maps/kasmanium.md
-          - Asilon: maps/asilon.md
+  - Maps and Coords: maps/overview.md
   - Tools:
           - Stats Calculator: tools/stats_calculator.md
           - HP Calculator: tools/hp_calculator.md
