@@ -50,4 +50,5 @@ This page is an informal record of Fragments of Temuair's player history. I (Eri
 
 - The following characters witnessed [Law's Demise](https://www.youtube.com/watch?v=wRUIuWESW2I): Rager, Link, Drakeness, Cloud, Gutierrez, Archie, Verran, Pablito, BowJobs, Kobunyi, Eric, Bunyi, Hank, Citti, Ramhu, and Skyfire.
 - Pablito dealt the final blow to Law and release Temuair from The Rift.
+- Many players from Order of the Seraph and Melmacian stop playing the game.
 
