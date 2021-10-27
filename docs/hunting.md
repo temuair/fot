@@ -18,6 +18,7 @@ This is not an exhaustive list of all hunting areas, but rather some recommended
 | Lynith Sea | 31 - 55 | All enemies are passive in entrance. |
 | House Macabre (Nikuru) | 41 - 50 | Nikuru are passive. |
 | Undine Field (North) | 50 - 65 |  |
+| Wraith Pit (Mileth Crypt 20) | 60+ | Instance lasts for 2 hours, and there's a 4 hour cooldown. |
 | Cthonic Remains (11-30) | 61 - 99 |  |
 | Kasmanium Mines | 65 - 99 |  |
 | Ice Caves | 70+ | Very useful place for leeching level 70+ characters. |
