@@ -4,5 +4,5 @@ Transcending your class is as simple as travelling to Medenia and speaking with 
 
 ## Prerequisites
 
-In order to transcend your class, you will need to first become a [Grand Master](../grand_mastering) by defeating each of the four creants of Temuair. You don't need to [max your stats](../ascending), as the cost of buying stats only increases after the stat exceeds the normal "maximum" for that particular stat..
+In order to transcend your class, you will need to first become a [Grand Master](../grand_mastering) by defeating each of the four creants of Temuair. You don't need to [max your stats](../ascending), as the cost of buying stats only increases after the stat exceeds the normal "maximum" for that particular stat. However, you will gain 150 HP and 150 MP with every AB level, which will in turn increase the cost of buying unmaxed stats.
 
