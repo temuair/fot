@@ -101,5 +101,5 @@
 | [Collect Snuzz Fuzz](../heart_of_asilon#collect-snuzz-fuzz) | Transcended | Vegetable Stew <br> 100 AB <br> 100,000 XP | Collect Snuzz Fuzz from Asilon Prairie. |
 | [Relics of Asilon](../heart_of_asilon#relics-of-asilon) | Transcended | Vegetable Stew <br> 1000 AB <br> 2,000,000 Gold | Visit the relics of Asilon Prairie. |
 | [Altars of Asilon](../heart_of_asilon#altars-of-asilon) | Transcended | Vegetable Stew <br> 1000 AB <br> 2,000,000 Gold | Visit the altars of Asilon Prairie. |
-| [Asilon Trials](../heart_of_asilon#asilon-trials) | Transcended (Group) | Heart of Asilon <br> (GM or Medenia Upgrades) | Complete the Asilon Trial to obtain a Heart of Asilon. |
+| [Asilon Trials](../heart_of_asilon#asilon-trials) | Transcended (Group) | Heart of Asilon <br> (GM Upgrades) | Complete the Asilon Trial to obtain a Heart of Asilon. |
 
