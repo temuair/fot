@@ -83,6 +83,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Forest Viper | +3% EXP | Boots | of Study | Shinewood |
 | Fragment of Wizard | +1500 MP <br> +5 Int  | Ring | of the Wizard | Phoenix creant SW |
 | Frog | +3% EXP | Helm | of Knowledge | Mehadi Swamp / Piet Dungeon |
+| Furious Gangler | +6 Str | Weapon | | |
 | Gargoyle | +2% HP | Ring | Embalmed | Dubhaim Castle |
 | Gargoyle Fiend | +2% MP | Ring |  | Dubhaim Castle |
 | Gauntlet Dwarf | -1 AC | Belt |  | Gauntlet |
