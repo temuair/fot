@@ -43,6 +43,7 @@ Class: Paladin
 **Asilon**
 
 - Maximum Weapon Damage (+40)
+- Total Weapon Damage (+60/+60)
 
 **Noam**
 
