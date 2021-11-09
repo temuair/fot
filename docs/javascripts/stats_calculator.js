@@ -1,37 +1,57 @@
 function statsCalculator() {
   /**
-   * Offset backwards by 1 on each value, should be ready like this:
-   * Sum(1) = [0,1) = 0
-   * Sum(10) = [0,10) = 0+1+2+3+4+5+6+7+8+9
-   * Sum(4,6) = [4,6) = 4+5
+   * Calculate sum or difference of sums.
    * @param {Number} n 
    * @param {Number} m 
-   * @returns 
+   * @returns {Number}
    */
-  function Sum(n, m) {
+  function calculateSum(n, m) {
     if (!m) {
       m = n;
       n = 0;
     }
-    return 0.5 * (m - n) * (m + n - 1);
+    return 0.5 * (m - n) * (m + n + 1);
   }
 
-  function PreStatCost(HP, MULT, CURRENT, TARGET) {
-    const XP_MULTIPLIER = HP * MULT;
-    return XP_MULTIPLIER * Sum(CURRENT, TARGET);
+  /**
+   * Before transcendent
+   * @param {Number} hp 
+   * @param {Number} multiplier 
+   * @param {Number} current 
+   * @param {Number} target 
+   * @returns {Number}
+   */
+  function preStatCost(hp, multiplier, current, target) {
+    const x = hp * multiplier;
+    return x * calculateSum(current - 1, target - 1);
   }
 
-  function PostStatCost(CURRENT, TARGET) {
-    return POST_MAX * Sum(CURRENT, TARGET);
+  /**
+   * After transcendent
+   * @param {Number} current 
+   * @param {Number} target 
+   * @returns {Number}
+   */
+  function postStatCost(current, target) {
+    return POST_MAX * calculateSum(current - 1, target - 1);
   }
 
-  function StatCost(HP, MULT, MAX, current, target) {
+  /**
+   * Calculate the cost of a stat based off of HP and transcendent status
+   * @param {Number} hp 
+   * @param {Number} mult 
+   * @param {Number} max 
+   * @param {Number} current 
+   * @param {Number} target 
+   * @returns {Number}
+   */
+  function statCost(hp, mult, max, current, target) {
     let total = 0;
-    if (current <= MAX) {
-      total += PreStatCost(HP, MULT, current, Math.min(target, MAX));
+    if (current <= max) {
+      total += preStatCost(hp, mult, current, Math.min(target, max));
     }
-    if (target > MAX) {
-      total += PostStatCost(Math.max(MAX, current), target);
+    if (target > max) {
+      total += postStatCost(Math.max(max, current), target);
     }
     return total;
   }
@@ -46,11 +66,11 @@ function statsCalculator() {
     warrior: [215, 100, 100, 180, 150],
     wizard: [100, 215, 180, 150, 100]
   };
-  const classSelection = document.getElementById("stats-calculator-class");
-  const transcendedCheckbox = document.getElementById("stats-calculator-transcended");
-  const HPBox = document.getElementById("stats-calculator-hp");
-  const XPBox = document.getElementById("stats-calculator-experience");
-  const calculateButton = document.getElementById("stats-calculator-button");
+  const CLASS_SELECTION = document.getElementById("stats-calculator-class");
+  const TRANSCENDED_CHECKBOX = document.getElementById("stats-calculator-transcended");
+  const HP_BOX = document.getElementById("stats-calculator-hp");
+  const XP_BOX = document.getElementById("stats-calculator-experience");
+  const CALCULATE_BUTTON = document.getElementById("stats-calculator-button");
 
   const CURRENT = [
     "stats-calculator-current-str",
@@ -68,25 +88,25 @@ function statsCalculator() {
   ].map(id => document.getElementById(id));
 
   // Load to Monk by default
-  let MAX_STATS = MAX.monk;
+  let maxStats = MAX.monk;
 
-  classSelection.onchange = function () {
-    MAX_STATS = MAX[classSelection.value];
-    TARGET.forEach((element, i) => element.value = MAX_STATS[i]);
+  CLASS_SELECTION.onchange = function () {
+    maxStats = MAX[CLASS_SELECTION.value];
+    TARGET.forEach((element, i) => element.value = maxStats[i]);
   }
 
-  calculateButton.onclick = function () {
-    const HP = parseInt(HPBox.value);
+  CALCULATE_BUTTON.onclick = function () {
+    const HP = parseInt(HP_BOX.value);
     if (isNaN(HP) || HP <= 0) return;
     const CURRENT_STATS = CURRENT.map(element => parseInt(element.value));
     const TARGET_STATS = TARGET.map(element => parseInt(element.value));
-    const MULTIPLIER = transcendedCheckbox.checked ? POST_TRANSCENDED : PRE_TRANSCENDED;
-    XPBox.value = CURRENT_STATS.reduce((total, CURRENT, i) => {
+    const MULTIPLIER = TRANSCENDED_CHECKBOX.checked ? POST_TRANSCENDED : PRE_TRANSCENDED;
+    XP_BOX.value = CURRENT_STATS.reduce((total, value, i) => {
       const TARGET = TARGET_STATS[i];
-      const MAX = MAX_STATS[i];
-      if (isNaN(CURRENT) || isNaN(TARGET)) return total;
-      if (CURRENT >= TARGET || CURRENT <= 0) return total;
-      return total + StatCost(HP, MULTIPLIER, MAX, CURRENT, TARGET);
+      const MAX = maxStats[i];
+      if (isNaN(value) || isNaN(TARGET)) return total;
+      if (value >= TARGET || value <= 0) return total;
+      return total + statCost(HP, MULTIPLIER, MAX, value, TARGET);
     }, 0).toLocaleString("en-US");
   }
 }
