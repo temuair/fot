@@ -1,130 +1,96 @@
 function statsCalculator() {
+  /**
+   * Offset backwards by 1 on each value, should be ready like this:
+   * Sum(1) = [0,1) = 0
+   * Sum(10) = [0,10) = 0+1+2+3+4+5+6+7+8+9
+   * Sum(4,6) = [4,6) = 4+5
+   * @param {Number} n 
+   * @param {Number} m 
+   * @returns 
+   */
+  function Sum(n, m) {
+    if (!m) {
+      m = n;
+      n = 0;
+    }
+    return 0.5 * (m - n) * (m + n - 1);
+  }
 
-	const classSelection = document.getElementById("stats-calculator-class");
-	const transcendedCheckbox = document.getElementById("stats-calculator-transcended");
-	const HPBox = document.getElementById("stats-calculator-hp");
-	const XPBox = document.getElementById("stats-calculator-experience");
-	const calculateButton = document.getElementById("stats-calculator-button");
+  function PreStatCost(HP, MULT, CURRENT, TARGET) {
+    const XP_MULTIPLIER = HP * MULT;
+    return XP_MULTIPLIER * Sum(CURRENT, TARGET);
+  }
 
-	const currentStrBox = document.getElementById("stats-calculator-current-str");
-	const currentIntBox = document.getElementById("stats-calculator-current-int");
-	const currentWisBox = document.getElementById("stats-calculator-current-wis");
-	const currentConBox = document.getElementById("stats-calculator-current-con");
-	const currentDexBox = document.getElementById("stats-calculator-current-dex");
+  function PostStatCost(CURRENT, TARGET) {
+    return POST_MAX * Sum(CURRENT, TARGET);
+  }
 
-	const targetStrBox = document.getElementById("stats-calculator-target-str");
-	const targetIntBox = document.getElementById("stats-calculator-target-int");
-	const targetWisBox = document.getElementById("stats-calculator-target-wis");
-	const targetConBox = document.getElementById("stats-calculator-target-con");
-	const targetDexBox = document.getElementById("stats-calculator-target-dex");
+  function StatCost(HP, MULT, MAX, current, target) {
+    let total = 0;
+    if (current <= MAX) {
+      total += PreStatCost(HP, MULT, current, Math.min(target, MAX));
+    }
+    if (target > MAX) {
+      total += PostStatCost(Math.max(MAX, current), target);
+    }
+    return total;
+  }
+  // XP Cost Factors:
+  const PRE_TRANSCENDED = 17;
+  const POST_TRANSCENDED = 20;
+  const POST_MAX = 500000;
+  const MAX = {
+    monk: [180, 150, 100, 215, 100],
+    priest: [100, 180, 215, 150, 100],
+    rogue: [180, 100, 100, 150, 215],
+    warrior: [215, 100, 100, 180, 150],
+    wizard: [100, 215, 180, 150, 100]
+  };
+  const classSelection = document.getElementById("stats-calculator-class");
+  const transcendedCheckbox = document.getElementById("stats-calculator-transcended");
+  const HPBox = document.getElementById("stats-calculator-hp");
+  const XPBox = document.getElementById("stats-calculator-experience");
+  const calculateButton = document.getElementById("stats-calculator-button");
 
-	// Stat Arrays
-	const STR = 0;
-	const INT = 1;
-	const WIS = 2;
-	const CON = 3;
-	const DEX = 4;
+  const CURRENT = [
+    "stats-calculator-current-str",
+    "stats-calculator-current-int",
+    "stats-calculator-current-wis",
+    "stats-calculator-current-con",
+    "stats-calculator-current-dex"
+  ].map(id => document.getElementById(id));
+  const TARGET = [
+    "stats-calculator-target-str",
+    "stats-calculator-target-int",
+    "stats-calculator-target-wis",
+    "stats-calculator-target-con",
+    "stats-calculator-target-dex"
+  ].map(id => document.getElementById(id));
 
-	const maxMonk = [180, 150, 100, 215, 100];
-	const maxPriest = [100, 180, 215, 150, 100];
-	const maxRogue = [180, 100, 100, 150, 215];
-	const maxWarrior = [215, 100, 100, 180, 150];
-	const maxWizard = [100, 215, 180, 150, 100];
+  // Load to Monk by default
+  let MAX_STATS = MAX.monk;
 
-	// XP Cost Factors:
-	const PRE_TRANSCENDED = 17;
-	const POST_TRANSCENDED = 20;
-	const POST_MAX = 500000;
+  classSelection.onchange = function () {
+    MAX_STATS = MAX[classSelection.value];
+    TARGET.forEach((element, i) => element.value = MAX_STATS[i]);
+  }
 
-	// Load to Monk by default
-	var maxStats = maxMonk;
-
-	classSelection.onchange = function() {
-
-		var className = classSelection.value
-
-		if (className == "monk") {
-			maxStats = maxMonk;
-		} else if (className == "priest") {
-			maxStats = maxPriest;
-		} else if (className == "rogue") {
-			maxStats = maxRogue;
-		} else if (className == "warrior") {
-			maxStats = maxWarrior;
-		} else if (className == "wizard") {
-			maxStats = maxWizard;
-		}
-
-		targetStrBox.value = maxStats[STR];
-		targetIntBox.value = maxStats[INT];
-		targetWisBox.value = maxStats[WIS];
-		targetConBox.value = maxStats[CON];
-		targetDexBox.value = maxStats[DEX];
-	}
-
-	calculateButton.onclick = function() {
-
-		var hp = parseInt(HPBox.value);
-		var transcended = transcendedCheckbox.checked;
-
-		var currentStr = parseInt(currentStrBox.value);
-		var currentInt = parseInt(currentIntBox.value);
-		var currentWis = parseInt(currentWisBox.value);
-		var currentCon = parseInt(currentConBox.value);
-		var currentDex = parseInt(currentDexBox.value);
-
-		var targetStr = parseInt(targetStrBox.value);
-		var targetInt = parseInt(targetIntBox.value);
-		var targetWis = parseInt(targetWisBox.value);
-		var targetCon = parseInt(targetConBox.value);
-		var targetDex = parseInt(targetDexBox.value);
-
-		var current = [currentStr, currentInt, currentWis, currentCon, currentDex];
-		var target = [targetStr, targetInt, targetWis, targetCon, targetDex];
-
-		if (isNaN(hp) || hp <= 0) { return; }
-
-		total = 0;
-
-		for (let i = 0; i < current.length; i++)
-		{
-			if (isNaN(current[i]) || isNaN(target[i])) { continue; }
-			if (current[i] >= target[i] || current[i] <= 0) { continue; }
-
-			// Pre-Max Part:
-			if (current[i] < maxStats[i])
-			{
-				// Sum of Consequtive Numbers Formula
-				n = Math.min(target[i], maxStats[i]) - current[i];
-				xp = n * (current[i] + (Math.min(target[i], maxStats[i]) - 1)) / 2; // Summation Part
-
-				if (transcended) {
-					xp = xp * hp * POST_TRANSCENDED; // Multiplicative Factor
-				}
-				else {
-					xp = xp * hp * PRE_TRANSCENDED; // Multiplicative Factor
-				}
-			
-				total += xp;
-			}
-
-			// Post-Max Part:
-			// Sum of Consequtive Numbers Formula
-			n = target[i] - Math.max(current[i], maxStats[i]);
-                        xp = n * (Math.max(current[i], maxStats[i]) + (target[i] - 1)) / 2; // Summation Part
-
-			xp = xp * POST_MAX;
-			total += xp;
-
-		}
-
-		XPBox.value = total.toLocaleString("en-US");
-
-	}
-
+  calculateButton.onclick = function () {
+    const HP = parseInt(HPBox.value);
+    if (isNaN(HP) || HP <= 0) return;
+    const CURRENT_STATS = CURRENT.map(element => parseInt(element.value));
+    const TARGET_STATS = TARGET.map(element => parseInt(element.value));
+    const MULTIPLIER = transcendedCheckbox.checked ? POST_TRANSCENDED : PRE_TRANSCENDED;
+    XPBox.value = CURRENT_STATS.reduce((total, CURRENT, i) => {
+      const TARGET = TARGET_STATS[i];
+      const MAX = MAX_STATS[i];
+      if (isNaN(CURRENT) || isNaN(TARGET)) return total;
+      if (CURRENT >= TARGET || CURRENT <= 0) return total;
+      return total + StatCost(HP, MULTIPLIER, MAX, CURRENT, TARGET);
+    }, 0).toLocaleString("en-US");
+  }
 }
 
-if (document.getElementById("stats-calculator") != null) {
-	statsCalculator()
+if (document.getElementById("stats-calculator")) {
+  statsCalculator()
 }
-
