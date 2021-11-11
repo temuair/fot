@@ -17,6 +17,7 @@ extra_javascript:
         - javascripts/stats_calculator.js
         - javascripts/hp_calculator.js
         - javascripts/mp_calculator.js
+        - javascripts/exp_calculator.js
         - javascripts/tablesort.min.js
 
 markdown_extensions:
@@ -60,4 +61,5 @@ nav:
           - Stats Calculator: tools/stats_calculator.md
           - HP Calculator: tools/hp_calculator.md
           - MP Calculator: tools/mp_calculator.md
+          - EXP Calculator: tools/exp_calculator.md
 
