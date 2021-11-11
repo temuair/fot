@@ -47,7 +47,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Black Cube | -1 AC | Gauntlets | of Dark Armour | Oren |
 | Blue Cube | Does not break on death | Necklace | Fortified | Oren |
 | Bone Collector | +200 HP <br> +2000 Durability | Body Armor |  | Cthonic Realm |
-| Bone Dragon | +5000 Durability | Boots | Studded | Chaos |
+| Boned Dragon | +5000 Durability | Boots | Studded | Chaos |
 | Brawlerfish | +1 Con | Gauntlets | Rough | Piet |
 | Canal Gloop | +150 HP <br> +1 Str | Belt |  | Loures Canals: 2nd Floor |
 | Canal Rat | +3% Water Resistance | Gauntlets |  | Canals |
@@ -77,17 +77,20 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Fae | +2 Int | Weapon |  | East/West Woods |
 | Fierce Ruidtear | +1% Physical Damage Reduction <br> +3% Magic Damage Reduction | Earrings |  | Nobis |
 | Fire Beetalic | +3% Fire Resistance | Ring |  | Nobis Floor 3 |
+| Flame Elemental | +1% Sunder Skill | Weapon |  | Chaos |
 | Flatskull | +650 HP <br> +650 MP | Boots | The Horde | Flatskull's Fleet Instance |
 | Flesh Golem | Does not break on death | Belt | of Immortality | Cthonic Realm |
 | Fomorian Horror | -1 Str <br> Do not perish on death | Weapon | of Lock | Cthonic Realm |
 | Forest Viper | +3% EXP | Boots | of Study | Shinewood |
 | Fragment of Wizard | +1500 MP <br> +5 Int  | Ring | of the Wizard | Phoenix creant SW |
 | Frog | +3% EXP | Helm | of Knowledge | Mehadi Swamp / Piet Dungeon |
+| Frost Skeleton | +2% EXP | Gauntlets | | |
 | Furious Gangler | +6 Str | Weapon | | |
+| Gangler | +5 Str | Weapon | | |
 | Gargoyle | +2% HP | Ring | Embalmed | Dubhaim Castle |
 | Gargoyle Fiend | +2% MP | Ring |  | Dubhaim Castle |
 | Gauntlet Dwarf | -1 AC | Belt |  | Gauntlet |
-| Gauntlet Rat | 5 Weight Reduction | Body Armor |   | Temauir Gauntlet |
+| Gauntlet Rat | 5 Weight Reduction | Body Armor |   | Temuair Gauntlet |
 | Ghast | -500 HP <br> +2 Wis  | Helm | of Dark Wisdom | Dubhaim Castle |
 | Ghast Fiend | +500 HP <br> -500 MP | Gauntlets | Grave | Dubhaim Castle |
 | Giragan Wolf | +5 Maximum Weapon Damage | Weapon | of Cold Heart | Mount Giragan |
@@ -116,6 +119,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Hydren | +1% Magic damage Reduction pierce | Earrings | Soft | Chaos |
 | Ice Skeleton | +2% EXP | Gauntlets | Hunter | Mount Giragan |
 | Ifrit | +50% Fire Resistance | Ring |  | Chaos 12-1 |
+| Jungle Centipede | -500 MP <br> -1 AC | Shield | | |
 | Jungle Scorpion | -500 HP <br> -2 AC | Shield |  |  |
 | Kabungkl | +3% Vampirisim | Weapon |  | Chaos |
 | Kardi | +5 DMG | Weapon | of Biting | Mileth Crypt |
@@ -143,8 +147,8 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Nikuru | +1% Earth Resistance | Belt | of Quake | House Macabre |
 | Orc Gaurd | +300 HP | Necklace | Smithed | Kasmanium Mines floor 29 |
 | Orc Soldier | -3 Wis <br> +3 Con | Shield |  | Kasmanium Mines |
+| Orc Warrior | +1 Con | Belt |  | Kasmanium Mines |
 | Pirate | +1 Dex | Weapon | Chunky | Canals - Floor2 Boss' summon |
-| Pirate | Gain Extra Gold from Monsters | Weapon |  |  |
 | Polyp Sac | +1% EXP | Earrings | of Ethics | Abel Crypt |
 | Porboss | +1 Str <br> +1 Con | Belt | of Caverns | Chaos |
 | Puny Sea Creature |  |  |  | boat to med |
@@ -159,7 +163,8 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Scamen | +5% Water element pierce | Boots | Deceitful |  |
 | Scarlet Beetle | +300 MP | Necklace |  | Cthonic Realm |
 | Scorpion | +1 DMG | Greaves | Stinging | Mileth Crypt |
-| Scurvy Pirate | gold Drop Rate | Boots | Goldenrod | Pirate Instance |
+| Scurvy Pirate | Monsters Drop Extra Gold | Boots | Goldenrod | Pirate Instance |
+| Sewer Skrim | +250 HP | Boots | | |
 | Sgraith | +1% EXP | Belt | Wiseman | Chaos |
 | Shamansyth Creant | Fragmented weapon is usable by Rogue | Weapon | Enigmatic | Nobis |
 | Shambler |  |  |  |  |
@@ -168,6 +173,8 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Shinewood Viper | +3% EXP | Boots | of Study | Shinewood <br> Map 9 through 12 |
 | Shrieker | +2% Magic Resistance | Boots | Deaf | East/West Woods |
 | Skeleton | +1 Hit (Ddoge) | Necklace |  | Nobis 2-16 |
+| Skeleton Dragon | +1% MR | Gauntlets | | |
+| Slime | +1000 Durability | Shield |  |  |
 | Slug | +100 HP <br> +1 Str | Boots |  | Abel Dungeon |
 | Solas Warrior | +5% Earth element pierce | Boots |  |  |
 | Spider | +20 MP | Ring | Webbed | Mileth Crypt |
@@ -182,6 +189,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Turtle | +5% Water Resistance | Necklace | Bogwater | Piet |
 | Undiam Kobold | +5% Mor Fas Nadur duration | Weapon |  | Wizard Instance <br> Undine Wizard Trainer |
 | Unseelie Satyr | -2 Str <br> +3 Int | Earrings |  | Cthonic Realm |
+| Unseelie Wisp | +1% EXP | Greaves |  |  |
 | Urach Goblin | +5 Hit (Dodge) | Weapon |  | Warrior Instance <br> East Woodlands |
 | Vicious Victor | +5% Assail damage | Weapon |  | Noam Arena |
 | Vile Rodent | +3 Int | Greaves | of Vermin | Canals |
