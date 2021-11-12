@@ -64,13 +64,12 @@ function expCalculator() {
   }
 
   CALCULATE_BUTTON.onclick = function () {
-    const HP = parseInt(HP_BOX.value);
-    if (isNaN(HP) || HP <= 0) return;
+    const [HP, XP] = [HP_BOX, XP_BOX].map(element => parseInt(element.value.replace(/,/g, '')));
+    if ([HP, XP].some(val => isNaN(val) || val <= 0)) return;
     const MULTIPLIER = TRANSCENDED_CHECKBOX.checked ? POST_TRANSCENDED : PRE_TRANSCENDED;
-    const EXPERIENCE = parseInt(XP_BOX.value.replace(/,/g, ''));
     const BASE_STAT = parseInt(BASE_STAT_BOX.value);
     const MAX_STAT = maxStats[BASE_STAT_TYPE.selectedIndex];
-    FINAL_STAT_BOX.value = statsGained(HP, MULTIPLIER, EXPERIENCE, BASE_STAT, MAX_STAT).toLocaleString("en-US");
+    FINAL_STAT_BOX.value = statsGained(HP, MULTIPLIER, XP, BASE_STAT, MAX_STAT).toLocaleString("en-US");
   }
 }
 

@@ -1,4 +1,4 @@
-# EXP Calculator
+# Stats - Purchasable with EXP
 
 <form id="exp-calculator">
   <table class="CalculatorTable">
@@ -66,7 +66,7 @@
 
 ## Usage
 
-Select whether or not you're [transcended](../../classes/transcending), enter your base health, and enter your current base stat. The final stat is then displayed that you can gain from entering the EXP you have boxed.
+Select your class and the stat you wish to raise (this matters because different classes have different max stats). Select whether or not you're [transcended](../../classes/transcending), enter your base health, and enter your current base stat. After clicking the Calculate button, the "Final Stat" box will display how high you could raise the given stat, assuming you commit all the specified experience towards raising it.
 
 ## Notes
 
