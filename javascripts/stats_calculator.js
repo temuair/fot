@@ -1,64 +1,65 @@
+/**
+ * Calculate sum or difference of sums.
+ * @param {Number} n 
+ * @param {Number} m 
+ * @returns {Number}
+ */
+function calculateSum(n, m) {
+  if (!m) {
+    m = n;
+    n = 0;
+  }
+  return 0.5 * (m - n) * (m + n + 1);
+}
+
+/**
+ * Before transcendent
+ * @param {Number} hp 
+ * @param {Number} multiplier 
+ * @param {Number} current 
+ * @param {Number} target 
+ * @returns {Number}
+ */
+function preStatCost(hp, multiplier, current, target) {
+  const x = hp * multiplier;
+  return x * calculateSum(current - 1, target - 1);
+}
+
+/**
+ * After transcendent
+ * @param {Number} current 
+ * @param {Number} target 
+ * @returns {Number}
+ */
+function postStatCost(current, target) {
+  const POST_MAX = 500000;
+  return POST_MAX * calculateSum(current - 1, target - 1);
+}
+
+/**
+ * Calculate the cost of a stat based off of HP and transcendent status
+ * @param {Number} hp 
+ * @param {Number} mult 
+ * @param {Number} max 
+ * @param {Number} current 
+ * @param {Number} target 
+ * @returns {Number}
+ */
+function statCost(hp, mult, max, current, target) {
+  let total = 0;
+  if (current <= max) {
+    total += preStatCost(hp, mult, current, Math.min(target, max));
+  }
+  if (target > max) {
+    total += postStatCost(Math.max(max, current), target);
+  }
+  return total;
+}
+
 function statsCalculator() {
-  /**
-   * Calculate sum or difference of sums.
-   * @param {Number} n 
-   * @param {Number} m 
-   * @returns {Number}
-   */
-  function calculateSum(n, m) {
-    if (!m) {
-      m = n;
-      n = 0;
-    }
-    return 0.5 * (m - n) * (m + n + 1);
-  }
-
-  /**
-   * Before transcendent
-   * @param {Number} hp 
-   * @param {Number} multiplier 
-   * @param {Number} current 
-   * @param {Number} target 
-   * @returns {Number}
-   */
-  function preStatCost(hp, multiplier, current, target) {
-    const x = hp * multiplier;
-    return x * calculateSum(current - 1, target - 1);
-  }
-
-  /**
-   * After transcendent
-   * @param {Number} current 
-   * @param {Number} target 
-   * @returns {Number}
-   */
-  function postStatCost(current, target) {
-    return POST_MAX * calculateSum(current - 1, target - 1);
-  }
-
-  /**
-   * Calculate the cost of a stat based off of HP and transcendent status
-   * @param {Number} hp 
-   * @param {Number} mult 
-   * @param {Number} max 
-   * @param {Number} current 
-   * @param {Number} target 
-   * @returns {Number}
-   */
-  function statCost(hp, mult, max, current, target) {
-    let total = 0;
-    if (current <= max) {
-      total += preStatCost(hp, mult, current, Math.min(target, max));
-    }
-    if (target > max) {
-      total += postStatCost(Math.max(max, current), target);
-    }
-    return total;
-  }
   // XP Cost Factors:
   const PRE_TRANSCENDED = 17;
   const POST_TRANSCENDED = 20;
-  const POST_MAX = 500000;
   const MAX = {
     monk: [180, 150, 100, 215, 100],
     priest: [100, 180, 215, 150, 100],
