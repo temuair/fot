@@ -1,4 +1,4 @@
-# Stats Calculator
+# Stats - EXP Needed
 
 <form id="stats-calculator">
 
