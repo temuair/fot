@@ -48,7 +48,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Blue Cube | Does not break on death | Necklace | Fortified | Oren |
 | Bone Collector | +200 HP <br> +2000 Durability | Body Armor |  | Cthonic Realm |
 | Boned Dragon | +5000 Durability | Boots | Studded | Chaos |
-| Boney Dragon | +5000 Durability | Greaves | | |
+| Boney Dragon | +5000 Durability | Greaves |  |  |
 | Brawlerfish | +1 Con | Gauntlets | Rough | Piet |
 | Canal Gloop | +150 HP <br> +1 Str | Belt |  | Loures Canals: 2nd Floor |
 | Canal Rat | +3% Water Resistance | Gauntlets |  | Canals |
@@ -77,7 +77,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Enraged Fire Beetalic | +3% Physical Damage Reduction <br> +1% Magic Damage Reduction | Earrings |  | Nobis |
 | Evil Sea Creature | +1 Str <br> +1 Con | Earrings | of Rough Seas | boat to med |
 | Fae | +2 Int | Weapon |  | East/West Woods |
-| Fallen Angel | +150 MP <br> +2 Int | Boots | | |
+| Fallen Angel | +150 MP <br> +2 Int | Boots |  |  |
 | Fierce Ruidtear | +1% Physical Damage Reduction <br> +3% Magic Damage Reduction | Earrings |  | Nobis |
 | Fire Beetalic | +3% Fire Resistance | Ring |  | Nobis Floor 3 |
 | Flame Elemental | +1% Sunder Skill | Weapon |  | Chaos |
@@ -102,7 +102,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Goblin | +1 Str | Helm | of Brute | East/West Woods or Pravat Cave |
 | Goblin Chief | -1 Spell Lines | Body Armor | of Mind Bending | Ice Caverns in Mt. Giragan |
 | Goblin Guard | +1 Con | Helm |  | Kasmanium Mines |
-| Goblin Soldier | +300 HP <br> +1 Str | Greaves | | |
+| Goblin Soldier | -300 HP <br> +1 Str | Greaves |  |  |
 | Goblin Warrior | +200 HP | Belt | Sturdy | West Woodlands 2-1 |
 | Gog | +15 Minimum Weapon Damage | Weapon | of Southpaw | Piet Dungeon |
 | Gold Enigma | +1% Wind Resistance <br> +1% Fire Resistance | Helm |  |  |
@@ -123,7 +123,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Hydren | +1% Magic damage Reduction pierce | Earrings | Soft | Chaos |
 | Ice Skeleton | +2% EXP | Gauntlets | Hunter | Mount Giragan |
 | Ifrit | +50% Fire Resistance | Ring |  | Chaos 12-1 |
-| Invasive Shinewood Mantis | +100 HP <br> +100 MP | | |
+| Invasive Shinewood Mantis | +100 HP <br> +100 MP | Boots |  |  |
 | Jungle Centipede | -500 MP <br> -1 AC | Shield | | |
 | Jungle Scorpion | -500 HP <br> -2 AC | Shield |  |  |
 | Kabungkl | +3% Vampirisim | Weapon |  | Chaos |
@@ -152,6 +152,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Nikuru | +1% Earth Resistance | Belt | of Quake | House Macabre |
 | Orc Gaurd | +300 HP | Necklace | Smithed | Kasmanium Mines floor 29 |
 | Orc Soldier | -3 Wis <br> +3 Con | Shield |  | Kasmanium Mines |
+| Orc Soldier Champion | +2 Str | Gauntlets |  |  |
 | Orc Warrior | +1 Con | Belt |  | Kasmanium Mines |
 | Pirate | +1 Dex | Weapon | Chunky | Canals - Floor2 Boss' summon |
 | Polyp Sac | +1% EXP | Earrings | of Ethics | Abel Crypt |
