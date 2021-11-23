@@ -59,6 +59,47 @@ Medenia upgrades can be obtained by completing quests in Medenia that reward the
 | Constitution | +5 Con |
 | Dexterity | +5 Dex |
 
+#### 2nd Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | -2 AC |
+| Accuracy | +5% Accuracy |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+
+#### 3rd Upgrade
+
+| Upgrade | Effect |
+| - | - |
+| Health | ? |
+| Mana | ? |
+| Strength | +5 Str |
+| Intelligence | +5 Int |
+| Wisdom | +5 Wis |
+| Constitution | +5 Con |
+| Dexterity | +5 Dex |
+| Durability | ? |
+| Weight Reduction | ? |
+| Armour Class | -2 AC |
+| Accuracy | +5% Accuracy |
+| Hit (Dodge) | ? |
+| Magic Resist | ? |
+| Experience Increase | ? |
+| Drop Rate Increase | +5% |
+| Lifesteal | +1% |
+| Enhance Wallop (Path of the Warrior) | ? |
+| Enchance All Spells (Path of the Priest?) | +5% |
+
 ### Helmet
 
 #### 1st Upgrade

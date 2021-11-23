@@ -60,6 +60,12 @@ Class: Paladin
 
 ### Grand Master War Plate
 
+**Asilon**
+
+- Strength (+5 Str)
+- Accuracy (+5% Accuracy)
+- Lifesteal (+1% Lifesteal)
+
 **Noam**
 
 - Strength (+5 Str)

@@ -40,4 +40,6 @@
 | <img src="../../images/sprites/stone_axe.png"/> <br> Giant Stone Axe | 93 | 1 - 200 | -2 AC <br> +2 HIT | | Monster Drop <br> (Undine Field) |
 | <img src="../../images/sprites/hyb_axe.png"/> <br> Hy-Brasyl Battle Axe | 99 | 280 - 300 | | | Monster Drop |
 | <img src="../../images/sprites/dragon_slayer.png"/> <br> Dragon Slayer | 99 | 200 - 250 | -2 STR | | Monster Drop |
+| Caladbolg | AB1 | 345 - 380 | +500 HP <br> +5 Str <br> + 10 DMG <br> +30% Tarraing | | Noam |
+| Sanadbolg | AB8 |  | -2 STR | | Noam |
 

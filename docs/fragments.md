@@ -54,6 +54,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Canal Rat | +3% Water Resistance | Gauntlets |  | Canals |
 | Carnun Champion | +50 Maximum DMG | Weapon |  | Undine Field |
 | Centipede | +25 HP <br> +25 MP | Body Armor | Crawling | Mileth Crypt |
+| Champion Orc Soldier | +2 Str | Gauntlets | | |
 | Cherub | +1 Str | Gauntlets | of Heavens Might | Oren Ruin |
 | Chest | Does not break on death | Boots | Safe | Mileth Crypt |
 | Chief Bloodletter |  |  |  | West Woodlands Instance |
