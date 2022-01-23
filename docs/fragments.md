@@ -126,13 +126,13 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Invasive Shinewood Mantis | +100 HP <br> +100 MP | Boots |  |  |
 | Jungle Centipede | -500 MP <br> -1 AC | Shield | | |
 | Jungle Scorpion | -500 HP <br> -2 AC | Shield |  |  |
-| Kabungkl | +3% Vampirisim | Weapon |  | Chaos |
+| Kabungkl | +3% Vampirism | Weapon |  | Chaos |
 | Kardi | +5 DMG | Weapon | of Biting | Mileth Crypt |
 | Kobold | +3 DMG | Weapon | of Thief | East/West Woods/Astrid |
 | Kopfloser Rieter | +100 MP <br> +1 Int | Greaves | of Cavalry | Cthonic Realm |
 | Kraken | +1 Wis | Earrings | of the Deep | Piet Dungeon |
 | Larvae | +3% Earth Reduction Pierce | Earrings |  | Andor |
-| Leech | +1% Vampirisim | Weapon |  | Mehadi Swamp |
+| Leech | +1% Vampirism | Weapon |  | Mehadi Swamp |
 | Lich | +3% Drop Rate | Earrings | of Dark Luck | House Macabre |
 | Losgann | +3% Drop Rate | Weapon | of Plunder | Chaos |
 | Lost Zombie | +50 HP | Belt | Dim | Old Macabre Pass |
