@@ -209,7 +209,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Wisdom | +100% Armachd | Weapon | of Shielding | Abel Dungeon Trial <br> (Priest) |
 | Wisp | +300 MP | Body Armor | Enchanted | East/West Woods |
 | Wolf | +100 HP | Necklace | Fierce | East/West Woods |
-| Wolf Pup | +5% Drop Rate | Boots |  | Mount Giragan |
+| Wolf Pup | +5% Drop Rate | Boots | of Looter | Mount Giragan |
 | Worker Ant | +5% Earth Reduction Pierce | Body Armor |  | Andor |
 | Wraith | +1 Wis | Ring | of Reaper | Mileth Crypt |
 | Yellow Cube | +1% Wind Resistance <br> +1% Fire Resistance | Helm | of Burning Wind | Oren |
