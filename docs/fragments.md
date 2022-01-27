@@ -38,7 +38,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Name | Effect | Equip | Prefix/Suffix | Location |
 |  |  |  |  |  |
 | Alzar Macabre | -5 AC | Weapon | of Alzar's Defense | Priest Instance <br> Tagor potion shop |
-| Ant Guard | +5% Water Reduction Pierce | Body Armor |  | Andor |
+| Ant Guard | +5% Water Reduction Pierce | Body Armor | of Enforcer | Andor |
 | Aog Ridir | +10% Dark Resistance | Necklace |  | Chaos |
 | Bat | +3% Wind Resistance | Gauntlets | Winged | Mileth Crypt |
 | Batuss | +350 HP | Gauntlets |  | Chaos |
