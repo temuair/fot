@@ -62,6 +62,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Clogad Craidhneach | +2 Str | Ring |  | Chaos |
 | Crab | +200 HP | Gauntlets | Armoured | Piet Dungeon |
 | Craidhneach | +1 Str | Ring |  | Chaos |
+| Cutlass Dave | +7 Str <br> +7 Dex | Weapon |  | Loures Canals: 2nd Floor | 
 | Dark Aisling | +1% HP | Ring | Possessed | Undine Field |
 | Dark Cleric | +500 MP <br> +2000 Durability | Body Armor | of Cleric | Cthonic Realm |
 | Death Knight |  |  |  | Chaos |
