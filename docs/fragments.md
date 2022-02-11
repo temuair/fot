@@ -100,7 +100,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Ghast Fiend | +500 HP <br> -500 MP | Gauntlets | Grave | Dubhaim Castle |
 | Giragan Wolf | +5 Maximum Weapon Damage | Weapon | of Cold Heart | Mount Giragan |
 | Glupe | +1 Hit (Dodge) | Gauntlets | Dodgy | Abel Dungeon |
-| Gnasher | -1000 HP <br> +3 Str | Sheild |  | Oren Ruin |
+| Gnasher | -1000 HP <br> +3 Str | Shield |  | Oren Ruin |
 | Goblin | +1 Str | Helm | of Brute | East/West Woods or Pravat Cave |
 | Goblin Chief | -1 Spell Lines | Body Armor | of Mind Bending | Ice Caverns in Mt. Giragan |
 | Goblin Guard | +1 Con | Helm |  | Kasmanium Mines |
