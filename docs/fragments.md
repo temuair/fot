@@ -89,12 +89,12 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Fragment of Wizard | +1500 MP <br> +5 Int  | Ring | of the Wizard | Phoenix creant SW |
 | Frog | +3% EXP | Helm | of Knowledge | Mehadi Swamp / Piet Dungeon |
 | Frost Skeleton | +2% EXP | Gauntlets | | |
-| Frozen Soldier | +6% Water Reduction Pierce | Gauntlet | Coldbone | Mount Giragan |
+| Frozen Soldier | +6% Water Reduction Pierce | Gauntlets | Coldbone | Mount Giragan |
 | Furious Gangler | +6 Str | Weapon | | |
 | Gangler | +5 Str | Weapon | | |
 | Gargoyle | +2% HP | Ring | Embalmed | Dubhaim Castle |
 | Gargoyle Fiend | +2% MP | Ring |  | Dubhaim Castle |
-| Gauntlet Dwarf | -1 AC | Belt |  | Gauntlet |
+| Gauntlet Dwarf | -1 AC | Belt |  | Gauntlets |
 | Gauntlet Rat | 5 Weight Reduction | Body Armor |   | Temuair Gauntlet |
 | Ghast | -500 HP <br> +2 Wis  | Helm | of Dark Wisdom | Dubhaim Castle |
 | Ghast Fiend | +500 HP <br> -500 MP | Gauntlets | Grave | Dubhaim Castle |
@@ -146,7 +146,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Mdadh-Allaidh |  |  |  | Mount Giragan 21 |
 | Medusa | -1 Spell Lines | Weapon | Swift Cast | Medusa creant |
 | Might | +50% Wind Blade Strength | Weapon | of the Mighty | Abel Dungeon Trial <br> (Warrior) |
-| Molten Skeleton | +1% Fire element pierce | Gauntlet |  | Chaos |
+| Molten Skeleton | +1% Fire element pierce | Gauntlets |  | Chaos |
 | Mouse | +20 HP | Ring | Soiled | Mileth Crypt |
 | Mummy | -3 AC | Weapon |  | Cthonic Realm |
 | Nageteir Dieter | +2% Drop Rate | Weapon |  | Cthonic Realm |
