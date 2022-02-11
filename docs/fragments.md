@@ -89,6 +89,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Fragment of Wizard | +1500 MP <br> +5 Int  | Ring | of the Wizard | Phoenix creant SW |
 | Frog | +3% EXP | Helm | of Knowledge | Mehadi Swamp / Piet Dungeon |
 | Frost Skeleton | +2% EXP | Gauntlets | | |
+| Frozen Soldier | +6% Water Reduction Pierce | Gauntlet | Coldbone | Mount Giragan |
 | Furious Gangler | +6 Str | Weapon | | |
 | Gangler | +5 Str | Weapon | | |
 | Gargoyle | +2% HP | Ring | Embalmed | Dubhaim Castle |
