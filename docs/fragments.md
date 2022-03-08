@@ -38,7 +38,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Name | Effect | Equip | Prefix/Suffix | Location |
 |  |  |  |  |  |
 | Alzar Macabre | -5 AC | Weapon | of Alzar's Defense | Priest Instance <br> Tagor potion shop |
-| Ant Guard | +5% Water Reduction Pierce | Body Armor |  | Andor |
+| Ant Guard | +5% Water Reduction Pierce | Body Armor | of Enforcer | Andor |
 | Aog Ridir | +10% Dark Resistance | Necklace |  | Chaos |
 | Bat | +3% Wind Resistance | Gauntlets | Winged | Mileth Crypt |
 | Batuss | +350 HP | Gauntlets |  | Chaos |
@@ -62,6 +62,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Clogad Craidhneach | +2 Str | Ring |  | Chaos |
 | Crab | +200 HP | Gauntlets | Armoured | Piet Dungeon |
 | Craidhneach | +1 Str | Ring |  | Chaos |
+| Cutlass Dave | +7 Str <br> +7 Dex | Weapon |  | Loures Canals: 2nd Floor | 
 | Dark Aisling | +1% HP | Ring | Possessed | Undine Field |
 | Dark Cleric | +500 MP <br> +2000 Durability | Body Armor | of Cleric | Cthonic Realm |
 | Death Knight |  |  |  | Chaos |
@@ -88,17 +89,18 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Fragment of Wizard | +1500 MP <br> +5 Int  | Ring | of the Wizard | Phoenix creant SW |
 | Frog | +3% EXP | Helm | of Knowledge | Mehadi Swamp / Piet Dungeon |
 | Frost Skeleton | +2% EXP | Gauntlets | | |
+| Frozen Soldier | +6% Water Reduction Pierce | Gauntlets | Coldbone | Mount Giragan |
 | Furious Gangler | +6 Str | Weapon | | |
 | Gangler | +5 Str | Weapon | | |
 | Gargoyle | +2% HP | Ring | Embalmed | Dubhaim Castle |
 | Gargoyle Fiend | +2% MP | Ring |  | Dubhaim Castle |
-| Gauntlet Dwarf | -1 AC | Belt |  | Gauntlet |
+| Gauntlet Dwarf | -1 AC | Belt |  | Gauntlets |
 | Gauntlet Rat | 5 Weight Reduction | Body Armor |   | Temuair Gauntlet |
 | Ghast | -500 HP <br> +2 Wis  | Helm | of Dark Wisdom | Dubhaim Castle |
 | Ghast Fiend | +500 HP <br> -500 MP | Gauntlets | Grave | Dubhaim Castle |
 | Giragan Wolf | +5 Maximum Weapon Damage | Weapon | of Cold Heart | Mount Giragan |
 | Glupe | +1 Hit (Dodge) | Gauntlets | Dodgy | Abel Dungeon |
-| Gnasher | -1000 HP <br> +3 Str | Sheild |  | Oren Ruin |
+| Gnasher | -1000 HP <br> +3 Str | Shield |  | Oren Ruin |
 | Goblin | +1 Str | Helm | of Brute | East/West Woods or Pravat Cave |
 | Goblin Chief | -1 Spell Lines | Body Armor | of Mind Bending | Ice Caverns in Mt. Giragan |
 | Goblin Guard | +1 Con | Helm |  | Kasmanium Mines |
@@ -144,7 +146,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Mdadh-Allaidh |  |  |  | Mount Giragan 21 |
 | Medusa | -1 Spell Lines | Weapon | Swift Cast | Medusa creant |
 | Might | +50% Wind Blade Strength | Weapon | of the Mighty | Abel Dungeon Trial <br> (Warrior) |
-| Molten Skeleton | +1% Fire element pierce | Gauntlet |  | Chaos |
+| Molten Skeleton | +1% Fire element pierce | Gauntlets |  | Chaos |
 | Mouse | +20 HP | Ring | Soiled | Mileth Crypt |
 | Mummy | -3 AC | Weapon |  | Cthonic Realm |
 | Nageteir Dieter | +2% Drop Rate | Weapon |  | Cthonic Realm |
@@ -209,7 +211,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Wisdom | +100% Armachd | Weapon | of Shielding | Abel Dungeon Trial <br> (Priest) |
 | Wisp | +300 MP | Body Armor | Enchanted | East/West Woods |
 | Wolf | +100 HP | Necklace | Fierce | East/West Woods |
-| Wolf Pup | +5% Drop Rate | Boots |  | Mount Giragan |
+| Wolf Pup | +5% Drop Rate | Boots | of Looter | Mount Giragan |
 | Worker Ant | +5% Earth Reduction Pierce | Body Armor |  | Andor |
 | Wraith | +1 Wis | Ring | of Reaper | Mileth Crypt |
 | Yellow Cube | +1% Wind Resistance <br> +1% Fire Resistance | Helm | of Burning Wind | Oren |
