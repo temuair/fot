@@ -158,7 +158,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Orc Soldier Champion | +2 Str | Gauntlets |  |  |
 | Orc Warrior | +1 Con | Belt |  | Kasmanium Mines |
 | Pirate | +1 Dex | Weapon | Chunky | Canals - Floor2 Boss' summon |
-| Plains Fox |  +500 MP -250 HP | | | Noam Plains |
+| Plains Fox |  -250 HP <br> +500 MP | | | Noam Plains |
 | Polyp Sac | +1% EXP | Earrings | of Ethics | Abel Crypt |
 | Porboss | +1 Str <br> +1 Con | Belt | of Caverns | Chaos |
 | Puny Sea Creature |  |  |  | boat to med |
