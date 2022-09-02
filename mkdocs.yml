@@ -47,6 +47,7 @@ nav:
   - Crafting: crafting/overview.md
   - Spells:
           - Priest: spells/priest.md
+          - Wizard: spells/wizard.md
   - Weapons:
           - All: weapons/all.md
           - Monk: weapons/monk.md
