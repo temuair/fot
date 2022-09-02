@@ -52,6 +52,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Brawlerfish | +1 Con | Gauntlets | Rough | Piet |
 | Canal Gloop | +150 HP <br> +1 Str | Belt |  | Loures Canals: 2nd Floor |
 | Canal Rat | +3% Water Resistance | Gauntlets |  | Canals |
+| Canal Marauder | +1 Dex <br> +1 Con | Necklace | | Canals |
 | Carnun Champion | +50 Maximum DMG | Weapon |  | Undine Field |
 | Centipede | +25 HP <br> +25 MP | Body Armor | Crawling | Mileth Crypt |
 | Champion Orc Soldier | +2 Str | Gauntlets | | |
@@ -157,7 +158,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Orc Soldier Champion | +2 Str | Gauntlets |  |  |
 | Orc Warrior | +1 Con | Belt |  | Kasmanium Mines |
 | Pirate | +1 Dex | Weapon | Chunky | Canals - Floor2 Boss' summon |
-| Plains Fox |  +500 MP -250 HP | | | Noam Plains |
+| Plains Fox |  -250 HP <br> +500 MP | | | Noam Plains |
 | Polyp Sac | +1% EXP | Earrings | of Ethics | Abel Crypt |
 | Porboss | +1 Str <br> +1 Con | Belt | of Caverns | Chaos |
 | Puny Sea Creature |  |  |  | boat to med |
