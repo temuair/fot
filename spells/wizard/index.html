@@ -14,7 +14,7 @@
     
     
       
-        <title>HP - Aldair's Info</title>
+        <title>Wizard - Aldair's Info</title>
       
     
     
@@ -64,7 +64,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#hp-calculator" class="md-skip">
+        <a href="#wizard" class="md-skip">
           Skip to content
         </a>
       
@@ -96,7 +96,7 @@
         <div class="md-header-nav__topic">
           <span class="md-ellipsis">
             
-              HP
+              Wizard
             
           </span>
         </div>
@@ -423,12 +423,14 @@
       
 
 
+  
+
 
   
-  <li class="md-nav__item md-nav__item--nested">
+  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
     
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-10" type="checkbox" id="nav-10" >
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-10" type="checkbox" id="nav-10" checked>
     
     <label class="md-nav__link" for="nav-10">
       Spells
@@ -449,7 +451,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../../spells/priest/" class="md-nav__link">
+    <a href="../priest/" class="md-nav__link">
       Priest
     </a>
   </li>
@@ -460,11 +462,20 @@
           
 
 
+  
 
-  <li class="md-nav__item">
-    <a href="../../spells/wizard/" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+      
+    
+    
+    <a href="./" class="md-nav__link md-nav__link--active">
       Wizard
     </a>
+    
   </li>
 
         
@@ -640,14 +651,12 @@
       
 
 
-  
-
 
   
-  <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+  <li class="md-nav__item md-nav__item--nested">
     
     
-      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-14" type="checkbox" id="nav-14" checked>
+      <input class="md-nav__toggle md-toggle" data-md-toggle="nav-14" type="checkbox" id="nav-14" >
     
     <label class="md-nav__link" for="nav-14">
       Calculators
@@ -668,7 +677,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../stats_calculator/" class="md-nav__link">
+    <a href="../../tools/stats_calculator/" class="md-nav__link">
       Stats - EXP Needed
     </a>
   </li>
@@ -681,7 +690,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../exp_calculator/" class="md-nav__link">
+    <a href="../../tools/exp_calculator/" class="md-nav__link">
       Stats - Purchasable
     </a>
   </li>
@@ -692,56 +701,11 @@
           
 
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-      
-    
-    
-      <label class="md-nav__link md-nav__link--active" for="__toc">
-        HP
-        <span class="md-nav__icon md-icon"></span>
-      </label>
-    
-    <a href="./" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../../tools/hp_calculator/" class="md-nav__link">
       HP
     </a>
-    
-      
-<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#usage" class="md-nav__link">
-    Usage
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#notes" class="md-nav__link">
-    Notes
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-    
   </li>
 
         
@@ -752,7 +716,7 @@
 
 
   <li class="md-nav__item">
-    <a href="../mp_calculator/" class="md-nav__link">
+    <a href="../../tools/mp_calculator/" class="md-nav__link">
       MP
     </a>
   </li>
@@ -781,28 +745,6 @@
     
   
   
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of contents
-    </label>
-    <ul class="md-nav__list" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#usage" class="md-nav__link">
-    Usage
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#notes" class="md-nav__link">
-    Notes
-  </a>
-  
-</li>
-      
-    </ul>
-  
 </nav>
                   </div>
                 </div>
@@ -814,36 +756,545 @@
               
                 
                 
-                <h1 id="hp-calculator">HP Calculator</h1>
-<form id="hp-calculator">
-
-  <table class="CalculatorTable">
-  <tr>
-  <td>Current: </td>
-  <td><input type="text" size="6" value="4000" class="CalculatorInputBox md-typeset" id="hp-calculator-current"></td>
-  </tr>
-
-  <tr>
-  <td>Target: </td>
-  <td><input type="text" size="6" value="8000" class="CalculatorInputBox md-typeset" id="hp-calculator-target"></td>
-  </tr>
-
-  </table>
-
-  <br>
-
-  XP Needed: <input type="text" size="14" readonly class="CalculatorInfoBox md-typeset" id="hp-calculator-experience">
-
-</form>
-
-<p><br>
-<a class="md-button md-button--primary" href="#" id="hp-calculator-button">Calculate</a></p>
-<h2 id="usage">Usage</h2>
-<p>Enter your current and target HP. The calculator will attempt to purchase as many 500 HP increments as possible, and then purchase 50 HP increments until it just exceeds your target HP.</p>
-<h2 id="notes">Notes</h2>
-<ul>
-<li>Please see <a href="../../classes/ascending">Ascending</a> for more information.</li>
-</ul>
+                <h1 id="wizard">Wizard</h1>
+<table>
+<thead>
+<tr>
+<th><strong>Name</strong></th>
+<th><strong>Stats</strong></th>
+<th><strong>Location</strong></th>
+<th><strong>Requirements</strong></th>
+<th><strong>Effect</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Smite</td>
+<td>Level 3 <br> 3 5 3 3 3</td>
+<td>Dar (Mileth)</td>
+<td>50 Gold</td>
+<td>Deal minor damage to restore a minor amount of mana</td>
+</tr>
+<tr>
+<td>Beag Sal</td>
+<td>Level 3 <br> 3 4 7 3 5</td>
+<td>Dar (Mileth)</td>
+<td>Raw Wax <br> 1,000 Gold</td>
+<td>Minor Water Damage to single enemy</td>
+</tr>
+<tr>
+<td>Beag Sal lamh</td>
+<td>Level 3 <br> 4 5 13 4 7</td>
+<td>Dar (Mileth)</td>
+<td>Raw Wax <br> Spider's Silk <br> 1,000 Gold <br> Beag Sal 10</td>
+<td>4-way Minor Water Damage around self</td>
+</tr>
+<tr>
+<td>Sal Nadur</td>
+<td>Level 3 <br> 5 5 3 14 3</td>
+<td>Dar (Mileth)</td>
+<td>Fior Sal <br> 50,000 Gold</td>
+<td>Face the enemy who is of a lower level, change their defense to Water. Weak against Earth</td>
+</tr>
+<tr>
+<td>Leasaich Sal</td>
+<td>Level 3 <br> 3 5 13 4 3</td>
+<td>Dar (Mileth)</td>
+<td>Spider's Silk <br> 15,000 Gold</td>
+<td>Gain ability for limited time to gain and use Fiors(mp potions) for this element</td>
+</tr>
+<tr>
+<td>Beag Srad</td>
+<td>Level 3 <br> 6 4 3 3 3</td>
+<td>Dar (Mileth)</td>
+<td>Centipede's Gland <br> 1,000 Gold</td>
+<td>Minor Fire Damage to single enemy</td>
+</tr>
+<tr>
+<td>Beag Srad Lamh</td>
+<td>Level 3 <br> 11 5 3 4 3</td>
+<td>Dar (Mileth)</td>
+<td>Centipede's Gland <br> 1,000 Gold <br> Beag Srad 10</td>
+<td>4-way Minor Fire Damage around self</td>
+</tr>
+<tr>
+<td>Srad Nadur</td>
+<td>Level 3 <br> 4 5 13 4 7</td>
+<td>Dar (Mileth)</td>
+<td>Fior Srad <br> 50,000 Gold</td>
+<td>Face the enemy who is of a lower level, change their defense to Fire. Weak against Water</td>
+</tr>
+<tr>
+<td>Beag Creag</td>
+<td>Level 3 <br> 3 4 3 7 3</td>
+<td>Dar (Mileth)</td>
+<td>Mold <br> 1,000 Gold</td>
+<td>Minor Earth Damage to single enemy</td>
+</tr>
+<tr>
+<td>Beag Creag Lamh</td>
+<td>Level 3 <br> 5 5 3 12 3</td>
+<td>Dar (Mileth)</td>
+<td>Mold <br> Apple <br> 1,000 Gold <br> Beag Creag 10</td>
+<td>4-way Minor Earth Damage around self</td>
+</tr>
+<tr>
+<td>Creag Nadur</td>
+<td>Level 3 <br> 3 5 4 3 14</td>
+<td>Dar (Mileth)</td>
+<td>Fior Creag <br> 50,000 Gold</td>
+<td>Face the enemy who is of a lower level, change their defense to Earth. Weak against Wind</td>
+</tr>
+<tr>
+<td>Leasaich Creag</td>
+<td>Level 3 <br> 3 5 4 13 4</td>
+<td>Dar (Mileth)</td>
+<td>Spider's Silk <br> 15,000 Gold</td>
+<td>Gain ability for limited time to gain and use Fiors(mp potions) for this element</td>
+</tr>
+<tr>
+<td>Beag Athar</td>
+<td>Level 3 <br> 3 4 3 3 7</td>
+<td>Dar (Mileth)</td>
+<td>Viper's Gland <br> 1,000 Gold</td>
+<td>Minor Wind Damage to single enemy</td>
+</tr>
+<tr>
+<td>Beag AtharLamh</td>
+<td>Level 3 <br> 3 4 3 3 12</td>
+<td>Dar (Mileth)</td>
+<td>Viper's Gland <br> Spider's Eye <br> 1,000 Gold <br> Beag Athar 10</td>
+<td>4-way Minor Wind Damage around self</td>
+</tr>
+<tr>
+<td>Athar Nadur</td>
+<td>Level 3 <br> 12 5 3 4 3</td>
+<td>Dar (Mileth)</td>
+<td>Fior Athar <br> 50,000 Gold</td>
+<td>Face the enemy who is of a lower level, change their defense to Wind. Weak against Fire</td>
+</tr>
+<tr>
+<td>Leasaich Athar</td>
+<td>Level 3 <br> 3 5 3 4 13</td>
+<td>Dar (Mileth)</td>
+<td>Spider's Silk <br> 15,000 Gold</td>
+<td>Gain ability for limited time to gain and use Fiors(mp potions) for this element</td>
+</tr>
+<tr>
+<td>Spion Torradh</td>
+<td>Level 3 <br> 3 3 3 3 3</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sal</td>
+<td>Level 6 <br> 4 7 18 5 13</td>
+<td>Dar (Mileth)</td>
+<td>Spider Silk <br> Raw Honey <br> 5,000 Gold <br> Beag Sal 30</td>
+<td>Mild Water Damage to single enemy</td>
+</tr>
+<tr>
+<td>Leasaich Srad</td>
+<td>Level 6 <br> 12 5 3 4 3</td>
+<td>Dar (Mileth)</td>
+<td>Spider's Silk <br> 15,000 Gold</td>
+<td>Gain ability for limited time to gain and use Fiors(mp potions) for this element</td>
+</tr>
+<tr>
+<td>Srad</td>
+<td>Level 6 <br> 17 7 3 6 3</td>
+<td>Dar (Mileth)</td>
+<td>Centipede's Gland <br> Bee's Sting <br> 5,000 Gold <br> Beag Srad 30</td>
+<td>Mild Fire Damage to single enemy</td>
+</tr>
+<tr>
+<td>Creag</td>
+<td>Level 6 <br> 7 7 3 20 3</td>
+<td>Dar (Mileth)</td>
+<td>Mold <br> Wolf's Skin <br> 5,000 Gold <br> Beag Creag 30</td>
+<td>Mild Earth Damage to single enemy</td>
+</tr>
+<tr>
+<td>Athar</td>
+<td>Level 6 <br> 3 7 6 3 20</td>
+<td>Dar (Mileth)</td>
+<td>Viper's Gland <br> Bat's Wing <br> 5,000 Gold <br> Beag Athar 30</td>
+<td>Mild Wind Damage to single enemy</td>
+</tr>
+<tr>
+<td>Strioch Bais</td>
+<td>Level 8 <br> 20 20 20 20 20</td>
+<td>Kobold Shaman (Astrid North West)</td>
+<td>4 Finished Ruby <br> 4 Finished Beryl <br> 4 Finished Coral <br> 500,000 Gold</td>
+<td>Moderate single target Dark Damage. 5k mp to cast</td>
+</tr>
+<tr>
+<td>Mor Strioch Bais</td>
+<td>Level 8 <br> 25 25 25 25 25</td>
+<td>Kobold Shaman (Astrid North West)</td>
+<td>6 Finished Ruby <br> 6 Finished Beryl <br> 6 Finished Coral <br> 1,000,000 Gold</td>
+<td>Strong single target Dark Damage. 5k mp to cast.</td>
+</tr>
+<tr>
+<td>Sal Lamh</td>
+<td>Level 9 <br> 3 8 24 5 14</td>
+<td>Dar (Mileth)</td>
+<td>Raw Honey <br> Spider's Silk <br> 5,000 Gold <br> Sal 60</td>
+<td>4-way Mild Water Damage around self</td>
+</tr>
+<tr>
+<td>Srad Lamh</td>
+<td>Level 9 <br> 20 8 3 7 3</td>
+<td>Dar (Mileth)</td>
+<td>Centipede's Gland <br> 5,000 Gold <br> Srad 60</td>
+<td>4-way Mild Fire Damage around self</td>
+</tr>
+<tr>
+<td>Creag Lamh</td>
+<td>Level 9 <br> 8 8 3 24 3</td>
+<td>Dar (Mileth)</td>
+<td>Mold <br> Wolf's Skin <br> 5,000 Gold <br> Creag 60</td>
+<td>4-way Mild Earth Damage around self</td>
+</tr>
+<tr>
+<td>Athar Lamh</td>
+<td>Level 9 <br> 3 8 7 3 24</td>
+<td>Dar (Mileth)</td>
+<td>Viper's Gland <br> Bat's Wing <br> 5,000 Gold <br> Athar 60</td>
+<td>4-way Mild Wind Damage around self</td>
+</tr>
+<tr>
+<td>Beag Fas Nadur</td>
+<td>Level 10 <br> 6 6 6 6 6</td>
+<td>Valdemar (Undine)</td>
+<td>1 Uncut Ruby <br> 1 Uncut Beryl <br> 1 Uncut Coral <br> 20,000 Gold</td>
+<td>Small elemental amplification. (Most important spells)</td>
+</tr>
+<tr>
+<td>Beag Puinneag Spiorad</td>
+<td>Level 15 <br> 15 15 15 15 15</td>
+<td>Valdemar (Undine)</td>
+<td>5,000 Gold <br> Mor Fas Nadur 30</td>
+<td></td>
+</tr>
+<tr>
+<td>Mor Sal</td>
+<td>Level 20 <br> 10 14 52 10 24</td>
+<td>Valdemar (Undine)</td>
+<td>Wolf's Lock <br> 12,000 Gold <br> Sal 60</td>
+<td>Moderate Water Damage to single enemy</td>
+</tr>
+<tr>
+<td>Sal Meall</td>
+<td>Level 20 <br> 11 19 60 11 26</td>
+<td>Valdemar (Undine)</td>
+<td>Wolf's Lock <br> Amethyst Ring <br> 12,000 Gold <br> Mor Sal 60</td>
+<td>Moderate Water Damage to enemies in a 3x3 area</td>
+</tr>
+<tr>
+<td>Mor Srad</td>
+<td>Level 20 <br> 30 20 8 14 8</td>
+<td>Valdemar (Undine)</td>
+<td>Goblin's Skull <br> 12,000 Gold <br> Srad 60</td>
+<td>Moderate Fire Damage to single enemy</td>
+</tr>
+<tr>
+<td>Srad Meall</td>
+<td>Level 20 <br> 40 19 9 15 9</td>
+<td>Valdemar (Undine)</td>
+<td>Goblin's Skull x2 <br> 12,000 Gold <br> Mor Srad 60</td>
+<td>Moderate Fire Damage to enemies in a 3x3 area</td>
+</tr>
+<tr>
+<td>Mor Creag</td>
+<td>Level 20 <br> 14 14 8 44 8</td>
+<td>Valdemar (Undine)</td>
+<td>1 Finished Ruby <br>   Beryl <br> 12,000 Gold <br> Creag 60</td>
+<td>Moderate Earth Damage to single enemy</td>
+</tr>
+<tr>
+<td>Creag Meall</td>
+<td>Level 20 <br> 14 19 9 51 9</td>
+<td>Valdemar (Undine)</td>
+<td>1 Finished Ruby <br>   Beryl <br> Lapis Ring <br> 12,000 Gold <br> Mor Creag 60</td>
+<td>Moderate Earth Damage to enemies in a 3x3 area</td>
+</tr>
+<tr>
+<td>Mor Athar</td>
+<td>Level 20 <br> 8 14 14 8 42</td>
+<td>Valdemar (Undine)</td>
+<td>1 Finished Ruby <br> Great Bat's Wing <br> 12,000 Gold <br> Athar 60</td>
+<td>Moderate Wind Damage to single enemy</td>
+</tr>
+<tr>
+<td>Athar Meall</td>
+<td>Level 20 <br> 9 19 15 9 46</td>
+<td>Valdemar (Undine)</td>
+<td>Great Bat's Wing x2 <br> 12,000 Gold <br> Mor Athar 60</td>
+<td>Moderate Wind Damage to enemies in a 3x3 area</td>
+</tr>
+<tr>
+<td>Fas Nadur</td>
+<td>Level 28 <br> 8 8 8 8 8</td>
+<td>Valdemar (Undine)</td>
+<td>2 Flawed Ruby <br> 2 Flawed Beryl <br> 2 Flawed Coral <br> 25,000 Gold</td>
+<td>Mild elemental amplification. (Most important spells)</td>
+</tr>
+<tr>
+<td>Sal Gar</td>
+<td>Level 30 <br> 22 34 84 22 43</td>
+<td>Kobold Shaman (Astrid)</td>
+<td>5 Finished Ruby <br> 10 Finished Beryl <br> Coral Earrings x2 <br> 500,000 Gold <br> Ard Sal 60</td>
+<td>Strong Water Damage full screen AOE</td>
+</tr>
+<tr>
+<td>Srad Gar</td>
+<td>Level 30 <br> 72 34 14 21 14</td>
+<td>Kobold Shaman (Astrid North West)</td>
+<td>5 Finished Ruby <br> 10 Finished Beryl <br> Coral Earrings x2 <br> 500,000 Gold <br> Ard Srad 60</td>
+<td>Strong Fire Damage full screen AOE</td>
+</tr>
+<tr>
+<td>Creag Gar</td>
+<td>Level 30 <br> 25 34 15 84 15</td>
+<td>Kobold Shaman (Astrid North West)</td>
+<td>5 Finished Ruby <br> 10 Finished Beryl <br> Coral Earrings x2 <br> 500,000 Gold <br> Ard Creag 60</td>
+<td>Strong Earth Damage full screen AOE</td>
+</tr>
+<tr>
+<td>Athar Gar</td>
+<td>Level 30 <br> 14 34 31 14 78</td>
+<td>Kobold Shaman (Astrid North West)</td>
+<td>5 Finished Ruby <br> 10 Finished Beryl <br> Coral Earrings x2 <br> 500,000 Gold <br> Ard Athar 60</td>
+<td>Strong Wind Damage full screen AOE</td>
+</tr>
+<tr>
+<td>Ard Sal</td>
+<td>Level 34 <br> 16 32 72 16 35</td>
+<td>Valdemar (Undine)</td>
+<td>3 Finished Ruby <br> 6 Finished Beryl <br> Beryl Earrings x2 <br> 50,000 Gold <br> Mor Sal 60</td>
+<td>Strong Water Damage to single enemy</td>
+</tr>
+<tr>
+<td>Ard Srad</td>
+<td>Level 34 <br> 50 50 20 15 19</td>
+<td>Valdemar (Undine)</td>
+<td>3 Finished Ruby <br> 6 Finished Beryl <br> Berly Earrings x2 <br> 50,000 Gold <br> Mor Srad 60</td>
+<td>Strong Fire Damage to single enemy</td>
+</tr>
+<tr>
+<td>Ard Creag</td>
+<td>Level 34 <br> 19 32 12 68 12</td>
+<td>Valdemar (Undine)</td>
+<td>3 Finished Ruby <br> 6 Finished Beryl <br> Beryl Earrings x2 <br> 50,000 Gold <br> Mor Creag 60</td>
+<td>Strong Earth Damage to single enemy</td>
+</tr>
+<tr>
+<td>Ard Athar</td>
+<td>Level 34 <br> 12 32 19 12 62</td>
+<td>Valdemar (Undine)</td>
+<td>3 Finished Ruby <br> 6 Finished Beryl <br> Beryl Earrings x2 <br> 50,000 Gold <br> Mor Athar 60</td>
+<td>Strong Wind Damage to single enemy</td>
+</tr>
+<tr>
+<td>Mor Strioch Bais Lamh</td>
+<td>Level 36 <br> 30 30 30 30 30</td>
+<td>Kobold Shaman (Astrid North West)</td>
+<td>6 Finished Ruby <br> 6 Finished Beryl <br> 6 Finished Coral <br> 2,000,000 Gold</td>
+<td>4-way Strong Dark Damage around self.</td>
+</tr>
+<tr>
+<td>Mor Strioch Bais Meall</td>
+<td>Level 46 <br> 35 35 35 35 35</td>
+<td>Kobold Shaman (Astrid North West)</td>
+<td>6 Finished Ruby <br> 6 Finished Beryl <br> 6 Finished Coral <br> 1,000,000 Gold</td>
+<td>Elemental Damage to enemies in a 3x3 area, based off of mp at cast.. Element is based off of necklace.</td>
+</tr>
+<tr>
+<td>Eileamaideach</td>
+<td>Level 55 <br> 5 40 20 5 5</td>
+<td>Rangvald (Suomi)</td>
+<td>2 Finished Beryl <br> Magus Zeus <br> 15,000 Gold <br> Fas Nadur 30</td>
+<td></td>
+</tr>
+<tr>
+<td>Mor Strioch Pian Gar</td>
+<td>Level 56 <br> 40 40 40 40 40</td>
+<td>Kobold Shaman (Astrid North West)</td>
+<td>6 Finished Ruby <br> 6 Finished Beryl <br> Finished Talos x 6 <br> 5,000,000 Gold</td>
+<td>Elemental full screen AOE. Element is based off of necklace. Takes all mp on cast. Mp when cast affects damage.</td>
+</tr>
+<tr>
+<td>Mor Fas nadur</td>
+<td>Level 58 <br> 14 14 14 14 14</td>
+<td>Valdemar (Undine)</td>
+<td>3 Finished Ruby <br> 3 Finished Beryl <br> 3 Finished Coral <br> 100,000 Gold</td>
+<td>Moderate elemental amplification. (Most important spells)</td>
+</tr>
+<tr>
+<td>Necromancy</td>
+<td>Level 60 <br> 12 5 3 4 3</td>
+<td>Discovered</td>
+<td>Spiders Silk <br> 15,000 Gold</td>
+<td></td>
+</tr>
+<tr>
+<td>Pain Na Dion</td>
+<td>Level Master <br> 3 3 3 3 3</td>
+<td>Gained on mastering at Temple of Choosing (Mileth)</td>
+<td></td>
+<td>Minor damage which goes through dion</td>
+</tr>
+<tr>
+<td>Fas Spiorad</td>
+<td>Level Master <br> 3 3 3 3 3</td>
+<td>Gained on mastering at Temple of Choosing (Mileth)</td>
+<td></td>
+<td>Sacrifice all but 100HP to fill MP</td>
+</tr>
+<tr>
+<td>Wings of Protection</td>
+<td>Level Master <br> 3 3 3 3 3</td>
+<td>Gained on mastering at Temple of Choosing (Mileth)</td>
+<td></td>
+<td>Invulnerability</td>
+</tr>
+<tr>
+<td>Elementalist</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td></td>
+<td>Pure Only <br> 1,000,000 Gold</td>
+<td>Increases the strength of Elemental Gars</td>
+</tr>
+<tr>
+<td>Blink</td>
+<td>Level 99 <br> 50 215 100 50 50</td>
+<td>Asilon Summoner Master</td>
+<td>5,000 Gold</td>
+<td></td>
+</tr>
+<tr>
+<td>Athar Stoirm</td>
+<td>Level 99 <br> 50 200 100 50 150</td>
+<td>Asilon Summoner Master</td>
+<td>1 Borim <br> 2,000,000 Gold <br> Ability 1</td>
+<td></td>
+</tr>
+<tr>
+<td>Sal Eas</td>
+<td>Level 99 <br> 50 100 150 50 50</td>
+<td>Asilon Summoner Master</td>
+<td>Ability 1</td>
+<td></td>
+</tr>
+<tr>
+<td>Teine Srad</td>
+<td>Level 99 <br> 150 100 100 50 50</td>
+<td>Asilon Summoner Master</td>
+<td>Ability 1</td>
+<td></td>
+</tr>
+<tr>
+<td>Creag Thalmhainn</td>
+<td>Level 99 <br> 50 100 100 150 50</td>
+<td>Asilon Summoner Master</td>
+<td>2 Green Glu <br> 2 Pantica <br> 5,000,000 Gold <br> Ability 2</td>
+<td></td>
+</tr>
+<tr>
+<td>Lesser Earth Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>2,500,000 Gold <br> Ability 2</td>
+<td>Short duration buff granting 10% Earth resist</td>
+</tr>
+<tr>
+<td>Lesser Fire Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>2,500,000 Gold <br> Ability 2</td>
+<td>Short duration buff granting 10% Fire resist</td>
+</tr>
+<tr>
+<td>Lesser Water Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>2,500,000 Gold <br> Ability 2</td>
+<td>Short duration buff granting 10% Water resist</td>
+</tr>
+<tr>
+<td>Lesser Wind Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>2,500,000 Gold <br> Ability 2</td>
+<td>Short duration buff granting 10% Wind resist</td>
+</tr>
+<tr>
+<td>Moderate Earth Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>5,000,000 Gold <br> Ability 25</td>
+<td>___ duration buff granting __% Earth resist</td>
+</tr>
+<tr>
+<td>Moderate Fire Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>5,000,000 Gold <br> Ability 25</td>
+<td>___ duration buff granting __% Fire resist</td>
+</tr>
+<tr>
+<td>Moderate Water Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>5,000,000 Gold <br> Ability 25</td>
+<td>___ duration buff granting __% Water resist</td>
+</tr>
+<tr>
+<td>Moderate Wind Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>5,000,000 Gold <br> Ability 25</td>
+<td>___ duration buff granting __% Wind resist</td>
+</tr>
+<tr>
+<td>Banish</td>
+<td>Level 99 <br> 150 400 150 150 150</td>
+<td>Asilon Summoner Master</td>
+<td>Pure Only <br> Gold 5,000 <br> Ability 30</td>
+<td></td>
+</tr>
+<tr>
+<td>Greater Earth Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>10,000,000 Gold <br> Ability 50</td>
+<td>___ duration buff granting __% Earth resist</td>
+</tr>
+<tr>
+<td>Greater Fire Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>10,000,000 Gold <br> Ability 50</td>
+<td>___ duration buff granting __% Fire resist</td>
+</tr>
+<tr>
+<td>Greater Water Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>10,000,000 Gold <br> Ability 50</td>
+<td>___ duration buff granting __% Water resist</td>
+</tr>
+<tr>
+<td>Greater Wind Shield</td>
+<td>Level 99 <br> 3 3 3 3 3</td>
+<td>Asilon Summoner Master</td>
+<td>10,000,000 Gold <br> Ability 50</td>
+<td>___ duration buff granting __% Wind resist</td>
+</tr>
+</tbody>
+</table>
                 
               
               
@@ -862,7 +1313,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid" aria-label="Footer">
         
-          <a href="../exp_calculator/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../priest/" class="md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-footer-nav__button md-icon">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
             </div>
@@ -871,19 +1322,19 @@
                 <span class="md-footer-nav__direction">
                   Previous
                 </span>
-                Stats - Purchasable
+                Priest
               </div>
             </div>
           </a>
         
         
-          <a href="../mp_calculator/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../../weapons/all/" class="md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-footer-nav__title">
               <div class="md-ellipsis">
                 <span class="md-footer-nav__direction">
                   Next
                 </span>
-                MP
+                All
               </div>
             </div>
             <div class="md-footer-nav__button md-icon">
