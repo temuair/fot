@@ -194,6 +194,7 @@ You cannot empower "Enchanted" (Grand Master) gear with "basic rift fragments". 
 | Stealth | +20% Bolt Trap Damage <br> +20% Spring Trap Damage | Body Armor | of Trapping | Abel Dungeon Trial <br> (Rogue) |
 | Stone Golem |  |  |  | Chaos |
 | Succubus | +3 Wis | Necklace | of Siren | Mileth Crypt |
+| Tauren | +50% HP <br> +50% damage taken | Body Armor | Last Stand | Tauren Creant |
 | The Enigma | +5 Int <br> +5 Dex | Body Armor | Shapeshifter | Enigma Room |
 | The Sacrifice | +50 Minimum Damage <br> +50 Maximum Damage | Weapon |  | Nobis |
 | Turtle | +5% Water Resistance | Necklace | Bogwater | Piet |
