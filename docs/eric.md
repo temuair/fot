@@ -53,6 +53,11 @@ Class: Paladin
 
 ### Grand Master War Crown
 
+**Asilon**
+
+- Strength (+5 Str)
+- 1x Accuracy (+5% Accuracy)
+
 **Noam**
 
 - Strength (+5 Str)
