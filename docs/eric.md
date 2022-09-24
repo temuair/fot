@@ -43,7 +43,7 @@ Class: Paladin
 **Asilon**
 
 - Maximum Weapon Damage (+40)
-- Total Weapon Damage (+60/+60)
+- 2x Total Weapon Damage (+120/+120)
 
 **Noam**
 
@@ -56,7 +56,7 @@ Class: Paladin
 **Asilon**
 
 - Strength (+5 Str)
-- 1x Accuracy (+5% Accuracy)
+- 2x Accuracy (+10% Accuracy)
 
 **Noam**
 
